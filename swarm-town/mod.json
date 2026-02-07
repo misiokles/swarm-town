@@ -11,7 +11,7 @@
 	},
 	"changelog" :
 	{
-		"0.20"   : [ "Added native terrain" ]
+		"0.20"   : [ "Added native terrain" ],
 		"0.13"   : [ "Line-up refreshing by Runawayq" ],
 		"0.12"   : [ "Updated to vcmi-1.7 format" ],
 		"0.11"   : [ "Updated to vcmi-1.4 format" ],
