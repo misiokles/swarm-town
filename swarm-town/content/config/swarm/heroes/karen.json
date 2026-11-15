@@ -1,40 +1,44 @@
 {
-	"karen" : 
-	{
-
+	"karen" : {
 		"class" : "queen",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Karen",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "+350 Gold per day",
 				"tooltip" : "{Gold}\r\n\r\nIncreases kingdom's income by 350 gold per day.",
 				"name" : "+350 Gold"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/karen/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/karen/spec-large.png",
 			"large" : "swarm/heroes/karen/portrait-large.png",
 			"small" : "swarm/heroes/karen/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
-		       "viewEarth"
+		"spellbook" : [
+			"viewEarth"
 		],
-                "army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -44,7 +48,7 @@
 				"skill" : "estates"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"gold" : {

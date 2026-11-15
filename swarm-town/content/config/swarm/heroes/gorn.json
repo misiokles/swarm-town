@@ -1,36 +1,47 @@
 {
-	"gorn" : 
-	{
+	"gorn" : {
 		"class" : "queen",
 		"female" : true,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Gorn",
 			"biography" : "Kiedys gorn byl inzynierem na uslugach Eeofolu. Po przegranej wojnie z Erathia uciekl do Deyji, by tam spotkac Kastore'a budujacego swa armie. Zafascynowany technologia Starozytnych bez wahania przylaczyl sie do planu odbudowy Niebianskich Kuzni.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "{Hypnotize}\r\n\r\nCasts Hypnotize with increased effect, based on hero level.",
 				"tooltip" : "Spell Bonus: Hypnotize",
 				"name" : "Hypnotize"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/gorn/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/gorn/spec-large.png",
 			"large" : "swarm/heroes/gorn/portrait-large.png",
 			"small" : "swarm/heroes/gorn/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"spellbook": [ "hypnotize" ],
-		"skills":
-		[
-			{ "skill" : "wisdom", "level": "advanced" }
+		"spellbook" : [
+			"hypnotize"
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "advanced"
+			}
 		],
 		"specialty" : {
 			"bonuses" : {
@@ -44,5 +55,3 @@
 		}
 	}
 }
-
-

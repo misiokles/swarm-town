@@ -1,35 +1,44 @@
 {
-	"gehs" : 
-	{
+	"gehs" : {
 		"class" : "overseer",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Gehs",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Offence}\r\n\r\nReceives a 5% per level bonus to Offence skill.",
 				"tooltip" : "Secondary Skill Bonus: Offence",
 				"name" : "Offence"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/gehs/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/gehs/spec-large.png",
 			"large" : "swarm/heroes/gehs/portrait-large.png",
 			"small" : "swarm/heroes/gehs/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills":
-		[
-			{ "skill" : "offence", "level": "advanced" }
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "advanced"
+			}
 		],
 		"specialty" : {
 			"secondary" : "offence"

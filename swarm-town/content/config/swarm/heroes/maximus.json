@@ -1,41 +1,46 @@
 {
-	"maximus" : 
-	{
+	"maximus" : {
 		"class" : "queen",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Maximus",
 			"biography" : "Niewiele wiadomo o prawej rece krola Deyji - kraza plotki, ze jego twarz zostala zdeformowana przez technologie Niebianskiej Kuzni. Nikt jednak nie moze podwazyc jego mistrzowskich wrecz zdolnosci taktycznych.",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Tactics}\r\n\r\nStarts with Advanced Tactics",
 				"tooltip" : "Adv Tactics",
 				"name" : "Tactics"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/maximus/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/maximus/spec-large.png",
 			"large" : "swarm/heroes/maximus/portrait-large.png",
 			"small" : "swarm/heroes/maximus/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "advanced",
 				"skill" : "tactics"
 			}
 		],
-		
-		"specialty" : {
-		}
+
+		"specialty" : {}
 	}
 }

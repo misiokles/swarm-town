@@ -1,131 +1,131 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "kermap05.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "kermap05.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "kermap05.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "kermap10.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "kermap15.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "kermap20.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "kermap25.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "kermap30.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "kermap35.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "kermap40.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 10,
-            "file": "kermap45.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 11,
-            "file": "kermap50.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 12,
-            "file": "kermap55.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 13,
-            "file": "kermap60.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 14,
-            "file": "kermap65.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 15,
-            "file": "kermap05.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 16,
-            "file": "kermap05.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 17,
-            "file": "kermap05.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        }
-    ],
-    "basepath": "swarm/map/kerrigan2mini/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "kermap05.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "kermap05.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "kermap05.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "kermap10.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "kermap15.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "kermap20.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "kermap25.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "kermap30.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "kermap35.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "kermap40.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "kermap45.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 11,
+			"file" : "kermap50.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 12,
+			"file" : "kermap55.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 13,
+			"file" : "kermap60.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 14,
+			"file" : "kermap65.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 15,
+			"file" : "kermap05.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 16,
+			"file" : "kermap05.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 17,
+			"file" : "kermap05.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		}
+	],
+	"basepath" : "swarm/map/kerrigan2mini/"
 }

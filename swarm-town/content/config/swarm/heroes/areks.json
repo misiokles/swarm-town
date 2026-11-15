@@ -1,38 +1,51 @@
 {
-	"areks" : 
-	{
+	"areks" : {
 		"class" : "queen",
 		"female" : false,
-"texts" :
-		{
+		"texts" : {
 			"name" : "Areks",
 			"biography" : "undetermined.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "Hero can cast the Stone Skin spell with increased effectiveness",
 				"tooltip" : "Spell Bonus: Stone skin",
 				"name" : "Stone Skin"
 			}
 		},
-		"images" :
-		{
-			
+		"images" : {
 			"specialtySmall" : "swarm/heroes/areks/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/areks/spec-large.png",
 			"large" : "swarm/heroes/areks/portrait-large.png",
 			"small" : "swarm/heroes/areks/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"spellbook": [ "stoneSkin" ],
-		"skills":
-		[
-			{ "skill" : "wisdom", "level": "basic" },
-			{ "skill" : "learning", "level": "basic" }
+		"spellbook" : [
+			"stoneSkin"
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "learning",
+				"level" : "basic"
+			}
 		],
 		"specialty" : {
 			"bonuses" : {

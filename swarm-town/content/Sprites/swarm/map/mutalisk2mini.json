@@ -1,130 +1,130 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "mut2map03.png"
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "mut2map04.png"
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "mut2map05.png"
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "mut2map06.png"
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "mut2map07.png"
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "mut2map08.png"
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "mut2map09.png"
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "mut2map10.png"
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "mut2map20.png"
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "mut2map21.png"
-        },
-        {
-            "group": 0,
-            "frame": 10,
-            "file": "mut2map22.png"
-        },
-        {
-            "group": 0,
-            "frame": 11,
-            "file": "mut2map23.png"
-        },
-        {
-            "group": 0,
-            "frame": 12,
-            "file": "mut2map24.png"
-        },
-        {
-            "group": 0,
-            "frame": 13,
-            "file": "mut2map25.png"
-        },
-        {
-            "group": 0,
-            "frame": 14,
-            "file": "mut2map26.png"
-        },
-        {
-            "group": 0,
-            "frame": 15,
-            "file": "mut2map27.png"
-        },
-        {
-            "group": 0,
-            "frame": 16,
-            "file": "mut2map28.png"
-        },
-        {
-            "group": 0,
-            "frame": 17,
-            "file": "mut2map29.png"
-        },
-        {
-            "group": 0,
-            "frame": 18,
-            "file": "mut2map30.png"
-        },
-        {
-            "group": 0,
-            "frame": 19,
-            "file": "mut2map31.png"
-        },
-        {
-            "group": 0,
-            "frame": 20,
-            "file": "mut2map32.png"
-        },
-        {
-            "group": 0,
-            "frame": 21,
-            "file": "mut2map33.png"
-        },
-        {
-            "group": 0,
-            "frame": 22,
-            "file": "mut2map34.png"
-        },
-        {
-            "group": 0,
-            "frame": 23,
-            "file": "mut2map35.png"
-        },
-        {
-            "group": 0,
-            "frame": 24,
-            "file": "mut2map36.png"
-        }
-    ],
-    "basepath": "swarm/map/mutalisk2mini/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "mut2map03.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "mut2map04.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "mut2map05.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "mut2map06.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "mut2map07.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "mut2map08.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "mut2map09.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "mut2map10.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "mut2map20.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "mut2map21.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "mut2map22.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 11,
+			"file" : "mut2map23.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 12,
+			"file" : "mut2map24.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 13,
+			"file" : "mut2map25.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 14,
+			"file" : "mut2map26.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 15,
+			"file" : "mut2map27.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 16,
+			"file" : "mut2map28.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 17,
+			"file" : "mut2map29.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 18,
+			"file" : "mut2map30.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 19,
+			"file" : "mut2map31.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 20,
+			"file" : "mut2map32.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 21,
+			"file" : "mut2map33.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 22,
+			"file" : "mut2map34.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 23,
+			"file" : "mut2map35.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 24,
+			"file" : "mut2map36.png"
+		}
+	],
+	"basepath" : "swarm/map/mutalisk2mini/"
 }

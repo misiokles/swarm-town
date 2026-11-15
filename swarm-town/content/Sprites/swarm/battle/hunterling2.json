@@ -1,670 +1,670 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "hunfly02.png"
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "hunfly10.png"
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "hunfly13.png"
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "hunfly15.png"
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "hunfly17.png"
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "hunfly19.png"
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "hunfly21.png"
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "hunfly23.png"
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "hunfly25.png"
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "hunfly27.png"
-        },
-        {
-            "group": 1,
-            "frame": 0,
-            "file": "hunmoo02.png"
-        },
-        {
-            "group": 1,
-            "frame": 1,
-            "file": "hunmoo12.png"
-        },
-        {
-            "group": 1,
-            "frame": 2,
-            "file": "hunmoo16.png"
-        },
-        {
-            "group": 1,
-            "frame": 3,
-            "file": "hunmoo20.png"
-        },
-        {
-            "group": 1,
-            "frame": 4,
-            "file": "hunmoo24.png"
-        },
-        {
-            "group": 1,
-            "frame": 5,
-            "file": "hunmoo28.png"
-        },
-        {
-            "group": 1,
-            "frame": 6,
-            "file": "hunmoo32.png"
-        },
-        {
-            "group": 1,
-            "frame": 7,
-            "file": "hunmoo36.png"
-        },
-        {
-            "group": 1,
-            "frame": 8,
-            "file": "hunmoo40.png"
-        },
-        {
-            "group": 1,
-            "frame": 9,
-            "file": "hunmoo44.png"
-        },
-        {
-            "group": 1,
-            "frame": 10,
-            "file": "hunmoo48.png"
-        },
-        {
-            "group": 1,
-            "frame": 11,
-            "file": "hunmoo52.png"
-        },
-        {
-            "group": 1,
-            "frame": 12,
-            "file": "hunmoo57.png"
-        },
-        {
-            "group": 1,
-            "frame": 13,
-            "file": "hunmoo60.png"
-        },
-        {
-            "group": 2,
-            "frame": 0,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 1,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 2,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 3,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 4,
-            "file": "hunsta15.png"
-        },
-        {
-            "group": 2,
-            "frame": 5,
-            "file": "hunsta20.png"
-        },
-        {
-            "group": 2,
-            "frame": 6,
-            "file": "hunsta25.png"
-        },
-        {
-            "group": 2,
-            "frame": 7,
-            "file": "hunsta25.png"
-        },
-        {
-            "group": 2,
-            "frame": 8,
-            "file": "hunsta20.png"
-        },
-        {
-            "group": 2,
-            "frame": 9,
-            "file": "hunsta15.png"
-        },
-        {
-            "group": 2,
-            "frame": 10,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 11,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 12,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 13,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 2,
-            "frame": 14,
-            "file": "hunsta03.png"
-        },
-        {
-            "group": 3,
-            "frame": 0,
-            "file": "hunget04.png"
-        },
-        {
-            "group": 3,
-            "frame": 1,
-            "file": "hunget12.png"
-        },
-        {
-            "group": 3,
-            "frame": 2,
-            "file": "hunget13.png"
-        },
-        {
-            "group": 3,
-            "frame": 3,
-            "file": "hunget14.png"
-        },
-        {
-            "group": 3,
-            "frame": 4,
-            "file": "hunget15.png"
-        },
-        {
-            "group": 3,
-            "frame": 5,
-            "file": "hunget14.png"
-        },
-        {
-            "group": 3,
-            "frame": 6,
-            "file": "hunget13.png"
-        },
-        {
-            "group": 3,
-            "frame": 7,
-            "file": "hunget12.png"
-        },
-        {
-            "group": 3,
-            "frame": 8,
-            "file": "hunget04.png"
-        },
-        {
-            "group": 4,
-            "frame": 0,
-            "file": "hundff03.png"
-        },
-        {
-            "group": 4,
-            "frame": 1,
-            "file": "hundff14.png"
-        },
-        {
-            "group": 4,
-            "frame": 2,
-            "file": "hundff18.png"
-        },
-        {
-            "group": 4,
-            "frame": 3,
-            "file": "hundff22.png"
-        },
-        {
-            "group": 4,
-            "frame": 4,
-            "file": "hundff27.png"
-        },
-        {
-            "group": 4,
-            "frame": 5,
-            "file": "hundff30.png"
-        },
-        {
-            "group": 4,
-            "frame": 6,
-            "file": "hundff33.png"
-        },
-        {
-            "group": 4,
-            "frame": 7,
-            "file": "hundff42.png"
-        },
-        {
-            "group": 4,
-            "frame": 8,
-            "file": "hundef15.png"
-        },
-        {
-            "group": 4,
-            "frame": 9,
-            "file": "hundef24.png"
-        },
-        {
-            "group": 4,
-            "frame": 10,
-            "file": "hundef33.png"
-        },
-        {
-            "group": 4,
-            "frame": 11,
-            "file": "hundff03.png"
-        },
-        {
-            "group": 5,
-            "frame": 0,
-            "file": "hundth03.png"
-        },
-        {
-            "group": 5,
-            "frame": 1,
-            "file": "hundth12.png"
-        },
-        {
-            "group": 5,
-            "frame": 2,
-            "file": "hundth14.png"
-        },
-        {
-            "group": 5,
-            "frame": 3,
-            "file": "hundth16.png"
-        },
-        {
-            "group": 5,
-            "frame": 4,
-            "file": "hundth19.png"
-        },
-        {
-            "group": 5,
-            "frame": 5,
-            "file": "hundth21.png"
-        },
-        {
-            "group": 5,
-            "frame": 6,
-            "file": "hundth23.png"
-        },
-        {
-            "group": 5,
-            "frame": 7,
-            "file": "hundth24.png"
-        },
-        {
-            "group": 5,
-            "frame": 8,
-            "file": "hundth25.png"
-        },
-        {
-            "group": 5,
-            "frame": 9,
-            "file": "hundth28.png"
-        },
-        {
-            "group": 5,
-            "frame": 10,
-            "file": "hundth38.png"
-        },
-        {
-            "group": 7,
-            "frame": 0,
-            "file": "hunterling-turn120.png"
-        },
-        {
-            "group": 7,
-            "frame": 1,
-            "file": "hunatd00.png"
-        },
-        {
-            "group": 8,
-            "frame": 0,
-            "file": "hunatd00.png"
-        },
-        {
-            "group": 8,
-            "frame": 1,
-            "file": "hunterling-turn120.png"
-        },
-        {
-            "group": 9,
-            "frame": 0,
-            "file": "hunterling-turn120.png"
-        },
-        {
-            "group": 9,
-            "frame": 1,
-            "file": "hunatd00.png"
-        },
-        {
-            "group": 10,
-            "frame": 0,
-            "file": "hunatd00.png"
-        },
-        {
-            "group": 10,
-            "frame": 1,
-            "file": "hunterling-turn120.png"
-        },
-        {
-            "group": 11,
-            "frame": 0,
-            "file": "hunterling-turn75.png"
-        },
-        {
-            "group": 11,
-            "frame": 1,
-            "file": "hunatu00.png"
-        },
-        {
-            "group": 11,
-            "frame": 2,
-            "file": "hunatu02.png"
-        },
-        {
-            "group": 11,
-            "frame": 3,
-            "file": "hunatu10.png"
-        },
-        {
-            "group": 11,
-            "frame": 4,
-            "file": "hunatu12.png"
-        },
-        {
-            "group": 11,
-            "frame": 5,
-            "file": "hunatu13.png"
-        },
-        {
-            "group": 11,
-            "frame": 6,
-            "file": "hunatu19.png"
-        },
-        {
-            "group": 11,
-            "frame": 7,
-            "file": "hunatu20.png"
-        },
-        {
-            "group": 11,
-            "frame": 8,
-            "file": "hunatu22.png"
-        },
-        {
-            "group": 11,
-            "frame": 9,
-            "file": "hunatu24.png"
-        },
-        {
-            "group": 11,
-            "frame": 10,
-            "file": "hunatu28.png"
-        },
-        {
-            "group": 11,
-            "frame": 11,
-            "file": "hunatu32.png"
-        },
-        {
-            "group": 11,
-            "frame": 12,
-            "file": "hunatu36.png"
-        },
-        {
-            "group": 11,
-            "frame": 13,
-            "file": "hunatu40.png"
-        },
-        {
-            "group": 11,
-            "frame": 14,
-            "file": "hunatu00.png"
-        },
-        {
-            "group": 11,
-            "frame": 15,
-            "file": "hunterling-turn75.png"
-        },
-        {
-            "group": 12,
-            "frame": 0,
-            "file": "hunats03.png"
-        },
-        {
-            "group": 12,
-            "frame": 1,
-            "file": "hunats11.png"
-        },
-        {
-            "group": 12,
-            "frame": 2,
-            "file": "hunats14.png"
-        },
-        {
-            "group": 12,
-            "frame": 3,
-            "file": "hunats15.png"
-        },
-        {
-            "group": 12,
-            "frame": 4,
-            "file": "hunats17.png"
-        },
-        {
-            "group": 12,
-            "frame": 5,
-            "file": "hunats22.png"
-        },
-        {
-            "group": 12,
-            "frame": 6,
-            "file": "hunats25.png"
-        },
-        {
-            "group": 12,
-            "frame": 7,
-            "file": "hunats27.png"
-        },
-        {
-            "group": 12,
-            "frame": 8,
-            "file": "hunats29.png"
-        },
-        {
-            "group": 12,
-            "frame": 9,
-            "file": "hunats34.png"
-        },
-        {
-            "group": 12,
-            "frame": 10,
-            "file": "hunats37.png"
-        },
-        {
-            "group": 12,
-            "frame": 11,
-            "file": "hunats39.png"
-        },
-        {
-            "group": 12,
-            "frame": 12,
-            "file": "hunats48.png"
-        },
-        {
-            "group": 12,
-            "frame": 13,
-            "file": "hunats51.png"
-        },
-        {
-            "group": 13,
-            "frame": 0,
-            "file": "hunterling-turn120.png"
-        },
-        {
-            "group": 13,
-            "frame": 1,
-            "file": "hunatd02.png"
-        },
-        {
-            "group": 13,
-            "frame": 2,
-            "file": "hunatd03.png"
-        },
-        {
-            "group": 13,
-            "frame": 3,
-            "file": "hunatd11.png"
-        },
-        {
-            "group": 13,
-            "frame": 4,
-            "file": "hunatd14.png"
-        },
-        {
-            "group": 13,
-            "frame": 5,
-            "file": "hunatd18.png"
-        },
-        {
-            "group": 13,
-            "frame": 6,
-            "file": "hunatd21.png"
-        },
-        {
-            "group": 13,
-            "frame": 7,
-            "file": "hunatd23.png"
-        },
-        {
-            "group": 13,
-            "frame": 8,
-            "file": "hunatd27.png"
-        },
-        {
-            "group": 13,
-            "frame": 9,
-            "file": "hunatd30.png"
-        },
-        {
-            "group": 13,
-            "frame": 10,
-            "file": "hunatd33.png"
-        },
-        {
-            "group": 13,
-            "frame": 11,
-            "file": "hunatd36.png"
-        },
-        {
-            "group": 13,
-            "frame": 12,
-            "file": "hunatd39.png"
-        },
-        {
-            "group": 13,
-            "frame": 13,
-            "file": "hunatd41.png"
-        },
-        {
-            "group": 13,
-            "frame": 14,
-            "file": "hunatd46.png"
-        },
-        {
-            "group": 13,
-            "frame": 15,
-            "file": "hunatd48.png"
-        },
-        {
-            "group": 13,
-            "frame": 16,
-            "file": "hunatd50.png"
-        },
-        {
-            "group": 13,
-            "frame": 17,
-            "file": "hunterling-turn120.png"
-        },
-        {
-            "group": 20,
-            "frame": 0,
-            "file": "hunsmo14.png"
-        },
-        {
-            "group": 20,
-            "frame": 1,
-            "file": "hunsmo22.png"
-        },
-        {
-            "group": 20,
-            "frame": 2,
-            "file": "hunsmo24.png"
-        },
-        {
-            "group": 21,
-            "frame": 0,
-            "file": "hunstop14.png"
-        },
-        {
-            "group": 21,
-            "frame": 1,
-            "file": "hunstop21.png"
-        },
-        {
-            "group": 21,
-            "frame": 2,
-            "file": "hunstop27.png"
-        }
-    ],
-    "basepath": "swarm/battle/hunterling2/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "hunfly02.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "hunfly10.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "hunfly13.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "hunfly15.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "hunfly17.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "hunfly19.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "hunfly21.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "hunfly23.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "hunfly25.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "hunfly27.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 0,
+			"file" : "hunmoo02.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 1,
+			"file" : "hunmoo12.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 2,
+			"file" : "hunmoo16.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 3,
+			"file" : "hunmoo20.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 4,
+			"file" : "hunmoo24.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 5,
+			"file" : "hunmoo28.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 6,
+			"file" : "hunmoo32.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 7,
+			"file" : "hunmoo36.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 8,
+			"file" : "hunmoo40.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 9,
+			"file" : "hunmoo44.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 10,
+			"file" : "hunmoo48.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 11,
+			"file" : "hunmoo52.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 12,
+			"file" : "hunmoo57.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 13,
+			"file" : "hunmoo60.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 0,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 1,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 2,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 3,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 4,
+			"file" : "hunsta15.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 5,
+			"file" : "hunsta20.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 6,
+			"file" : "hunsta25.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 7,
+			"file" : "hunsta25.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 8,
+			"file" : "hunsta20.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 9,
+			"file" : "hunsta15.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 10,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 11,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 12,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 13,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 14,
+			"file" : "hunsta03.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 0,
+			"file" : "hunget04.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 1,
+			"file" : "hunget12.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 2,
+			"file" : "hunget13.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 3,
+			"file" : "hunget14.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 4,
+			"file" : "hunget15.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 5,
+			"file" : "hunget14.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 6,
+			"file" : "hunget13.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 7,
+			"file" : "hunget12.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 8,
+			"file" : "hunget04.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 0,
+			"file" : "hundff03.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 1,
+			"file" : "hundff14.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 2,
+			"file" : "hundff18.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 3,
+			"file" : "hundff22.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 4,
+			"file" : "hundff27.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 5,
+			"file" : "hundff30.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 6,
+			"file" : "hundff33.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 7,
+			"file" : "hundff42.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 8,
+			"file" : "hundef15.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 9,
+			"file" : "hundef24.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 10,
+			"file" : "hundef33.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 11,
+			"file" : "hundff03.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 0,
+			"file" : "hundth03.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 1,
+			"file" : "hundth12.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 2,
+			"file" : "hundth14.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 3,
+			"file" : "hundth16.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 4,
+			"file" : "hundth19.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 5,
+			"file" : "hundth21.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 6,
+			"file" : "hundth23.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 7,
+			"file" : "hundth24.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 8,
+			"file" : "hundth25.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 9,
+			"file" : "hundth28.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 10,
+			"file" : "hundth38.png"
+		},
+		{
+			"group" : 7,
+			"frame" : 0,
+			"file" : "hunterling-turn120.png"
+		},
+		{
+			"group" : 7,
+			"frame" : 1,
+			"file" : "hunatd00.png"
+		},
+		{
+			"group" : 8,
+			"frame" : 0,
+			"file" : "hunatd00.png"
+		},
+		{
+			"group" : 8,
+			"frame" : 1,
+			"file" : "hunterling-turn120.png"
+		},
+		{
+			"group" : 9,
+			"frame" : 0,
+			"file" : "hunterling-turn120.png"
+		},
+		{
+			"group" : 9,
+			"frame" : 1,
+			"file" : "hunatd00.png"
+		},
+		{
+			"group" : 10,
+			"frame" : 0,
+			"file" : "hunatd00.png"
+		},
+		{
+			"group" : 10,
+			"frame" : 1,
+			"file" : "hunterling-turn120.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 0,
+			"file" : "hunterling-turn75.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 1,
+			"file" : "hunatu00.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 2,
+			"file" : "hunatu02.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 3,
+			"file" : "hunatu10.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 4,
+			"file" : "hunatu12.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 5,
+			"file" : "hunatu13.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 6,
+			"file" : "hunatu19.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 7,
+			"file" : "hunatu20.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 8,
+			"file" : "hunatu22.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 9,
+			"file" : "hunatu24.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 10,
+			"file" : "hunatu28.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 11,
+			"file" : "hunatu32.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 12,
+			"file" : "hunatu36.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 13,
+			"file" : "hunatu40.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 14,
+			"file" : "hunatu00.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 15,
+			"file" : "hunterling-turn75.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 0,
+			"file" : "hunats03.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 1,
+			"file" : "hunats11.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 2,
+			"file" : "hunats14.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 3,
+			"file" : "hunats15.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 4,
+			"file" : "hunats17.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 5,
+			"file" : "hunats22.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 6,
+			"file" : "hunats25.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 7,
+			"file" : "hunats27.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 8,
+			"file" : "hunats29.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 9,
+			"file" : "hunats34.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 10,
+			"file" : "hunats37.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 11,
+			"file" : "hunats39.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 12,
+			"file" : "hunats48.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 13,
+			"file" : "hunats51.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 0,
+			"file" : "hunterling-turn120.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 1,
+			"file" : "hunatd02.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 2,
+			"file" : "hunatd03.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 3,
+			"file" : "hunatd11.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 4,
+			"file" : "hunatd14.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 5,
+			"file" : "hunatd18.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 6,
+			"file" : "hunatd21.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 7,
+			"file" : "hunatd23.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 8,
+			"file" : "hunatd27.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 9,
+			"file" : "hunatd30.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 10,
+			"file" : "hunatd33.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 11,
+			"file" : "hunatd36.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 12,
+			"file" : "hunatd39.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 13,
+			"file" : "hunatd41.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 14,
+			"file" : "hunatd46.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 15,
+			"file" : "hunatd48.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 16,
+			"file" : "hunatd50.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 17,
+			"file" : "hunterling-turn120.png"
+		},
+		{
+			"group" : 20,
+			"frame" : 0,
+			"file" : "hunsmo14.png"
+		},
+		{
+			"group" : 20,
+			"frame" : 1,
+			"file" : "hunsmo22.png"
+		},
+		{
+			"group" : 20,
+			"frame" : 2,
+			"file" : "hunsmo24.png"
+		},
+		{
+			"group" : 21,
+			"frame" : 0,
+			"file" : "hunstop14.png"
+		},
+		{
+			"group" : 21,
+			"frame" : 1,
+			"file" : "hunstop21.png"
+		},
+		{
+			"group" : 21,
+			"frame" : 2,
+			"file" : "hunstop27.png"
+		}
+	],
+	"basepath" : "swarm/battle/hunterling2/"
 }

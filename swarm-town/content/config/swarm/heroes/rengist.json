@@ -1,36 +1,41 @@
 {
-	"rengist" : 
-	{
+	"rengist" : {
 		"class" : "queen",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Rengist",
-			"biography" : "Jego bratem byl Winston Boragus. Po dojsciu do wladzy Kilgora, Rengist zdal sobie sprawe, ze jesli nie chce podzielic losu swojego brata, to musi opuscic Krewlod. Zdecydowal sie dolaczyc do tworzonej przez Kastore'a armii, liczac na to, ze z pomoca nowej technologii uda mu sie pomscic brata.", 
-			"specialty" :
-			{
+			"biography" : "Jego bratem byl Winston Boragus. Po dojsciu do wladzy Kilgora, Rengist zdal sobie sprawe, ze jesli nie chce podzielic losu swojego brata, to musi opuscic Krewlod. Zdecydowal sie dolaczyc do tworzonej przez Kastore'a armii, liczac na to, ze z pomoca nowej technologii uda mu sie pomscic brata.",
+			"specialty" : {
 				"description" : "{Protective Droids and Battle Droids}\r\n\r\nIncreases Speed of any Protective Droids or Battle Droids by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up)",
 				"tooltip" : "Creature Bonus: Protective Droids",
 				"name" : "Protective Droids"
 			}
 		},
-		"images" :
-		{
-			
+		"images" : {
 			"specialtySmall" : "swarm/heroes/rengist/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/rengist/spec-large.png",
 			"large" : "swarm/heroes/rengist/portrait-large.png",
 			"small" : "swarm/heroes/rengist/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "queen1", "min" : 1, "max" : 3 },
-			{ "creature" : "queen1", "min" : 1, "max" : 2 },
-			{ "creature" : "queen1", "min" : 1, "max" : 1}
+		"army" : [
+			{
+				"creature" : "queen1",
+				"min" : 1,
+				"max" : 3
+			},
+			{
+				"creature" : "queen1",
+				"min" : 1,
+				"max" : 2
+			},
+			{
+				"creature" : "queen1",
+				"min" : 1,
+				"max" : 1
+			}
 		],
 
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "logistics"
@@ -40,7 +45,7 @@
 				"skill" : "scouting"
 			}
 		],
-		
+
 		"specialty" : {
 			"creature" : "queen1"
 		}

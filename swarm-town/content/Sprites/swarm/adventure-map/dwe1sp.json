@@ -1,40 +1,40 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "dwe1sp01.png"
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "dwe1sp03.png"
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "dwe1sp05.png"
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "dwe1sp07.png"
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "dwe1sp05.png"
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "dwe1sp03.png"
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "dwe1sp01.png"
-        }
-    ],
-    "basepath": "swarm/adventure-map/dwe1sp/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "dwe1sp01.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "dwe1sp03.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "dwe1sp05.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "dwe1sp07.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "dwe1sp05.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "dwe1sp03.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "dwe1sp01.png"
+		}
+	],
+	"basepath" : "swarm/adventure-map/dwe1sp/"
 }

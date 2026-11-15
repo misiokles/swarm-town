@@ -1,36 +1,41 @@
 {
-	"izsha" :
-	{
+	"izsha" : {
 		"class" : "queen",
 		"female" : false,
 
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Ihan",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Crystal + 1}\r\n\r\nIncreases kingdom's income by 1 crystal per day",
 				"tooltip" : "+1 Crystal each day",
 				"name" : "+1 Crystals"
 			}
 		},
-		"images" :
-		{
-			
+		"images" : {
 			"specialtySmall" : "swarm/heroes/izsha/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/izsha/spec-large.png",
 			"large" : "swarm/heroes/izsha/portrait-large.png",
 			"small" : "swarm/heroes/izsha/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -40,7 +45,7 @@
 				"skill" : "eagleEye"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"crystal" : {

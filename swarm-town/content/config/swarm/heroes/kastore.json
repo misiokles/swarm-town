@@ -1,38 +1,43 @@
 {
-	"kastore" : 
-	{
+	"kastore" : {
 		"class" : "queen",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Kastore",
 			"biography" : "Kastore nie chce wyjawic swoim poddanym jego pochodzenia. Wiadomo natomiast, ze jest poteznym elfem-czarnoksieznikiem znajacym wiele sekretow Starozytnych. Przed powstaniem Niebianskich Kuzni byl krolem Dejii. Planuje zdobyc swiat przy pomocy Starozytnej broni i w dazeniu do celu nie cofnie sie przed niczym.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "{Chain Lightning}\r\n\r\nCasts Chain Lightning with increased effect, based on hero level.",
 				"tooltip" : "Spell Bonus: Chain Lightning",
 				"name" : "Chain Lightning"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/kastore/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/kastore/spec-large.png",
 			"large" : "swarm/heroes/kastore/portrait-large.png",
 			"small" : "swarm/heroes/kastore/portrait-small.png"
 		},
-		"spellbook" :
-		[
-			"chainLightning"		
-                ],
-               "army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"spellbook" : [
+			"chainLightning"
 		],
-		"skills" :
-		[
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
+		],
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "archery"
@@ -42,7 +47,7 @@
 				"skill" : "luck"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"chainLightning" : {

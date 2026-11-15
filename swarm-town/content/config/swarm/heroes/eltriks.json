@@ -1,35 +1,44 @@
 {
-	"eltriks" : 
-	{
+	"eltriks" : {
 		"class" : "overseer",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Eltriks",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Resistance}\r\n\r\nReceives a 5% per level bonus to Resistance skill.",
 				"tooltip" : "Secondary Skill Bonus: Resistance",
 				"name" : "Resistance"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/eltriks/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/eltriks/spec-large.png",
 			"large" : "swarm/heroes/eltriks/portrait-large.png",
 			"small" : "swarm/heroes/eltriks/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills":
-		[
-			{ "skill" : "resistance", "level": "advanced" }
+		"skills" : [
+			{
+				"skill" : "resistance",
+				"level" : "advanced"
+			}
 		],
 		"specialty" : {
 			"secondary" : "resistance"

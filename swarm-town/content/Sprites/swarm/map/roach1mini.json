@@ -1,173 +1,173 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "roamap06.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "roamap09.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "roamap12.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "roamap15.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "roamap18.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 10,
-            "file": "roamap21.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 11,
-            "file": "roamap24.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 12,
-            "file": "roamap27.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 13,
-            "file": "roamap30.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 14,
-            "file": "roamap33.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 15,
-            "file": "roamap36.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 16,
-            "file": "roamap39.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 17,
-            "file": "roamap42.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 18,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 19,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 20,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 21,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 22,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 23,
-            "file": "roamap03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        }
-    ],
-    "basepath": "swarm/map/roach1mini/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "roamap06.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "roamap09.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "roamap12.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "roamap15.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "roamap18.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "roamap21.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 11,
+			"file" : "roamap24.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 12,
+			"file" : "roamap27.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 13,
+			"file" : "roamap30.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 14,
+			"file" : "roamap33.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 15,
+			"file" : "roamap36.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 16,
+			"file" : "roamap39.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 17,
+			"file" : "roamap42.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 18,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 19,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 20,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 21,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 22,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 23,
+			"file" : "roamap03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		}
+	],
+	"basepath" : "swarm/map/roach1mini/"
 }

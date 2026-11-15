@@ -1,19 +1,34 @@
 {
-	 "creep" :
-	 {
-		"text":"Creep",
+	"creep" : {
+		"text" : "Creep",
 		"moveCost" : 175,
-		"minimapUnblocked" : [ 68, 52, 64 ],
-		"minimapBlocked"   : [ 134, 102, 126 ],
-		"music" : [ "Dirt.mp3" ],
+		"minimapUnblocked" : [
+			68,
+			52,
+			64
+		],
+		"minimapBlocked" : [
+			134,
+			102,
+			126
+		],
+		"music" : [
+			"Dirt.mp3"
+		],
 		"tiles" : "creep/terrain/creep",
-		"type" : ["SURFACE"],
+		"type" : [
+			"SURFACE"
+		],
 		"shortIdentifier" : "Cr",
 		"terrainViewPatterns" : "grass",
 		"river" : "waterRiver",
-		"rockTerrain":"rock",
-		"battleFields" : ["dirt_birches", "dirt_hills", "dirt_pines"],
+		"rockTerrain" : "rock",
+		"battleFields" : [
+			"dirt_birches",
+			"dirt_hills",
+			"dirt_pines"
+		],
 		"horseSound" : "horse04",
 		"horseSoundPenalty" : "horse24"
-	 }
+	}
 }

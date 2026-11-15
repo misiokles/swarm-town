@@ -1,39 +1,44 @@
 {
-	"tarkin" : 
-	{
+	"tarkin" : {
 		"class" : "queen",
 		"female" : true,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Tarkin",
 			"biography" : "Kiedys Tarkin byl inzynierem na uslugach Eeofolu. Po przegranej wojnie z Erathia uciekl do Deyji, by tam spotkac Kastore'a budujacego swa armie. Zafascynowany technologia Starozytnych bez wahania przylaczyl sie do planu odbudowy Niebianskich Kuzni.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "{Land Mine}\r\n\r\nCasts Land Mine with increased effect, based on hero level.",
 				"tooltip" : "Spell Bonus: Land Mine",
 				"name" : "Land Mine"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/tarkin/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/tarkin/spec-large.png",
 			"large" : "swarm/heroes/tarkin/portrait-large.png",
 			"small" : "swarm/heroes/tarkin/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"landMine"
 		],
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -43,7 +48,7 @@
 				"skill" : "mysticism"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"landMine" : {
@@ -56,5 +61,3 @@
 		}
 	}
 }
-
-

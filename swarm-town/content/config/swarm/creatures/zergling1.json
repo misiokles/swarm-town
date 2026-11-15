@@ -1,13 +1,10 @@
 {
-	"zergling1":
-	{
-		"name" :
-		{
+	"zergling1" : {
+		"name" : {
 			"plural" : "Zerglings",
 			"singular" : "Zergling"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 25,
 			"min" : 12
 		},
@@ -16,40 +13,39 @@
 		"aiValue" : 50,
 		"attack" : 2,
 		"hasDoubleWeek" : true,
-        "cost" :
-		{
+		"cost" : {
 			"gold" : 25
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 2,
 			"min" : 1
 		},
 		"defense" : 2,
 		"fightValue" : 50,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/zergling1",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/zergling1map",
 			"iconSmall" : "swarm/iconsSmall/zergling1s.png",
 			"iconLarge" : "swarm/iconsBig/zergling1l.png",
-			"timeBetweenFidgets" : 1,
+			"timeBetweenFidgets" : 1
 		},
 		"growth" : 20,
 		"hitPoints" : 3,
 		"level" : 1,
-		"upgrades":
-		[
+		"upgrades" : [
 			"zergling2"
 		],
-		"sound" :
-		{
+		"sound" : {
 			"attack" : "swarm/zergling_attack.wav",
 			"defend" : "swarm/zergling_defend.wav",
 			"killed" : "swarm/zergling_death.wav",
-			"move"   : "swarm/zergling_move.wav",
-			"wince"  : "swarm/zergling_wince.wav"
+			"move" : "swarm/zergling_move.wav",
+			"wince" : "swarm/zergling_wince.wav"
 		},
 		"speed" : 7
 	}

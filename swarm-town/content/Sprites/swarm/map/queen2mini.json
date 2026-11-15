@@ -1,173 +1,173 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "que2map04.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "que2map09.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "que2map10.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "que2map11.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "que2map12.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "que2map13.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 10,
-            "file": "que2map14.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 11,
-            "file": "que2map15.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 12,
-            "file": "que2map15.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 13,
-            "file": "que2map14.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 14,
-            "file": "que2map13.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 15,
-            "file": "que2map12.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 16,
-            "file": "que2map11.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 17,
-            "file": "que2map10.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 18,
-            "file": "que2map09.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 19,
-            "file": "que2map04.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 20,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 21,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 22,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        },
-        {
-            "group": 0,
-            "frame": 23,
-            "file": "que2map03.png",
-            "generateShadow": 2,
-            "generateOverlay": 1
-        }
-    ],
-    "basepath": "swarm/map/queen2mini/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "que2map04.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "que2map09.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "que2map10.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "que2map11.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "que2map12.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "que2map13.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "que2map14.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 11,
+			"file" : "que2map15.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 12,
+			"file" : "que2map15.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 13,
+			"file" : "que2map14.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 14,
+			"file" : "que2map13.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 15,
+			"file" : "que2map12.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 16,
+			"file" : "que2map11.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 17,
+			"file" : "que2map10.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 18,
+			"file" : "que2map09.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 19,
+			"file" : "que2map04.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 20,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 21,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 22,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		},
+		{
+			"group" : 0,
+			"frame" : 23,
+			"file" : "que2map03.png",
+			"generateShadow" : 2,
+			"generateOverlay" : 1
+		}
+	],
+	"basepath" : "swarm/map/queen2mini/"
 }

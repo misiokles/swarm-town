@@ -1,39 +1,44 @@
 {
-	"zagara" : 
-	{
+	"zagara" : {
 		"class" : "overseer",
 		"female" : false,
-         "texts" :
-		{
+		"texts" : {
 			"name" : "Zetris",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Queens and Primal Queens}\r\n\r\nIncreases Speed of any Queens or Primal Queens} by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up)",
 				"tooltip" : "Creature Bonus: Queens",
 				"name" : "Queens"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/zagara/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/zagara/spec-large.png",
 			"large" : "swarm/heroes/zagara/portrait-large.png",
 			"small" : "swarm/heroes/zagara/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"berserk"
 		],
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -43,7 +48,7 @@
 				"skill" : "waterMagic"
 			}
 		],
-		
+
 		"specialty" : {
 			"creature" : "queen1"
 		}

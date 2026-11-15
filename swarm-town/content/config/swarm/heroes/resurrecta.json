@@ -1,40 +1,45 @@
 {
-	"resurrecta" : 
-	{
+	"resurrecta" : {
 		"class" : "queen",
 		"female" : true,
-                 "texts" :
-		{
+		"texts" : {
 			"name" : "Resurrecta",
 			"biography" : "Resurrecta nie chce wyjawic nikomu swojego pochodzenia. Planuje odtworzyc system bram Starozytnych. Jest jedna z niewielu osob, ktore znaly Kastore'a przed jego ekspansja na Antadarich i byc moze jedyna, ktora moze go powstrzymac.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "Hero can cast the Resurrection spell with increased effectiveness",
 				"tooltip" : "Spell Bonus: Resurrection",
 				"name" : "Resurrection"
 			}
 		},
 
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/resurrecta/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/resurrecta/spec-large.png",
 			"large" : "swarm/heroes/resurrecta/portrait-large.png",
 			"small" : "swarm/heroes/resurrecta/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"iceBolt"
 		],
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -44,7 +49,7 @@
 				"skill" : "waterMagic"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"ressurection" : {

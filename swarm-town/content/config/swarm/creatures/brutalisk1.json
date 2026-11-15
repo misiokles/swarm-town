@@ -1,13 +1,10 @@
 {
-	"brutalisk1":
-	{
-		"name" :
-		{
+	"brutalisk1" : {
+		"name" : {
 			"plural" : "Brutalisks",
 			"singular" : "Brutalisk"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 10,
 			"min" : 4
 		},
@@ -15,42 +12,40 @@
 		"aiValue" : 1600,
 		"attack" : 15,
 		"doubleWide" : true,
-		"cost" :
-		{
+		"cost" : {
 			"gold" : 900
-			
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 22,
 			"min" : 15
 		},
 		"defense" : 14,
 		"fightValue" : 1600,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/brutalisk1.DEF",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/brutalisk1mini.def",
 			"iconSmall" : "swarm/iconsSmall/brutalisk1s.bmp",
 			"iconLarge" : "swarm/iconsBig/brutalisk1l.bmp",
 			"timeBetweenFidgets" : 1
-			},
+		},
 		"growth" : 2,
 		"hitPoints" : 90,
 		"level" : 6,
-		"upgrades":
-		[
+		"upgrades" : [
 			"hunterling2"
-		],		
-		"sound" :
-		{
+		],
+		"sound" : {
 			"attack" : "swarm/brutalisk_attack.wav",
 			"defend" : "swarm/brutalisk_defend.wav",
 			"killed" : "swarm/brutalisk_killed.wav",
-			"move"   : "swarm/brutalisk_move.wav",
-			"wince"  : "swarm/brutalisk_wince.wav"
+			"move" : "swarm/brutalisk_move.wav",
+			"wince" : "swarm/brutalisk_wince.wav"
 		},
-		"speed" : 7,
+		"speed" : 7
 	}
 }

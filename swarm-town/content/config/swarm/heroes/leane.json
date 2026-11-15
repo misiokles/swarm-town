@@ -1,40 +1,44 @@
 {
-	"leane" : 
-	{
+	"leane" : {
 		"class" : "queen",
 		"female" : false,
-"texts" :
-		{
+		"texts" : {
 			"name" : "Leane",
 			"biography" : "undetermined.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "Hero can cast the Stone Skin spell with increased effectiveness",
 				"tooltip" : "Spell Bonus: Stone skin",
 				"name" : "Stone Skin"
 			}
 		},
-		"images" :
-		{
-			
+		"images" : {
 			"specialtySmall" : "swarm/heroes/leane/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/leane/spec-large.png",
 			"large" : "swarm/heroes/leane/portrait-large.png",
 			"small" : "swarm/heroes/leane/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"disguise"
 		],
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -44,7 +48,7 @@
 				"skill" : "intelligence"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"stoneSkin" : {

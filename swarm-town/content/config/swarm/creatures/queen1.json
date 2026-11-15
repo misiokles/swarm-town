@@ -1,55 +1,51 @@
 {
-	"queen1":
-	{
-		"name" :
-		{
+	"queen1" : {
+		"name" : {
 			"plural" : "Queens",
 			"singular" : "Queen"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 16,
 			"min" : 8
 		},
 		"faction" : "swarm",
 		"aiValue" : 500,
 		"attack" : 9,
-		"doubleWide" : true,		
+		"doubleWide" : true,
 		"hasDoubleWeek" : true,
-        "cost" :
-		{
+		"cost" : {
 			"gold" : 350
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 14,
 			"min" : 10
 		},
 		"defense" : 12,
 		"fightValue" : 500,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/queen1",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/queen1mini",
 			"iconSmall" : "swarm/iconsSmall/queen1s.png",
 			"iconLarge" : "swarm/iconsBig/queen1l.png",
-			"timeBetweenFidgets" : 1,
+			"timeBetweenFidgets" : 1
 		},
 		"growth" : 3,
 		"hitPoints" : 55,
 		"level" : 5,
-		"upgrades":
-		[
+		"upgrades" : [
 			"queen2"
 		],
-		"sound" :
-		{
+		"sound" : {
 			"attack" : "swarm/queen_attack.wav",
 			"defend" : "swarm/queen_defend.wav",
 			"killed" : "swarm/queen_killed.wav",
-			"move"   : "swarm/queen_move.wav",
-			"wince"  : "swarm/queen_wince.wav"                
+			"move" : "swarm/queen_move.wav",
+			"wince" : "swarm/queen_wince.wav"
 		},
 		"speed" : 4
 	}

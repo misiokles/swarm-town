@@ -1,31 +1,38 @@
 {
-	"Krips" :
-	{
+	"Krips" : {
 		"class" : "overseer",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Krips",
 			"biography" : "undetermined.",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Armorer}\r\n\r\nReceives a 5% per level bonus to Armorer skill.",
 				"tooltip" : "Secondary Skill Bonus: Armorer",
 				"name" : "Armorer"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/Krips/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/Krips/spec-large.png",
 			"large" : "swarm/heroes/Krips/portrait-large.png",
 			"small" : "swarm/heroes/Krips/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
 		"skills" : [
 			{

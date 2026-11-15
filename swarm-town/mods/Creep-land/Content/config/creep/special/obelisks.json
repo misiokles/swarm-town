@@ -4,10 +4,19 @@
 			"object" : {
 				"templates" : {
 					"creepAvXOblAy" : {
-						"animation" : "creep/special/obelisks/AvXOblAy",  
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV", "VA"],
-						"allowedTerrains" : ["creep"]
+						"animation" : "creep/special/obelisks/AvXOblAy",
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					}
 				}
 			}

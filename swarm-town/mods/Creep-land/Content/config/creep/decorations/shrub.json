@@ -1,57 +1,109 @@
 {
-	"core:shrub" :{
+	"core:shrub" : {
 		"types" : {
 			"object" : {
 				"templates" : {
 					"creLanShr00" : {
 						"animation" : "creep/decorations/shrub/creLanShr00",
-						"mask" : [ "BV","VV" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"BV",
+							"VV"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr01" : {
 						"animation" : "creep/decorations/shrub/creLanShr01",
-						"mask" : [ "VV","VB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr02" : {
 						"animation" : "creep/decorations/shrub/creLanShr02",
-						"mask" : [ "VV","BB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr03" : {
 						"animation" : "creep/decorations/shrub/creLanShr03",
-						"mask" : [ "VV","BB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr04" : {
 						"animation" : "creep/decorations/shrub/creLanShr04",
-						"mask" : [ "BB","VV" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"BB",
+							"VV"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr05" : {
 						"animation" : "creep/decorations/shrub/creLanShr05",
-						"mask" : [ "VV","BB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr06" : {
 						"animation" : "creep/decorations/shrub/creLanShr06",
-						"mask" : [ "VV","BB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr07" : {
 						"animation" : "creep/decorations/shrub/creLanShr07",
-						"mask" : [ "VV","BB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr08" : {
 						"animation" : "creep/decorations/shrub/creLanShr08",
-						"mask" : [ "VVV","VBB","BBV" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VVV",
+							"VBB",
+							"BBV"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					},
 					"creLanShr09" : {
 						"animation" : "creep/decorations/shrub/creLanShr09",
-						"mask" : [ "VVV","BBV","VBB" ],
-						"allowedTerrains": [ "creep" ]
+						"mask" : [
+							"VVV",
+							"BBV",
+							"VBB"
+						],
+						"allowedTerrains" : [
+							"creep"
+						]
 					}
 				}
 			}

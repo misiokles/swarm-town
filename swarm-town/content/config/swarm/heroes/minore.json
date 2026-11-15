@@ -1,39 +1,44 @@
 {
-	"minore" : 
-	{
+	"minore" : {
 		"class" : "queen",
 		"female" : false,
-"texts" :
-		{
+		"texts" : {
 			"name" : "Minore",
 			"biography" : "Minoure od zawsze lubila igrac umyslami wrogow, przez co zawsze potrafila wyjsc nawet z najgorszej opresji. Wygnana z rodzinnej Bracady za praktykowanie niedozwolonej magii, znalazla miejsce u boku Kastora, ktory docenil jej nietypowe zdolnosci mianujac ja na dowodce swojej armii.",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "Hero can cast the Berserk spell with increased effectiveness",
 				"tooltip" : "Spell Bonus: Berserk",
 				"name" : "Berserk"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/minore/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/minore/spec-large.png",
 			"large" : "swarm/heroes/minore/portrait-large.png",
 			"small" : "swarm/heroes/minore/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"berserk"
 		],
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "wisdom"
@@ -43,7 +48,7 @@
 				"skill" : "waterMagic"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"berserk" : {
@@ -55,4 +60,3 @@
 		}
 	}
 }
-

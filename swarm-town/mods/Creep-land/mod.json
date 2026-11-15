@@ -1,44 +1,34 @@
 {
-    "name" : "Creep Terrain",
-    "description" : "Creep Terrain",
+	"name" : "Creep Terrain",
+	"description" : "Creep Terrain",
 	"modType" : "Objects",
-    "version" : "0.1",
-    "author" : "",
-    "contact" : "",
-	"compatibility" :
-	{
+	"version" : "0.1",
+	"author" : "",
+	"contact" : "",
+	"compatibility" : {
 		"min" : "1.3.0"
 	},
-	"conflicts" :
-	[
-
-	],
-	"changelog" :
-	{
-		"0.0.1"   : [ "Initial release" ]
+	"conflicts" : [],
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		]
 	},
-	"terrains":
-	[
+	"terrains" : [
 		"config/creep/terrain/terrains.json"
 	],
-	"obstacles" :
-	[
+	"obstacles" : [
 		"config/creep/terrain/obstacles.json"
 	],
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/creep/battlefields/battlefields.json"
 	],
-	"objects":
-	[		
-		
-        "config/creep/decorations/deadVegetation.json",				
+	"objects" : [
+		"config/creep/decorations/deadVegetation.json",
 		"config/creep/decorations/shrub.json",
 		"config/creep/objects/creepColony.json",
 		"config/creep/objects/subgates.json",
 		"config/creep/special/mines.json",
 		"config/creep/special/obelisks.json"
-		
-
 	]
 }

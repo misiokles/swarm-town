@@ -1,36 +1,41 @@
 {
-	"charity" :
-	{
+	"charity" : {
 		"class" : "queen",
 		"female" : true,
 
-		
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Charity",
 			"biography" : "Charity byla wielka nekromantka, ale po ataku diablow na Antadarich jej gildia zostala doszczetnie zniszczona. Blakala sie po swiecie, az do momentu, kiedy krol Kastore zaproponowal jej przylaczenie sie do jego armii.",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Mech Fighters and Mech Warriors}\r\n\r\nIncreases the Attack and Defence of any Mech Fighters or Mech Warriors for each level attained after 6th level.",
 				"tooltip" : "Creature Bonus: Mech Fighters",
 				"name" : "Mech Fighters"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/charity/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/charity/spec-large.png",
 			"large" : "swarm/heroes/charity/portrait-large.png",
 			"small" : "swarm/heroes/charity/portrait-small.png"
 		},
-               "army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "advanced",
 				"skill" : "scouting"

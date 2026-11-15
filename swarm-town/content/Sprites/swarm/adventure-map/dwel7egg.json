@@ -1,10 +1,10 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "dwel7egg.png"
-        }
-    ],
-    "basepath": "swarm/adventure-map/dwel7egg/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "dwel7egg.png"
+		}
+	],
+	"basepath" : "swarm/adventure-map/dwel7egg/"
 }

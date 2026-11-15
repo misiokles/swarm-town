@@ -1,40 +1,45 @@
 {
-	"wertex" :
-	{
+	"wertex" : {
 		"class" : "overseer",
 		"female" : true,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Wertex",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Zerglings and Winged Zerglings}\r\n\r\nIncreases Speed of any Zerglings or Winged Zerglings by 1 and their Attack and Defense skills by 5% for every level (rounded up)",
 				"tooltip" : "Creature Bonus: Zerglings",
 				"name" : "Zerglings"
 			}
-		}, 
-		"images" :
-		{
+		},
+		"images" : {
 			"specialtySmall" : "swarm/heroes/wertex/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/wertex/spec-large.png",
 			"large" : "swarm/heroes/wertex/portrait-large.png",
 			"small" : "swarm/heroes/wertex/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"haste"
 		],
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "zergling1", "min" : 8, "max" : 9 },
-			{ "creature" : "zergling1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "zergling1",
+				"min" : 8,
+				"max" : 9
+			},
+			{
+				"creature" : "zergling1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
 
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "luck"
@@ -44,7 +49,7 @@
 				"skill" : "armorer"
 			}
 		],
-		
+
 		"specialty" : {
 			"creature" : "zergling1"
 		}

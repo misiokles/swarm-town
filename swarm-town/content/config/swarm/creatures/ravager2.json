@@ -1,44 +1,40 @@
 {
-	"ravager2":
-	{
-		"name" :
-		{
+	"ravager2" : {
+		"name" : {
 			"plural" : "Ravagers",
 			"singular" : "Ravager"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 30,
 			"min" : 20
 		},
 		"faction" : "swarm",
 		"aiValue" : 180,
 		"attack" : 7,
-		"cost" :
-		{
+		"cost" : {
 			"gold" : 150
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 4,
 			"min" : 2
 		},
 		"defense" : 7,
 		"fightValue" : 180,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/ravager2",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/ravager2map",
 			"iconSmall" : "swarm/iconsSmall/ravager2s.png",
 			"iconLarge" : "swarm/iconsBig/ravager2l.png",
 			"timeBetweenFidgets" : 1,
-			"missile" :
-			{
+			"missile" : {
 				"projectile" : "swarm/battle/projectile/rav2proc.def",
-			    "attackClimaxFrame" : 5,
-				"offset" :
-				{
+				"attackClimaxFrame" : 5,
+				"offset" : {
 					"upperX" : 41,
 					"upperY" : -72,
 					"middleX" : 50,
@@ -46,49 +42,53 @@
 					"lowerX" : 29,
 					"lowerY" : -44
 				},
-				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90]
+				"frameAngles" : [
+					90,
+					72,
+					45,
+					27,
+					0,
+					-27,
+					-45,
+					-72,
+					-90
+				]
 			}
 		},
-	
+
 		"growth" : 8,
 		"doubleWide" : true,
 		"hitPoints" : 20,
 		"level" : 2,
 		"shots" : 12,
-		"sound" :
-		{
+		"sound" : {
 			"attack" : "swarm/ravager_shoot.wav",
 			"defend" : "swarm/ravager_defend.wav",
 			"killed" : "swarm/ravager_death.wav",
-			"move": "swarm/queen_move.wav",
+			"move" : "swarm/queen_move.wav",
 			"wince" : "swarm/ravager_hit.wav",
-			"shoot": "swarm/ravager_shoot.wav"
+			"shoot" : "swarm/ravager_shoot.wav"
 		},
 		"speed" : 6,
-		"abilities" :
-		{
-			"canshoot" :
-			{
+		"abilities" : {
+			"canshoot" : {
 				"type" : "SHOOTER"
 			},
-			"castsFireRing" :
-			{
+			"castsFireRing" : {
 				"type" : "SPELLCASTER",
 				"subtype" : "spell.corrosiveBile",
 				"addInfo" : 10,
 				"val" : 3
 			},
-			"caster" : 
-			{
+			"caster" : {
 				"type" : "CASTS",
 				"val" : 3
 			},
-			"castsCorrosiveBile2" :
-			{
+			"castsCorrosiveBile2" : {
 				"type" : "SPELLCASTER",
 				"subtype" : "spell.corrosiveBile2",
 				"val" : 3
-			},
+			}
 		}
 	}
 }

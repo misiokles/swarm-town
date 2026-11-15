@@ -1,36 +1,42 @@
 {
-	"horna" :
-	{
+	"horna" : {
 		"class" : "queen",
 		"female" : false,
 
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Horna",
 			"biography" : "Being an orphan, Horna was raised by druids who put all the children on a strict regimen of chores, study, prayer, and more chores. Today he is at home in the woods under the starry sky, while his lust for freedom has made him the Grove's best scout.",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "Receives a 5% per level bonus to Logistics skill percentage.",
 				"tooltip" : "",
 				"name" : "Logistics"
 			}
 		},
-		
-		"images" :
-		{
+
+		"images" : {
 			"specialtySmall" : "swarm/heroes/Horna/specsmall.png",
 			"specialtyLarge" : "swarm/heroes/Horna/speclarge.png",
 			"large" : "swarm/heroes/Horna/portraitlarge.png",
 			"small" : "swarm/heroes/Horna/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "logistics"
@@ -40,7 +46,7 @@
 				"skill" : "pathfinding"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"logistics" : {

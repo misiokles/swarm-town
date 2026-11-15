@@ -1,34 +1,40 @@
 {
-	"zasz" : 
-	{
+	"zasz" : {
 		"class" : "overseer",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Overmind",
 			"biography" : "Rodzina zaszr od pokolen mieszka w Deyji. zaszr od dziecka marzyla o odkrywaniu swiata i o dokonywaniu wielkich czynow, jednak jako goblin mogla pelnic u nekromantow role co najwyzej niepozbawionej wlasnej woli sluzacej. Natomiast brak doswiadczenia w walce sprawia, ze nigdy by nie zdobyla szacunku wsrod goblinow z Krewlodu. Dolaczenie do armii Kastore'a to dla niej doskonala okazja zeby udowodnic swoja wartosc.",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Scouting}\r\n\r\nReceives a 5% per level bonus to Scouting skill.",
 				"tooltip" : "Secondary Skill Bonus: Scouting",
 				"name" : "Scouting"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/zasz/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/zasz/spec-large.png",
 			"large" : "swarm/heroes/zasz/portrait-large.png",
 			"small" : "swarm/heroes/zasz/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "scouting"
@@ -38,7 +44,7 @@
 				"skill" : "artillery"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"sight" : {

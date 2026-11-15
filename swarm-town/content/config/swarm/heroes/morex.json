@@ -1,47 +1,56 @@
 {
-	"morex" :
-	{
+	"morex" : {
 		"class" : "queen",
 		"female" : true,
 
-
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Morex",
 			"biography" : "undetermined",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "{Sorcery}\r\n\r\nReceives a 5% per level bonus to Sorcery skill.",
 				"tooltip" : "Secondary Skill Bonus: Sorcery",
 				"name" : "Sorcery"
 			}
 		},
-		"images" :
-		{
-			
+		"images" : {
 			"specialtySmall" : "swarm/heroes/morex/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/morex/spec-large.png",
 			"large" : "swarm/heroes/morex/portrait-large.png",
 			"small" : "swarm/heroes/morex/portrait-small.png"
 		},
 
-		"spellbook" :
-		[
+		"spellbook" : [
 			"dispel"
 		],
-                "army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills":
-		[
-			{ "skill" : "wisdom", "level": "basic" },
-			{ "skill" : "sorcery", "level": "basic" }
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "sorcery",
+				"level" : "basic"
+			}
 		],
 		"specialty" : {
 			"secondary" : "sorcery"
-			}
+		}
 	}
 }
