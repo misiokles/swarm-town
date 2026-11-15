@@ -1,37 +1,51 @@
 {
-	"stukov" : 
-	{
+	"stukov" : {
 		"class" : "queen",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Samn",
 			"biography" : "undetermined",
-			"specialty" : 
-			{
+			"specialty" : {
 				"description" : "Casts Chain Lightning with increased effect, based on hero level.",
 				"tooltip" : "Spell Bonus: Chain Lightning",
 				"name" : "Chain Lightning"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/stukov/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/stukov/spec-large.png",
 			"large" : "swarm/heroes/stukov/portrait-large.png",
 			"small" : "swarm/heroes/stukov/portrait-small.png"
 		},
-		"spellbook": [ "chainLightning" ],
-        "army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"spellbook" : [
+			"chainLightning"
 		],
-		"skills":
-		[
-			{ "skill" : "wisdom", "level": "basic" },
-			{ "skill" : "sorcery", "level": "basic" }
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "sorcery",
+				"level" : "basic"
+			}
 		],
 		"specialty" : {
 			"spellScalingPercentage" : "chainLightning"

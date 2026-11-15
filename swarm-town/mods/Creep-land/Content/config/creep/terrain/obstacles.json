@@ -4,94 +4,133 @@
 //
 // Their properties:
 // * "allowedTerrains" vector of terrain types (TT format) where obstacle is appropriate
-// * "specialBattlefields" vector of battlefield images (BI format) where obstacle is appropriate. If there is a special battlefield image, then only this list is checked. Otherwise it's ignored. 
+// * "specialBattlefields" vector of battlefield images (BI format) where obstacle is appropriate. If there is a special battlefield image, then only this list is checked. Otherwise it's ignored.
 // * "blockedTiles": for absolute obstacles contains absolute coordinates. For usual obstacles contains offsets relative to the obstacle position (that is bottom left corner). If obstacle is placed in an odd row (counting from 0) and the blocked tile is in an even row, position will be shifted one tile to the left. Thanks to that ie. -16 is always top-right hex, no matter where the obstale will get placed.
 // * "width" for usual obstacles it's count of tiles that must be free to the right for obstacle to be placed. For absolute obstacles, it's x offset for the graphics.
 // * "height" for usual obstacles it's count of tiles that must be free to the top for obstacle to be placed. For absolute obstacles, it's y offset for the graphics.
 // * "animation" is name of the graphics. It's def file for usual obstacles and bitmap for the absolute ones.
 
 {
-	"core:0":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:0" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 2,
 		"height" : 1,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "ObDino1.def",
 		"absolute" : false
 	},
-	"core:2":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:2" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 4,
 		"height" : 2,
-		"blockedTiles" :  [0, 1, -14, -15, -16],
+		"blockedTiles" : [
+			0,
+			1,
+			-14,
+			-15,
+			-16
+		],
 		"animation" : "ObDino3.def",
 		"absolute" : false
 	},
-	"core:5":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:5" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 4,
 		"height" : 2,
-		"blockedTiles" :  [1, 2, 3],
+		"blockedTiles" : [
+			1,
+			2,
+			3
+		],
 		"animation" : "ObBDT01.def",
 		"absolute" : false
 	},
-	"core:6":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:6" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 3,
 		"height" : 2,
-		"blockedTiles" :  [-15, -16],
+		"blockedTiles" : [
+			-15,
+			-16
+		],
 		"animation" : "ObDRk01.def",
 		"absolute" : false
 	},
-	"core:7":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:7" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 2,
 		"height" : 2,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "ObDRk02.def",
 		"foreground" : true,
 		"absolute" : false
 	},
-	"core:8":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:8" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 2,
 		"height" : 2,
-		"blockedTiles" :  [-16],
+		"blockedTiles" : [
+			-16
+		],
 		"animation" : "ObDRk03.def",
 		"absolute" : false
 	},
-	"core:9":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:9" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 2,
 		"height" : 2,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "ObDRk04.def",
 		"foreground" : true,
 		"absolute" : false
 	},
-	"core:10":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:10" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 2,
 		"height" : 2,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "ObDSh01.def",
 		"foreground" : true,
 		"absolute" : false
 	},
-	"core:11":
-	{
-		"allowedTerrains" : ["creep"],
+	"core:11" : {
+		"allowedTerrains" : [
+			"creep"
+		],
 		"width" : 2,
 		"height" : 1,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "ObDTF03.def",
 		"foreground" : true,
 		"absolute" : false

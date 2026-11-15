@@ -1,34 +1,40 @@
 {
-	"zasz" : 
-	{
+	"zasz" : {
 		"class" : "overseer",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Overmind",
 			"biography" : "",
-			"specialty" :
-			{
+			"specialty" : {
 				"description" : "Increases Scouting radius by 1 for every 6 levels.",
 				"tooltip" : "Secondary Skill Bonus: Scouting",
 				"name" : "Scouting"
 			}
 		},
-		"images" :
-		{
+		"images" : {
 			"specialtySmall" : "swarm/heroes/zasz/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/zasz/spec-large.png",
 			"large" : "swarm/heroes/zasz/portrait-large.png",
 			"small" : "swarm/heroes/zasz/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
-			{ "creature" : "roach1", "min" : 6, "max" : 9 },
-			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
+		"army" : [
+			{
+				"creature" : "zergling1",
+				"min" : 10,
+				"max" : 15
+			},
+			{
+				"creature" : "roach1",
+				"min" : 6,
+				"max" : 9
+			},
+			{
+				"creature" : "hydralisk1",
+				"min" : 4,
+				"max" : 6
+			}
 		],
-		"skills" :
-		[
+		"skills" : [
 			{
 				"level" : "basic",
 				"skill" : "scouting"
@@ -38,7 +44,7 @@
 				"skill" : "artillery"
 			}
 		],
-		
+
 		"specialty" : {
 			"bonuses" : {
 				"sight" : {

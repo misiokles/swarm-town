@@ -1,10 +1,10 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "dwel5queen.png"
-        }
-    ],
-    "basepath": "swarm/adventure-map/dwel5queen/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "dwel5queen.png"
+		}
+	],
+	"basepath" : "swarm/adventure-map/dwel5queen/"
 }

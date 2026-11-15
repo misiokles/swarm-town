@@ -1,13 +1,10 @@
 {
-	"hydralisk1":
-	{
-		"name" :
-		{
+	"hydralisk1" : {
+		"name" : {
 			"plural" : "Hydralisks",
 			"singular" : "Hydralisk"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 30,
 			"min" : 16
 		},
@@ -15,31 +12,30 @@
 		"aiValue" : 230,
 		"attack" : 9,
 		"hasDoubleWeek" : true,
-                "cost" :
-		{
+		"cost" : {
 			"gold" : 200
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 5,
 			"min" : 3
 		},
 		"defense" : 5,
 		"fightValue" : 230,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/hydralisk1.def",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/hydralisk1mini.def",
 			"iconSmall" : "swarm/iconsSmall/hydralisk1s.bmp",
 			"iconLarge" : "swarm/iconsBig/hydralisk1l.bmp",
 			"timeBetweenFidgets" : 1,
-			"missile" :
-			{
+			"missile" : {
 				"projectile" : "swarm/battle/projectile/stinger.def",
-			    "attackClimaxFrame" : 8,
-				"offset" :
-				{
+				"attackClimaxFrame" : 8,
+				"offset" : {
 					"upperX" : 41,
 					"upperY" : -92,
 					"middleX" : 58,
@@ -47,37 +43,45 @@
 					"lowerX" : 29,
 					"lowerY" : -14
 				},
-				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0]
-			},			
+				"frameAngles" : [
+					90,
+					72,
+					45,
+					27,
+					0,
+					-27,
+					-45,
+					-72,
+					-90,
+					0,
+					0,
+					0
+				]
+			}
 		},
 
 		"growth" : 7,
 		"doubleWide" : true,
 		"hitPoints" : 15,
-        "level" : 3,
+		"level" : 3,
 		"shots" : 12,
-		"upgrades":
-		[
+		"upgrades" : [
 			"hydralisk2"
 		],
-		"sound" :
-		{
+		"sound" : {
 			"attack" : "swarm/hydralisk_attack.wav",
 			"defend" : "swarm/hydralisk_defend.wav",
 			"killed" : "swarm/hydralisk_killed.wav",
-			"move": "NGRDMOVE.wav",
-			"shoot": "swarm/hydralisk_shoot.wav",
-			"wince" : "swarm/hydralisk_wince.wav",
+			"move" : "NGRDMOVE.wav",
+			"shoot" : "swarm/hydralisk_shoot.wav",
+			"wince" : "swarm/hydralisk_wince.wav"
 		},
 		"speed" : 5,
-		"abilities" :
-		{
-            "canshoot" :
-			{
+		"abilities" : {
+			"canshoot" : {
 				"type" : "SHOOTER"
 			},
-			"noMeleePenalty" :
-			{
+			"noMeleePenalty" : {
 				"type" : "NO_MELEE_PENALTY"
 			}
 		}

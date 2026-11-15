@@ -1,13 +1,10 @@
 {
-	"roach1":
-	{
-		"name" :
-		{
+	"roach1" : {
+		"name" : {
 			"plural" : "Roaches",
 			"singular" : "Roach"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 50,
 			"min" : 20
 		},
@@ -15,21 +12,22 @@
 		"aiValue" : 150,
 		"attack" : 6,
 		"doubleWide" : true,
-		"cost" :
-		{
+		"cost" : {
 			"gold" : 120
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 3,
 			"min" : 2
 		},
 		"defense" : 6,
 		"fightValue" : 150,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/roach1",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/roach1mini",
 			"iconSmall" : "swarm/iconsSmall/roach1s.png",
 			"iconLarge" : "swarm/iconsBig/roach1l.png",
@@ -39,16 +37,14 @@
 		"growth" : 8,
 		"hitPoints" : 16,
 		"level" : 2,
-		"upgrades":
-		[
+		"upgrades" : [
 			"ravager2"
 		],
-		"sound" :
-		{
+		"sound" : {
 			"attack" : "swarm/roach_attack.wav",
 			"defend" : "swarm/roach_defend.wav",
 			"killed" : "swarm/roach_killed.wav",
-			"move": "swarm/roach_move.wav",
+			"move" : "swarm/roach_move.wav",
 			"wince" : "swarm/roach_wince.wav"
 		},
 		"speed" : 5

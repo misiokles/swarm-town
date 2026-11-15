@@ -1,13 +1,10 @@
 {
-	"mutalisk1":
-	{
-		"name" :
-		{
+	"mutalisk1" : {
+		"name" : {
 			"plural" : "Mutalisks",
 			"singular" : "Mutalisk"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 20,
 			"min" : 10
 		},
@@ -15,21 +12,22 @@
 		"aiValue" : 500,
 		"attack" : 10,
 		"hasDoubleWeek" : true,
-                "cost" :
-		{
+		"cost" : {
 			"gold" : 250
 		},
-		"damage" :
-		{
+		"damage" : {
 			"max" : 9,
 			"min" : 5
 		},
 		"defense" : 8,
 		"fightValue" : 500,
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "swarm/battle/mutalisk1.def",
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"map" : "swarm/map/mutalisk1mini.def",
 			"iconSmall" : "swarm/iconsSmall/mutalisk1s.bmp",
 			"iconLarge" : "swarm/iconsBig/mutalisk1l.bmp",
@@ -38,23 +36,19 @@
 		"growth" : 4,
 		"hitPoints" : 30,
 		"level" : 4,
-		"upgrades":
-		[
+		"upgrades" : [
 			"mutalisk2"
 		],
-		"sound" :
-		{
+		"sound" : {
 			"attack" : "swarm/mutalisk_attack.wav",
 			"defend" : "swarm/mutalisk_defend.wav",
 			"killed" : "swarm/mutalisk_killed.wav",
-			"move"   : "swarm/mutalisk_move.wav",
-			"wince"  : "swarm/mutalisk_wince.wav"
+			"move" : "swarm/mutalisk_move.wav",
+			"wince" : "swarm/mutalisk_wince.wav"
 		},
 		"speed" : 7,
-		"abilities" :
-		{
-		       "flying" :
-			{
+		"abilities" : {
+			"flying" : {
 				"type" : "FLYING"
 			}
 		}

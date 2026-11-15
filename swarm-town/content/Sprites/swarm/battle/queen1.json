@@ -1,920 +1,920 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "quemov02.png"
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "quemov08.png"
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "quemov10.png"
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "quemov12.png"
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "quemov14.png"
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "quemov16.png"
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "quemov18.png"
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "quemov20.png"
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "quemov22.png"
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "quemov24.png"
-        },
-        {
-            "group": 0,
-            "frame": 10,
-            "file": "quemov26.png"
-        },
-        {
-            "group": 1,
-            "frame": 0,
-            "file": "quemoo01.png"
-        },
-        {
-            "group": 1,
-            "frame": 1,
-            "file": "quemoo07.png"
-        },
-        {
-            "group": 1,
-            "frame": 2,
-            "file": "quemoo09.png"
-        },
-        {
-            "group": 1,
-            "frame": 3,
-            "file": "quemoo11.png"
-        },
-        {
-            "group": 1,
-            "frame": 4,
-            "file": "quemoo12.png"
-        },
-        {
-            "group": 1,
-            "frame": 5,
-            "file": "quemoo13.png"
-        },
-        {
-            "group": 1,
-            "frame": 6,
-            "file": "quemoo14.png"
-        },
-        {
-            "group": 1,
-            "frame": 7,
-            "file": "quemoo15.png"
-        },
-        {
-            "group": 1,
-            "frame": 8,
-            "file": "quemoo15.png"
-        },
-        {
-            "group": 1,
-            "frame": 9,
-            "file": "quemoo14.png"
-        },
-        {
-            "group": 1,
-            "frame": 10,
-            "file": "quemoo13.png"
-        },
-        {
-            "group": 1,
-            "frame": 11,
-            "file": "quemoo12.png"
-        },
-        {
-            "group": 1,
-            "frame": 12,
-            "file": "quemoo11.png"
-        },
-        {
-            "group": 1,
-            "frame": 13,
-            "file": "quemoo09.png"
-        },
-        {
-            "group": 1,
-            "frame": 14,
-            "file": "quemoo07.png"
-        },
-        {
-            "group": 1,
-            "frame": 15,
-            "file": "quemoo01.png"
-        },
-        {
-            "group": 2,
-            "frame": 0,
-            "file": "questa01.png"
-        },
-        {
-            "group": 2,
-            "frame": 1,
-            "file": "questa01.png"
-        },
-        {
-            "group": 2,
-            "frame": 2,
-            "file": "questa01.png"
-        },
-        {
-            "group": 2,
-            "frame": 3,
-            "file": "questa09.png"
-        },
-        {
-            "group": 2,
-            "frame": 4,
-            "file": "questa13.png"
-        },
-        {
-            "group": 2,
-            "frame": 5,
-            "file": "questa17.png"
-        },
-        {
-            "group": 2,
-            "frame": 6,
-            "file": "questa21.png"
-        },
-        {
-            "group": 2,
-            "frame": 7,
-            "file": "questa25.png"
-        },
-        {
-            "group": 2,
-            "frame": 8,
-            "file": "questa29.png"
-        },
-        {
-            "group": 2,
-            "frame": 9,
-            "file": "questa33.png"
-        },
-        {
-            "group": 2,
-            "frame": 10,
-            "file": "questa37.png"
-        },
-        {
-            "group": 2,
-            "frame": 11,
-            "file": "questa41.png"
-        },
-        {
-            "group": 2,
-            "frame": 12,
-            "file": "questa44.png"
-        },
-        {
-            "group": 2,
-            "frame": 13,
-            "file": "questa01.png"
-        },
-        {
-            "group": 2,
-            "frame": 14,
-            "file": "questa01.png"
-        },
-        {
-            "group": 3,
-            "frame": 0,
-            "file": "quehit02.png"
-        },
-        {
-            "group": 3,
-            "frame": 1,
-            "file": "quehit09.png"
-        },
-        {
-            "group": 3,
-            "frame": 2,
-            "file": "quehit12.png"
-        },
-        {
-            "group": 3,
-            "frame": 3,
-            "file": "quehit15.png"
-        },
-        {
-            "group": 3,
-            "frame": 4,
-            "file": "quehit18.png"
-        },
-        {
-            "group": 3,
-            "frame": 5,
-            "file": "quehit21.png"
-        },
-        {
-            "group": 3,
-            "frame": 6,
-            "file": "quehit24.png"
-        },
-        {
-            "group": 3,
-            "frame": 7,
-            "file": "quehit30.png"
-        },
-        {
-            "group": 3,
-            "frame": 8,
-            "file": "quehit33.png"
-        },
-        {
-            "group": 4,
-            "frame": 0,
-            "file": "quedef02.png"
-        },
-        {
-            "group": 4,
-            "frame": 1,
-            "file": "quedef08.png"
-        },
-        {
-            "group": 4,
-            "frame": 2,
-            "file": "quedef09.png"
-        },
-        {
-            "group": 4,
-            "frame": 3,
-            "file": "quedef11.png"
-        },
-        {
-            "group": 4,
-            "frame": 4,
-            "file": "quedef13.png"
-        },
-        {
-            "group": 4,
-            "frame": 5,
-            "file": "quedef16.png"
-        },
-        {
-            "group": 4,
-            "frame": 6,
-            "file": "quedef16.png"
-        },
-        {
-            "group": 4,
-            "frame": 7,
-            "file": "quedef13.png"
-        },
-        {
-            "group": 4,
-            "frame": 8,
-            "file": "quedef11.png"
-        },
-        {
-            "group": 4,
-            "frame": 9,
-            "file": "quedef09.png"
-        },
-        {
-            "group": 4,
-            "frame": 10,
-            "file": "quedef08.png"
-        },
-        {
-            "group": 4,
-            "frame": 11,
-            "file": "quedef02.png"
-        },
-        {
-            "group": 5,
-            "frame": 0,
-            "file": "quedth03.png"
-        },
-        {
-            "group": 5,
-            "frame": 1,
-            "file": "quedth09.png"
-        },
-        {
-            "group": 5,
-            "frame": 2,
-            "file": "quedth11.png"
-        },
-        {
-            "group": 5,
-            "frame": 3,
-            "file": "quedth13.png"
-        },
-        {
-            "group": 5,
-            "frame": 4,
-            "file": "quedth14.png"
-        },
-        {
-            "group": 5,
-            "frame": 5,
-            "file": "quedth15.png"
-        },
-        {
-            "group": 5,
-            "frame": 6,
-            "file": "quedth16.png"
-        },
-        {
-            "group": 5,
-            "frame": 7,
-            "file": "quedth25.png"
-        },
-        {
-            "group": 5,
-            "frame": 8,
-            "file": "quedth28.png"
-        },
-        {
-            "group": 5,
-            "frame": 9,
-            "file": "quedth34.png"
-        },
-        {
-            "group": 5,
-            "frame": 10,
-            "file": "quedth40.png"
-        },
-        {
-            "group": 5,
-            "frame": 11,
-            "file": "quedth56.png"
-        },
-        {
-            "group": 6,
-            "frame": 0,
-            "file": "quedth03.png"
-        },
-        {
-            "group": 6,
-            "frame": 1,
-            "file": "quedth09.png"
-        },
-        {
-            "group": 6,
-            "frame": 2,
-            "file": "quedth11.png"
-        },
-        {
-            "group": 6,
-            "frame": 3,
-            "file": "quedth13.png"
-        },
-        {
-            "group": 6,
-            "frame": 4,
-            "file": "quedth14.png"
-        },
-        {
-            "group": 6,
-            "frame": 5,
-            "file": "quedth15.png"
-        },
-        {
-            "group": 6,
-            "frame": 6,
-            "file": "quedth16.png"
-        },
-        {
-            "group": 6,
-            "frame": 7,
-            "file": "quedth25.png"
-        },
-        {
-            "group": 6,
-            "frame": 8,
-            "file": "quedth28.png"
-        },
-        {
-            "group": 6,
-            "frame": 9,
-            "file": "quedth34.png"
-        },
-        {
-            "group": 6,
-            "frame": 10,
-            "file": "quedth40.png"
-        },
-        {
-            "group": 6,
-            "frame": 11,
-            "file": "quedth56.png"
-        },
-        {
-            "group": 7,
-            "frame": 0,
-            "file": "quet1.png"
-        },
-        {
-            "group": 7,
-            "frame": 1,
-            "file": "quet2.png"
-        },
-        {
-            "group": 8,
-            "frame": 0,
-            "file": "quet2.png"
-        },
-        {
-            "group": 8,
-            "frame": 1,
-            "file": "quet1.png"
-        },
-        {
-            "group": 9,
-            "frame": 0,
-            "file": "quet1.png"
-        },
-        {
-            "group": 9,
-            "frame": 1,
-            "file": "quet2.png"
-        },
-        {
-            "group": 10,
-            "frame": 0,
-            "file": "quet2.png"
-        },
-        {
-            "group": 10,
-            "frame": 1,
-            "file": "quet1.png"
-        },
+	"images" : [
 		{
-            "group": 11,
-            "frame": 0,
-            "file": "quet3.png"
-        },
-        {
-            "group": 11,
-            "frame": 1,
-            "file": "queatu00.png"
-        },
-        {
-            "group": 11,
-            "frame": 2,
-            "file": "queatu01.png"
-        },
-        {
-            "group": 11,
-            "frame": 3,
-            "file": "queatu06.png"
-        },
-        {
-            "group": 11,
-            "frame": 4,
-            "file": "queatu07.png"
-        },
-        {
-            "group": 11,
-            "frame": 5,
-            "file": "queatu08.png"
-        },
-        {
-            "group": 11,
-            "frame": 6,
-            "file": "queatu09.png"
-        },
-        {
-            "group": 11,
-            "frame": 7,
-            "file": "queatu10.png"
-        },
-        {
-            "group": 11,
-            "frame": 8,
-            "file": "queatu11.png"
-        },
-        {
-            "group": 11,
-            "frame": 9,
-            "file": "queatu12.png"
-        },
-        {
-            "group": 11,
-            "frame": 10,
-            "file": "queatu13.png"
-        },
-        {
-            "group": 11,
-            "frame": 11,
-            "file": "queatu14.png"
-        },
-        {
-            "group": 11,
-            "frame": 12,
-            "file": "queatu16.png"
-        },
-        {
-            "group": 11,
-            "frame": 13,
-            "file": "queatu18.png"
-        },
-        {
-            "group": 11,
-            "frame": 14,
-            "file": "queatu20.png"
-        },
+			"group" : 0,
+			"frame" : 0,
+			"file" : "quemov02.png"
+		},
 		{
-            "group": 11,
-            "frame": 15,
-            "file": "quet3.png"
-        },
-        {
-            "group": 12,
-            "frame": 0,
-            "file": "queats02.png"
-        },
-        {
-            "group": 12,
-            "frame": 1,
-            "file": "queats08.png"
-        },
-        {
-            "group": 12,
-            "frame": 2,
-            "file": "queats09.png"
-        },
-        {
-            "group": 12,
-            "frame": 3,
-            "file": "queats10.png"
-        },
-        {
-            "group": 12,
-            "frame": 4,
-            "file": "queats11.png"
-        },
-        {
-            "group": 12,
-            "frame": 5,
-            "file": "queats12.png"
-        },
-        {
-            "group": 12,
-            "frame": 6,
-            "file": "queats13.png"
-        },
-        {
-            "group": 12,
-            "frame": 7,
-            "file": "queats14.png"
-        },
-        {
-            "group": 12,
-            "frame": 8,
-            "file": "queats15.png"
-        },
-        {
-            "group": 12,
-            "frame": 9,
-            "file": "queats16.png"
-        },
-        {
-            "group": 12,
-            "frame": 10,
-            "file": "queats17.png"
-        },
-        {
-            "group": 12,
-            "frame": 11,
-            "file": "queats18.png"
-        },
-        {
-            "group": 12,
-            "frame": 12,
-            "file": "queats20.png"
-        },
+			"group" : 0,
+			"frame" : 1,
+			"file" : "quemov08.png"
+		},
 		{
-            "group": 13,
-            "frame": 0,
-            "file": "quet1.png"
-        },
-        {
-            "group": 13,
-            "frame": 1,
-            "file": "queatd04.png"
-        },
-        {
-            "group": 13,
-            "frame": 2,
-            "file": "queatd05.png"
-        },
-        {
-            "group": 13,
-            "frame": 3,
-            "file": "queatd06.png"
-        },
-        {
-            "group": 13,
-            "frame": 4,
-            "file": "queatd07.png"
-        },
-        {
-            "group": 13,
-            "frame": 5,
-            "file": "queatd08.png"
-        },
-        {
-            "group": 13,
-            "frame": 6,
-            "file": "queatd09.png"
-        },
-        {
-            "group": 13,
-            "frame": 7,
-            "file": "queatd10.png"
-        },
-        {
-            "group": 13,
-            "frame": 8,
-            "file": "queatd11.png"
-        },
-        {
-            "group": 13,
-            "frame": 9,
-            "file": "queatd12.png"
-        },
-        {
-            "group": 13,
-            "frame": 10,
-            "file": "queatd13.png"
-        },
-        {
-            "group": 13,
-            "frame": 11,
-            "file": "queatd15.png"
-        },
-        {
-            "group": 13,
-            "frame": 12,
-            "file": "queatd17.png"
-        },
+			"group" : 0,
+			"frame" : 2,
+			"file" : "quemov10.png"
+		},
 		{
-            "group": 13,
-            "frame": 13,
-            "file": "quet1.png"
-        },
-        {
-            "group": 17,
-            "frame": 0,
-            "file": "quesp01.png"
-        },
-        {
-            "group": 17,
-            "frame": 1,
-            "file": "quesp07.png"
-        },
-        {
-            "group": 17,
-            "frame": 2,
-            "file": "quesp08.png"
-        },
-        {
-            "group": 17,
-            "frame": 3,
-            "file": "quesp10.png"
-        },
-        {
-            "group": 17,
-            "frame": 4,
-            "file": "quesp11.png"
-        },
-        {
-            "group": 17,
-            "frame": 5,
-            "file": "quesp12.png"
-        },
-        {
-            "group": 17,
-            "frame": 6,
-            "file": "quesp13.png"
-        },
-        {
-            "group": 17,
-            "frame": 7,
-            "file": "quesp15.png"
-        },
-        {
-            "group": 17,
-            "frame": 8,
-            "file": "quesp17.png"
-        },
-        {
-            "group": 17,
-            "frame": 9,
-            "file": "quesp18.png"
-        },
-        {
-            "group": 17,
-            "frame": 10,
-            "file": "quesp38.png"
-        },
-        {
-            "group": 17,
-            "frame": 11,
-            "file": "quesp42.png"
-        },
-        {
-            "group": 17,
-            "frame": 12,
-            "file": "quesp45.png"
-        },
-        {
-            "group": 17,
-            "frame": 13,
-            "file": "quesp48.png"
-        },
-        {
-            "group": 17,
-            "frame": 14,
-            "file": "quesp51.png"
-        },
-        {
-            "group": 18,
-            "frame": 0,
-            "file": "quesp01.png"
-        },
-        {
-            "group": 18,
-            "frame": 1,
-            "file": "quesp07.png"
-        },
-        {
-            "group": 18,
-            "frame": 2,
-            "file": "quesp08.png"
-        },
-        {
-            "group": 18,
-            "frame": 3,
-            "file": "quesp10.png"
-        },
-        {
-            "group": 18,
-            "frame": 4,
-            "file": "quesp11.png"
-        },
-        {
-            "group": 18,
-            "frame": 5,
-            "file": "quesp12.png"
-        },
-        {
-            "group": 18,
-            "frame": 6,
-            "file": "quesp13.png"
-        },
-        {
-            "group": 18,
-            "frame": 7,
-            "file": "quesp15.png"
-        },
-        {
-            "group": 18,
-            "frame": 8,
-            "file": "quesp17.png"
-        },
-        {
-            "group": 18,
-            "frame": 9,
-            "file": "quesp18.png"
-        },
-        {
-            "group": 18,
-            "frame": 10,
-            "file": "quesp38.png"
-        },
-        {
-            "group": 18,
-            "frame": 11,
-            "file": "quesp42.png"
-        },
-        {
-            "group": 18,
-            "frame": 12,
-            "file": "quesp45.png"
-        },
-        {
-            "group": 18,
-            "frame": 13,
-            "file": "quesp48.png"
-        },
-        {
-            "group": 18,
-            "frame": 14,
-            "file": "quesp51.png"
-        },
-        {
-            "group": 19,
-            "frame": 0,
-            "file": "quesp01.png"
-        },
-        {
-            "group": 19,
-            "frame": 1,
-            "file": "quesp07.png"
-        },
-        {
-            "group": 19,
-            "frame": 2,
-            "file": "quesp08.png"
-        },
-        {
-            "group": 19,
-            "frame": 3,
-            "file": "quesp10.png"
-        },
-        {
-            "group": 19,
-            "frame": 4,
-            "file": "quesp11.png"
-        },
-        {
-            "group": 19,
-            "frame": 5,
-            "file": "quesp12.png"
-        },
-        {
-            "group": 19,
-            "frame": 6,
-            "file": "quesp13.png"
-        },
-        {
-            "group": 19,
-            "frame": 7,
-            "file": "quesp15.png"
-        },
-        {
-            "group": 19,
-            "frame": 8,
-            "file": "quesp17.png"
-        },
-        {
-            "group": 19,
-            "frame": 9,
-            "file": "quesp18.png"
-        },
-        {
-            "group": 19,
-            "frame": 10,
-            "file": "quesp38.png"
-        },
-        {
-            "group": 19,
-            "frame": 11,
-            "file": "quesp42.png"
-        },
-        {
-            "group": 19,
-            "frame": 12,
-            "file": "quesp45.png"
-        },
-        {
-            "group": 19,
-            "frame": 13,
-            "file": "quesp48.png"
-        },
-        {
-            "group": 19,
-            "frame": 14,
-            "file": "quesp51.png"
-        }
-    ],
-    "basepath": "swarm/battle/queen1/"
+			"group" : 0,
+			"frame" : 3,
+			"file" : "quemov12.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "quemov14.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "quemov16.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "quemov18.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "quemov20.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "quemov22.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "quemov24.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "quemov26.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 0,
+			"file" : "quemoo01.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 1,
+			"file" : "quemoo07.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 2,
+			"file" : "quemoo09.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 3,
+			"file" : "quemoo11.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 4,
+			"file" : "quemoo12.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 5,
+			"file" : "quemoo13.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 6,
+			"file" : "quemoo14.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 7,
+			"file" : "quemoo15.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 8,
+			"file" : "quemoo15.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 9,
+			"file" : "quemoo14.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 10,
+			"file" : "quemoo13.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 11,
+			"file" : "quemoo12.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 12,
+			"file" : "quemoo11.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 13,
+			"file" : "quemoo09.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 14,
+			"file" : "quemoo07.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 15,
+			"file" : "quemoo01.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 0,
+			"file" : "questa01.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 1,
+			"file" : "questa01.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 2,
+			"file" : "questa01.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 3,
+			"file" : "questa09.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 4,
+			"file" : "questa13.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 5,
+			"file" : "questa17.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 6,
+			"file" : "questa21.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 7,
+			"file" : "questa25.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 8,
+			"file" : "questa29.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 9,
+			"file" : "questa33.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 10,
+			"file" : "questa37.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 11,
+			"file" : "questa41.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 12,
+			"file" : "questa44.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 13,
+			"file" : "questa01.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 14,
+			"file" : "questa01.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 0,
+			"file" : "quehit02.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 1,
+			"file" : "quehit09.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 2,
+			"file" : "quehit12.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 3,
+			"file" : "quehit15.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 4,
+			"file" : "quehit18.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 5,
+			"file" : "quehit21.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 6,
+			"file" : "quehit24.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 7,
+			"file" : "quehit30.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 8,
+			"file" : "quehit33.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 0,
+			"file" : "quedef02.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 1,
+			"file" : "quedef08.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 2,
+			"file" : "quedef09.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 3,
+			"file" : "quedef11.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 4,
+			"file" : "quedef13.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 5,
+			"file" : "quedef16.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 6,
+			"file" : "quedef16.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 7,
+			"file" : "quedef13.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 8,
+			"file" : "quedef11.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 9,
+			"file" : "quedef09.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 10,
+			"file" : "quedef08.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 11,
+			"file" : "quedef02.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 0,
+			"file" : "quedth03.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 1,
+			"file" : "quedth09.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 2,
+			"file" : "quedth11.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 3,
+			"file" : "quedth13.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 4,
+			"file" : "quedth14.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 5,
+			"file" : "quedth15.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 6,
+			"file" : "quedth16.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 7,
+			"file" : "quedth25.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 8,
+			"file" : "quedth28.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 9,
+			"file" : "quedth34.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 10,
+			"file" : "quedth40.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 11,
+			"file" : "quedth56.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 0,
+			"file" : "quedth03.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 1,
+			"file" : "quedth09.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 2,
+			"file" : "quedth11.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 3,
+			"file" : "quedth13.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 4,
+			"file" : "quedth14.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 5,
+			"file" : "quedth15.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 6,
+			"file" : "quedth16.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 7,
+			"file" : "quedth25.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 8,
+			"file" : "quedth28.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 9,
+			"file" : "quedth34.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 10,
+			"file" : "quedth40.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 11,
+			"file" : "quedth56.png"
+		},
+		{
+			"group" : 7,
+			"frame" : 0,
+			"file" : "quet1.png"
+		},
+		{
+			"group" : 7,
+			"frame" : 1,
+			"file" : "quet2.png"
+		},
+		{
+			"group" : 8,
+			"frame" : 0,
+			"file" : "quet2.png"
+		},
+		{
+			"group" : 8,
+			"frame" : 1,
+			"file" : "quet1.png"
+		},
+		{
+			"group" : 9,
+			"frame" : 0,
+			"file" : "quet1.png"
+		},
+		{
+			"group" : 9,
+			"frame" : 1,
+			"file" : "quet2.png"
+		},
+		{
+			"group" : 10,
+			"frame" : 0,
+			"file" : "quet2.png"
+		},
+		{
+			"group" : 10,
+			"frame" : 1,
+			"file" : "quet1.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 0,
+			"file" : "quet3.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 1,
+			"file" : "queatu00.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 2,
+			"file" : "queatu01.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 3,
+			"file" : "queatu06.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 4,
+			"file" : "queatu07.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 5,
+			"file" : "queatu08.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 6,
+			"file" : "queatu09.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 7,
+			"file" : "queatu10.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 8,
+			"file" : "queatu11.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 9,
+			"file" : "queatu12.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 10,
+			"file" : "queatu13.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 11,
+			"file" : "queatu14.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 12,
+			"file" : "queatu16.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 13,
+			"file" : "queatu18.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 14,
+			"file" : "queatu20.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 15,
+			"file" : "quet3.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 0,
+			"file" : "queats02.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 1,
+			"file" : "queats08.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 2,
+			"file" : "queats09.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 3,
+			"file" : "queats10.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 4,
+			"file" : "queats11.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 5,
+			"file" : "queats12.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 6,
+			"file" : "queats13.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 7,
+			"file" : "queats14.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 8,
+			"file" : "queats15.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 9,
+			"file" : "queats16.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 10,
+			"file" : "queats17.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 11,
+			"file" : "queats18.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 12,
+			"file" : "queats20.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 0,
+			"file" : "quet1.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 1,
+			"file" : "queatd04.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 2,
+			"file" : "queatd05.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 3,
+			"file" : "queatd06.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 4,
+			"file" : "queatd07.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 5,
+			"file" : "queatd08.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 6,
+			"file" : "queatd09.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 7,
+			"file" : "queatd10.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 8,
+			"file" : "queatd11.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 9,
+			"file" : "queatd12.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 10,
+			"file" : "queatd13.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 11,
+			"file" : "queatd15.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 12,
+			"file" : "queatd17.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 13,
+			"file" : "quet1.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 0,
+			"file" : "quesp01.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 1,
+			"file" : "quesp07.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 2,
+			"file" : "quesp08.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 3,
+			"file" : "quesp10.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 4,
+			"file" : "quesp11.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 5,
+			"file" : "quesp12.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 6,
+			"file" : "quesp13.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 7,
+			"file" : "quesp15.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 8,
+			"file" : "quesp17.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 9,
+			"file" : "quesp18.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 10,
+			"file" : "quesp38.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 11,
+			"file" : "quesp42.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 12,
+			"file" : "quesp45.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 13,
+			"file" : "quesp48.png"
+		},
+		{
+			"group" : 17,
+			"frame" : 14,
+			"file" : "quesp51.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 0,
+			"file" : "quesp01.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 1,
+			"file" : "quesp07.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 2,
+			"file" : "quesp08.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 3,
+			"file" : "quesp10.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 4,
+			"file" : "quesp11.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 5,
+			"file" : "quesp12.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 6,
+			"file" : "quesp13.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 7,
+			"file" : "quesp15.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 8,
+			"file" : "quesp17.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 9,
+			"file" : "quesp18.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 10,
+			"file" : "quesp38.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 11,
+			"file" : "quesp42.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 12,
+			"file" : "quesp45.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 13,
+			"file" : "quesp48.png"
+		},
+		{
+			"group" : 18,
+			"frame" : 14,
+			"file" : "quesp51.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 0,
+			"file" : "quesp01.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 1,
+			"file" : "quesp07.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 2,
+			"file" : "quesp08.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 3,
+			"file" : "quesp10.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 4,
+			"file" : "quesp11.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 5,
+			"file" : "quesp12.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 6,
+			"file" : "quesp13.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 7,
+			"file" : "quesp15.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 8,
+			"file" : "quesp17.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 9,
+			"file" : "quesp18.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 10,
+			"file" : "quesp38.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 11,
+			"file" : "quesp42.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 12,
+			"file" : "quesp45.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 13,
+			"file" : "quesp48.png"
+		},
+		{
+			"group" : 19,
+			"frame" : 14,
+			"file" : "quesp51.png"
+		}
+	],
+	"basepath" : "swarm/battle/queen1/"
 }

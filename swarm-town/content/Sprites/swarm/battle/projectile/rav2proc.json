@@ -1,50 +1,50 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "rav2proc90.png"
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "rav2proc22.png"
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "rav2proc45.png"
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "rav2proc67.png"
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "rav2proc00.png"
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "rav2proc-67.png"
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "rav2proc-45.png"
-        },
+	"images" : [
 		{
-            "group": 0,
-            "frame": 7,
-            "file": "rav2proc-22.png"
-        },
+			"group" : 0,
+			"frame" : 0,
+			"file" : "rav2proc90.png"
+		},
 		{
-            "group": 0,
-            "frame": 8,
-            "file": "rav2proc-90.png"
-        }
-    ],
-    "basepath": "swarm/battle/projectile/rav2proc/"
+			"group" : 0,
+			"frame" : 1,
+			"file" : "rav2proc22.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "rav2proc45.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "rav2proc67.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "rav2proc00.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "rav2proc-67.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "rav2proc-45.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "rav2proc-22.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "rav2proc-90.png"
+		}
+	],
+	"basepath" : "swarm/battle/projectile/rav2proc/"
 }

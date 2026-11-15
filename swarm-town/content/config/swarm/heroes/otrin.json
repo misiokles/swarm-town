@@ -1,37 +1,48 @@
 {
-	"otrin" : 
-	{
+	"otrin" : {
 		"class" : "queen",
 		"female" : false,
-		"texts" :
-		{
+		"texts" : {
 			"name" : "Otrin",
-			"biography" : "Jego bratem byl Winston Boragus. Po dojsciu do wladzy Kilgora, otrin zdal sobie sprawe, ze jesli nie chce podzielic losu swojego brata, to musi opuscic Krewlod. Zdecydowal sie dolaczyc do tworzonej przez Kastore'a armii, liczac na to, ze z pomoca nowej technologii uda mu sie pomscic brata.", 
-			"specialty" :
-			{
+			"biography" : "Jego bratem byl Winston Boragus. Po dojsciu do wladzy Kilgora, otrin zdal sobie sprawe, ze jesli nie chce podzielic losu swojego brata, to musi opuscic Krewlod. Zdecydowal sie dolaczyc do tworzonej przez Kastore'a armii, liczac na to, ze z pomoca nowej technologii uda mu sie pomscic brata.",
+			"specialty" : {
 				"description" : "Receives a 5% per level bonus to Mysticism skill.",
 				"tooltip" : "Secondary Skill Bonus: Mysticism",
 				"name" : "Mysticism"
 			}
 		},
-		"images" :
-		{
-			
+		"images" : {
 			"specialtySmall" : "swarm/heroes/otrin/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/otrin/spec-large.png",
 			"large" : "swarm/heroes/otrin/portrait-large.png",
 			"small" : "swarm/heroes/otrin/portrait-small.png"
 		},
-		"army" :
-		[
-			{ "creature" : "queen1", "min" : 1, "max" : 3 },
-			{ "creature" : "queen1", "min" : 1, "max" : 2 },
-			{ "creature" : "queen1", "min" : 1, "max" : 1}
+		"army" : [
+			{
+				"creature" : "queen1",
+				"min" : 1,
+				"max" : 3
+			},
+			{
+				"creature" : "queen1",
+				"min" : 1,
+				"max" : 2
+			},
+			{
+				"creature" : "queen1",
+				"min" : 1,
+				"max" : 1
+			}
 		],
-      "skills":
-		[
-			{ "skill" : "wisdom", "level": "basic" },
-			{ "skill" : "mysticism", "level": "basic" }
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "mysticism",
+				"level" : "basic"
+			}
 		],
 		"specialty" : {
 			"secondary" : "mysticism"

@@ -5,18 +5,28 @@
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"version" : "0.21",
 	"modType" : "Town",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.8.0"
 	},
-	"changelog" :
-	{
-		"0.21"   : [ "Updated to vcmi-1.8 format" ],
-		"0.20"   : [ "Added native terrain" ],
-		"0.13"   : [ "Line-up refreshing by Runawayq" ],
-		"0.12"   : [ "Updated to vcmi-1.7 format" ],
-		"0.11"   : [ "Updated to vcmi-1.4 format" ],
-		"0.10"   : [ "Initial release" ]
+	"changelog" : {
+		"0.21" : [
+			"Updated to vcmi-1.8 format"
+		],
+		"0.20" : [
+			"Added native terrain"
+		],
+		"0.13" : [
+			"Line-up refreshing by Runawayq"
+		],
+		"0.12" : [
+			"Updated to vcmi-1.7 format"
+		],
+		"0.11" : [
+			"Updated to vcmi-1.4 format"
+		],
+		"0.10" : [
+			"Initial release"
+		]
 	},
 	"chinese" : {
 		"name" : "虫群",
@@ -25,23 +35,20 @@
 			"translation/swarm/chinese.json"
 		]
 	},
-	"factions" :
-	[
+	"factions" : [
 		"config/swarm/town/buildings.json",
 		"config/swarm/town/faction.json",
 		"config/swarm/town/siege.json",
 		"config/swarm/town/spells.json",
 		"config/swarm/town/structures.json",
 		"config/swarm/town/puzzle.json"
-
 	],
-	"creatures" :
-	[
+	"creatures" : [
 		"config/swarm/creatures/zergling1.json",
 		"config/swarm/creatures/zergling2.json",
 		"config/swarm/creatures/roach1.json",
 		"config/swarm/creatures/ravager2.json",
-        "config/swarm/creatures/hydralisk1.json",
+		"config/swarm/creatures/hydralisk1.json",
 		"config/swarm/creatures/hydralisk2.json",
 		"config/swarm/creatures/mutalisk1.json",
 		"config/swarm/creatures/mutalisk2.json",
@@ -51,18 +58,14 @@
 		"config/swarm/creatures/hunterling2.json",
 		"config/swarm/creatures/kerrigan1.json"
 	],
-	"heroClasses" :
-	[
-
+	"heroClasses" : [
 		"config/swarm/classes/queen.json",
 		"config/swarm/classes/overseer.json"
-
 	],
 
-	"heroes" :
-	[
+	"heroes" : [
 		"config/swarm/heroes/areks.json",
-	    "config/swarm/heroes/bortex.json",
+		"config/swarm/heroes/bortex.json",
 		"config/swarm/heroes/coreks.json",
 		"config/swarm/heroes/eltriks.json",
 		"config/swarm/heroes/gehs.json",
@@ -76,17 +79,14 @@
 		"config/swarm/heroes/tister.json",
 		"config/swarm/heroes/trokin.json",
 		"config/swarm/heroes/wertex.json",
-		"config/swarm/heroes/zagara.json",	
+		"config/swarm/heroes/zagara.json",
 		"config/swarm/heroes/zasz.json"
 	],
-	"objects" :
-	[
+	"objects" : [
 		"config/swarm/dwellings.json"
-		
 	],
-	
-	"spells" :
-	[
+
+	"spells" : [
 		"config/swarm/spells/corrosiveBile.json",
 		"config/swarm/spells/corrosiveBile2.json"
 	]

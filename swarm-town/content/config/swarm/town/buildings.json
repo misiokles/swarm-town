@@ -1,27 +1,20 @@
 {
-	"swarm" :
-	{
-		"town" :
-		{
-			"buildings" :
-			{
-				"mageGuild1" :
-				{
+	"swarm" : {
+		"town" : {
+			"buildings" : {
+				"mageGuild1" : {
 					"description" : "Entering the Mage Guild will allow a visiting hero to learn the spells kept within.",
 					"name" : "Mage Guild Level 1",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"ore" : 5,
 						"gold" : 2000
 					}
 				},
-				"mageGuild2" :
-				{
+				"mageGuild2" : {
 					"description" : "Entering the Mage Guild will allow a visiting hero to learn the spells kept within.",
 					"name" : "Mage Guild Level 2",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"mercury" : 4,
 						"ore" : 5,
@@ -31,12 +24,10 @@
 						"gold" : 1000
 					}
 				},
-				"mageGuild3" :
-				{
+				"mageGuild3" : {
 					"description" : "Entering the Mage Guild will allow a visiting hero to learn the spells kept within.",
 					"name" : "Mage Guild Level 3",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"mercury" : 6,
 						"ore" : 5,
@@ -46,12 +37,10 @@
 						"gold" : 1000
 					}
 				},
-				"mageGuild4" : 
-				{
+				"mageGuild4" : {
 					"description" : "Entering the Mage Guild will allow a visiting hero to learn the spells kept within.",
 					"name" : "Mage Guild Level 4",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"mercury" : 8,
 						"ore" : 5,
@@ -61,114 +50,94 @@
 						"gold" : 1000
 					}
 				},
-				"tavern" :
-				{
+				"tavern" : {
 					"name" : "Tavern",
 					"description" : "The Tavern increases morale for troops defending the city.",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"gold" : 500
 					}
 				},
-				"fort" :
-				{
+				"fort" : {
 					"name" : "Fort",
 					"description" : "The Fort provides your town with defensive walls.",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 20,
 						"ore" : 20,
 						"gold" : 5000
 					}
 				},
-				"citadel" :
-				{
+				"citadel" : {
 					"name" : "Citadel",
 					"description" : "Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses.",
-					"cost" :
-					{
+					"cost" : {
 						"ore" : 5,
 						"gold" : 2500
 					}
 				},
-				"castle" :
-				{
+				"castle" : {
 					"name" : "Castle",
 					"description" : "The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth.",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 10,
 						"ore" : 10,
 						"gold" : 5000
 					}
 				},
-				"villageHall" :
-				{
+				"villageHall" : {
 					"name" : "Village Hall",
 					"description" : "The Village Hall allows you to purchase town structures and earns your kingdom 500 gold per day."
 				},
-				"townHall" :
-				{
+				"townHall" : {
 					"name" : "Town Hall",
 					"description" : "The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.",
-					"cost" :
-					{
+					"cost" : {
 						"gold" : 2500
 					}
 				},
-				"cityHall" :
-				{
+				"cityHall" : {
 					"name" : "City Hall",
 					"description" : "The City Hall allows you to purchase town structures and earns your kingdom 2000 gold per day.",
-					"cost" :
-					{
+					"cost" : {
 						"gold" : 5000
 					}
 				},
-				"capitol" :
-				{
+				"capitol" : {
 					"name" : "Capitol",
 					"description" : "The Capitol earns your kingdom 4000 gold per day.",
-					"cost" :
-					{
+					"cost" : {
 						"gold" : 10000
 					}
 				},
-				"marketplace" :
-				{
+				"marketplace" : {
 					"name" : "Marketplace",
 					"description" : "With the Marketplace, you can buy and sell resources (exchange rates increase with each Cerebrate you own).",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"gold" : 500
 					}
 				},
-				"resourceSilo" :
-				{
+				"resourceSilo" : {
 					"description" : "The Resource Silo provides you with an additional +1 crystal each day.",
 					"name" : "Resource Silo",
-					"produce": { "crystal": 1 },
-					"cost" :
-					{
+					"produce" : {
+						"crystal" : 1
+					},
+					"cost" : {
 						"ore" : 5,
 						"gold" : 5000
 					}
 				},
-				"blacksmith" :
-				{
+				"blacksmith" : {
 					"description" : "The Blacksmith provides your armies with Ballista.",
 					"name" : "Blacksmith",
 					"warMachine" : "ballista",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"gold" : 1000
 					}
 				},
-				"special1" :
-				{
+				"special1" : {
 					"description" : "The Nidus Channel allows the hero to move between castles without losing mana or movement points.",
 					"name" : "Nidus Channel",
 					"cost" : {
@@ -177,83 +146,84 @@
 						"gold" : 5000
 					},
 					"type" : "castleGate",
-					"requires" : [ "citadel" ]
+					"requires" : [
+						"citadel"
+					]
 				},
-				"special2" :
-				{
+				"special2" : {
 					"description" : "The Sunken Colony adds +2 attack to any garrison hero during an enemy siege.",
 					"name" : "Sunken Colony",
 					"cost" : {
 						"gold" : 1000
 					},
-					"bonuses": [
+					"bonuses" : [
 						{
-							"type": "PRIMARY_SKILL",
-							"subtype": "primarySkill.attack",
-							"val": 2
+							"type" : "PRIMARY_SKILL",
+							"subtype" : "primarySkill.attack",
+							"val" : 2
 						}
 					],
-					"requires" : [ "fort" ]
+					"requires" : [
+						"fort"
+					]
 				},
-                "horde1" :
-				{
+				"horde1" : {
 					"description" : "The Nest Increases Zerglings growth by +10 per week.",
 					"name" : "Nest",
-					"cost" :
-					{
+					"cost" : {
 						"gold" : 1000
 					},
-					"requires" : [ "dwellingLvl1" ]
+					"requires" : [
+						"dwellingLvl1"
+					]
 				},
-                "horde1Upgr" :
-				{
+				"horde1Upgr" : {
 					"description" : "The Nest Increases Zerglings growth by +10 per week.",
 					"name" : "Nest",
-					"cost" :
-					{
+					"cost" : {
 						"gold" : 1000
 					},
-					"requires" : [ "horde1" ]
+					"requires" : [
+						"horde1"
+					]
 				},
-                "special3" :
-				{
+				"special3" : {
 					"name" : "Infestation Web",
 					"description" : "The Infestation Web Adds +1 to the defense of a hero visiting the city once per game.",
-					"cost" :
-					{
+					"cost" : {
 						"wood" : 5,
 						"gold" : 1000
 					},
-				"configuration" : {
+					"configuration" : {
 						"visitMode" : "hero",
 						"rewards" : [
 							{
 								"message" : "Infestation Web increases your attack skill by +1",
-								"primary" : { "attack" : 1 }
+								"primary" : {
+									"attack" : 1
+								}
 							}
 						]
 					}
 				},
-				"grail" :
-				{
+				"grail" : {
 					"description" : "Chrysalis Increases the weekly number of creatures spawned by 100%, adds 5000 gold per day, and increases the attack of each hero by +10.",
 					"name" : "Chrysalis",
-				    "bonuses" : [
+					"bonuses" : [
 						{
 							"type" : "CREATURE_GROWTH_PERCENT",
-				            "val" : 50,
+							"val" : 50,
 							"propagator" : "PLAYER"
 						},
 						{
 							"type" : "PRIMARY_SKILL",
 							"subtype" : "attack",
 							"val" : 10,
-							"propagator": "PLAYER"
+							"propagator" : "PLAYER"
 						}
 					]
 				},
-				"dwellingLvl1" :
-				{
+				"dwellingLvl1" : {
 					"description" : "Spawning Pool allows you to recruit Zerglings.",
 					"name" : "Spawning Pool",
 					"cost" : {
@@ -261,20 +231,28 @@
 						"ore" : 5,
 						"wood" : 5
 					},
-					"requires" : [ "fort" ]
+					"requires" : [
+						"fort"
+					]
 				},
-				"dwellingLvl2" :
-				{
+				"dwellingLvl2" : {
 					"description" : "Spore Colony allows you to recruit Roaches.",
 					"name" : "Spore Colony",
 					"cost" : {
 						"gold" : 1500,
 						"ore" : 10
 					},
-					"requires" : [ "allOf", [ "fort" ], [ "blacksmith" ] ]
+					"requires" : [
+						"allOf",
+						[
+							"fort"
+						],
+						[
+							"blacksmith"
+						]
+					]
 				},
-				"dwellingLvl3" :
-				{
+				"dwellingLvl3" : {
 					"description" : "Hydralisk Den allows you to recruit Hydralisks.",
 					"name" : "Hydralisk Den",
 					"cost" : {
@@ -284,10 +262,17 @@
 						"mercury" : 5,
 						"gems" : 5
 					},
-					"requires" : [ "allOf", [ "dwellingLvl1" ], [ "blacksmith" ] ]
+					"requires" : [
+						"allOf",
+						[
+							"dwellingLvl1"
+						],
+						[
+							"blacksmith"
+						]
+					]
 				},
-				"dwellingLvl4" :
-				{
+				"dwellingLvl4" : {
 					"description" : "Evolution Chamber allows you to recruit Mutalisks.",
 					"name" : "Evolution Chamber",
 					"cost" : {
@@ -298,11 +283,12 @@
 						"crystal" : 3,
 						"gems" : 3,
 						"sulfur" : 3
-						},
-					"requires" : [ "dwellingLvl3" ]
+					},
+					"requires" : [
+						"dwellingLvl3"
+					]
 				},
-				"dwellingLvl5" :
-				{
+				"dwellingLvl5" : {
 					"description" : "Queens Lair allows you to recruit Queens.",
 					"name" : "Queens Lair",
 					"cost" : {
@@ -311,10 +297,17 @@
 						"wood" : 5,
 						"mercury" : 5
 					},
-					"requires" : [ "allOf", [ "dwellingLvl1" ], [ "dwellingLvl2" ] ]
+					"requires" : [
+						"allOf",
+						[
+							"dwellingLvl1"
+						],
+						[
+							"dwellingLvl2"
+						]
+					]
 				},
-				"dwellingLvl6" :
-				{
+				"dwellingLvl6" : {
 					"description" : "Brutalisk Cavern allows you to recruit Brutalisks.",
 					"name" : "Brutalisk Cavern",
 					"cost" : {
@@ -324,10 +317,17 @@
 						"sulfur" : 5,
 						"gems" : 5
 					},
-					"requires" : [ "allOf", [ "dwellingLvl3" ], [ "dwellingLvl5" ] ]
+					"requires" : [
+						"allOf",
+						[
+							"dwellingLvl3"
+						],
+						[
+							"dwellingLvl5"
+						]
+					]
 				},
-				"dwellingLvl7" :
-				{
+				"dwellingLvl7" : {
 					"description" : "Defiler Mound allows you to recruit Queens of Blades.",
 					"name" : "Defiler Mound",
 					"cost" : {
@@ -339,10 +339,17 @@
 						"crystal" : 10,
 						"gems" : 10
 					},
-					"requires" : [ "allOf", [ "dwellingLvl6" ], [ "mageGuild1" ] ]
+					"requires" : [
+						"allOf",
+						[
+							"dwellingLvl6"
+						],
+						[
+							"mageGuild1"
+						]
+					]
 				},
-				"dwellingUpLvl1" :
-				{
+				"dwellingUpLvl1" : {
 					"description" : "Upg. Spawning Pool allows you to recruit Winged Zerglings.",
 					"name" : "Upg. Spawning Pool",
 					"cost" : {
@@ -352,8 +359,7 @@
 					},
 					"upgrades" : "dwellingLvl1"
 				},
-				"dwellingUpLvl2" :
-				{
+				"dwellingUpLvl2" : {
 					"description" : "Upg. Spore Colony allows you to recruit Ravagers.",
 					"name" : "Upg. Spore Colony",
 					"cost" : {
@@ -363,8 +369,7 @@
 					},
 					"upgrades" : "dwellingLvl2"
 				},
-				"dwellingUpLvl3" :
-				{
+				"dwellingUpLvl3" : {
 					"description" : "Upg. Hydralisk Den allows you to recruit Primal Hydralisks.",
 					"name" : "Upg. Hydralisk Den",
 					"cost" : {
@@ -372,11 +377,18 @@
 						"ore" : 10,
 						"wood" : 5
 					},
-					"requires" :   [ "allOf", ["fort"],["dwellingUpLvl1"] ],		
+					"requires" : [
+						"allOf",
+						[
+							"fort"
+						],
+						[
+							"dwellingUpLvl1"
+						]
+					],
 					"upgrades" : "dwellingLvl3"
 				},
-				"dwellingUpLvl4" :
-				{
+				"dwellingUpLvl4" : {
 					"description" : "Upg. Evolution Chamber allows you to recruit Upgraded Mutalisks.",
 					"name" : "Upg. Evolution Chamber",
 					"cost" : {
@@ -388,8 +400,7 @@
 					},
 					"upgrades" : "dwellingLvl4"
 				},
-				"dwellingUpLvl5" :
-				{
+				"dwellingUpLvl5" : {
 					"description" : "Upg. Queens Lair allows you to recruit Upgraded Queens.",
 					"name" : "Upg. Queens Lair",
 					"cost" : {
@@ -401,8 +412,7 @@
 					//"requires" : [ "mageGuild1" ],
 					"upgrades" : "dwellingLvl5"
 				},
-				"dwellingUpLvl6" :
-				{
+				"dwellingUpLvl6" : {
 					"description" : "Upg. Brutalisk Cavern allows you to recruit Hunterlings.",
 					"name" : "Upg. Brutalisk Cavern",
 					"cost" : {
@@ -415,9 +425,8 @@
 						"gems" : 6
 					},
 					"upgrades" : "dwellingLvl6"
-				},
+				}
 			}
 		}
 	}
 }
-

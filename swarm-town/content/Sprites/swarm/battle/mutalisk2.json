@@ -1,655 +1,655 @@
 {
-	"basepath": "swarm/battle/mutalisk2/",
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "mutalisk2-moving03.png"
-        },
-        {
-            "group": 0,
-            "frame": 1,
-            "file": "mutalisk2-moving04.png"
-        },
-        {
-            "group": 0,
-            "frame": 2,
-            "file": "mutalisk2-moving05.png"
-        },
-        {
-            "group": 0,
-            "frame": 3,
-            "file": "mutalisk2-moving06.png"
-        },
-        {
-            "group": 0,
-            "frame": 4,
-            "file": "mutalisk2-moving07.png"
-        },
-        {
-            "group": 0,
-            "frame": 5,
-            "file": "mutalisk2-moving18.png"
-        },
-        {
-            "group": 0,
-            "frame": 6,
-            "file": "mutalisk2-moving19.png"
-        },
-        {
-            "group": 0,
-            "frame": 7,
-            "file": "mutalisk2-moving20.png"
-        },
-        {
-            "group": 0,
-            "frame": 8,
-            "file": "mutalisk2-moving21.png"
-        },
-        {
-            "group": 0,
-            "frame": 9,
-            "file": "mutalisk2-moving22.png"
-        },
-        {
-            "group": 0,
-            "frame": 10,
-            "file": "mutalisk2-moving23.png"
-        },
-        {
-            "group": 0,
-            "frame": 11,
-            "file": "mutalisk2-moving24.png"
-        },
-        {
-            "group": 1,
-            "frame": 0,
-            "file": "mutalisk2-standing00.png"
-        },
-        {
-            "group": 1,
-            "frame": 1,
-            "file": "mutalisk2-standing01.png"
-        },
-        {
-            "group": 1,
-            "frame": 2,
-            "file": "mutalisk2-standing02.png"
-        },
-        {
-            "group": 1,
-            "frame": 3,
-            "file": "mutalisk2-standing03.png"
-        },
-        {
-            "group": 1,
-            "frame": 4,
-            "file": "mutalisk2-standing04.png"
-        },
-        {
-            "group": 1,
-            "frame": 5,
-            "file": "mutalisk2-standing05.png"
-        },
-        {
-            "group": 1,
-            "frame": 6,
-            "file": "mutalisk2-standing06.png"
-        },
-        {
-            "group": 1,
-            "frame": 7,
-            "file": "mutalisk2-standing07.png"
-        },
-        {
-            "group": 1,
-            "frame": 8,
-            "file": "mutalisk2-standing17.png"
-        },
-        {
-            "group": 1,
-            "frame": 9,
-            "file": "mutalisk2-standing18.png"
-        },
-        {
-            "group": 1,
-            "frame": 10,
-            "file": "mutalisk2-standing19.png"
-        },
-        {
-            "group": 1,
-            "frame": 11,
-            "file": "mutalisk2-standing20.png"
-        },
-        {
-            "group": 1,
-            "frame": 12,
-            "file": "mutalisk2-standing21.png"
-        },
-        {
-            "group": 1,
-            "frame": 13,
-            "file": "mutalisk2-standing22.png"
-        },
-        {
-            "group": 1,
-            "frame": 14,
-            "file": "mutalisk2-standing23.png"
-        },
-        {
-            "group": 1,
-            "frame": 15,
-            "file": "mutalisk2-standing24.png"
-        },
-        {
-            "group": 1,
-            "frame": 16,
-            "file": "mutalisk2-standing25.png"
-        },
-        {
-            "group": 1,
-            "frame": 17,
-            "file": "mutalisk2-standing26.png"
-        },
-        {
-            "group": 1,
-            "frame": 18,
-            "file": "mutalisk2-standing27.png"
-        },
-        {
-            "group": 1,
-            "frame": 19,
-            "file": "mutalisk2-standing28.png"
-        },
-        {
-            "group": 1,
-            "frame": 20,
-            "file": "mutalisk2-standing29.png"
-        },
-        {
-            "group": 1,
-            "frame": 21,
-            "file": "mutalisk2-standing30.png"
-        },
-        {
-            "group": 1,
-            "frame": 22,
-            "file": "mutalisk2-standing31.png"
-        },
-        {
-            "group": 1,
-            "frame": 23,
-            "file": "mutalisk2-standing32.png"
-        },
-        {
-            "group": 1,
-            "frame": 24,
-            "file": "mutalisk2-standing33.png"
-        },
-        {
-            "group": 2,
-            "frame": 0,
-            "file": "mutalisk2-standing33.png"
-        },
-        {
-            "group": 2,
-            "frame": 1,
-            "file": "mutalisk2-standing32.png"
-        },
-        {
-            "group": 2,
-            "frame": 2,
-            "file": "mutalisk2-standing31.png"
-        },
-        {
-            "group": 2,
-            "frame": 3,
-            "file": "mutalisk2-standing30.png"
-        },
-        {
-            "group": 2,
-            "frame": 4,
-            "file": "mutalisk2-standing29.png"
-        },
-        {
-            "group": 2,
-            "frame": 5,
-            "file": "mutalisk2-standing28.png"
-        },
-        {
-            "group": 2,
-            "frame": 6,
-            "file": "mutalisk2-standing27.png"
-        },
-        {
-            "group": 2,
-            "frame": 7,
-            "file": "mutalisk2-standing26.png"
-        },
-        {
-            "group": 2,
-            "frame": 8,
-            "file": "mutalisk2-standing25.png"
-        },
-        {
-            "group": 2,
-            "frame": 9,
-            "file": "mutalisk2-standing24.png"
-        },
-        {
-            "group": 2,
-            "frame": 10,
-            "file": "mutalisk2-standing25.png"
-        },
-        {
-            "group": 2,
-            "frame": 11,
-            "file": "mutalisk2-standing26.png"
-        },
-        {
-            "group": 2,
-            "frame": 12,
-            "file": "mutalisk2-standing27.png"
-        },
-        {
-            "group": 2,
-            "frame": 13,
-            "file": "mutalisk2-standing28.png"
-        },
-        {
-            "group": 2,
-            "frame": 14,
-            "file": "mutalisk2-standing29.png"
-        },
-        {
-            "group": 2,
-            "frame": 15,
-            "file": "mutalisk2-standing30.png"
-        },
-        {
-            "group": 2,
-            "frame": 16,
-            "file": "mutalisk2-standing31.png"
-        },
-        {
-            "group": 2,
-            "frame": 17,
-            "file": "mutalisk2-standing32.png"
-        },
-        {
-            "group": 2,
-            "frame": 18,
-            "file": "mutalisk2-standing33.png"
-        },
-        {
-            "group": 3,
-            "frame": 0,
-            "file": "mutalisk2-gettinghit24.png"
-        },
-        {
-            "group": 3,
-            "frame": 1,
-            "file": "mutalisk2-gettinghit12.png"
-        },
-        {
-            "group": 3,
-            "frame": 2,
-            "file": "mutalisk2-gettinghit11.png"
-        },
-        {
-            "group": 3,
-            "frame": 3,
-            "file": "mutalisk2-gettinghit10.png"
-        },
-        {
-            "group": 3,
-            "frame": 4,
-            "file": "mutalisk2-gettinghit11.png"
-        },
-        {
-            "group": 3,
-            "frame": 5,
-            "file": "mutalisk2-gettinghit12.png"
-        },
-        {
-            "group": 3,
-            "frame": 6,
-            "file": "mutalisk2-gettinghit24.png"
-        },
-        {
-            "group": 4,
-            "frame": 0,
-            "file": "mutalisk2-defend04.png"
-        },
-        {
-            "group": 4,
-            "frame": 1,
-            "file": "mutalisk2-defend05.png"
-        },
-        {
-            "group": 4,
-            "frame": 2,
-            "file": "mutalisk2-defend06.png"
-        },
-        {
-            "group": 4,
-            "frame": 3,
-            "file": "mutalisk2-defend07.png"
-        },
-        {
-            "group": 4,
-            "frame": 4,
-            "file": "mutalisk2-defend08.png"
-        },
-        {
-            "group": 4,
-            "frame": 5,
-            "file": "mutalisk2-defend08.png"
-        },
-        {
-            "group": 4,
-            "frame": 6,
-            "file": "mutalisk2-defend07.png"
-        },
-        {
-            "group": 4,
-            "frame": 7,
-            "file": "mutalisk2-defend06.png"
-        },
-        {
-            "group": 4,
-            "frame": 8,
-            "file": "mutalisk2-defend05.png"
-        },
-        {
-            "group": 4,
-            "frame": 9,
-            "file": "mutalisk2-defend04.png"
-        },
-        {
-            "group": 5,
-            "frame": 0,
-            "file": "mutalisk2-death02.png"
-        },
-        {
-            "group": 5,
-            "frame": 1,
-            "file": "mutalisk2-death03.png"
-        },
-        {
-            "group": 5,
-            "frame": 2,
-            "file": "mutalisk2-death04.png"
-        },
-        {
-            "group": 5,
-            "frame": 3,
-            "file": "mutalisk2-death05.png"
-        },
-        {
-            "group": 5,
-            "frame": 4,
-            "file": "mutalisk2-death06.png"
-        },
-        {
-            "group": 5,
-            "frame": 5,
-            "file": "mutalisk2-death07.png"
-        },
-        {
-            "group": 5,
-            "frame": 6,
-            "file": "mutalisk2-death08.png"
-        },
-        {
-            "group": 5,
-            "frame": 7,
-            "file": "mutalisk2-death09.png"
-        },
-        {
-            "group": 5,
-            "frame": 8,
-            "file": "mutalisk2-death10.png"
-        },
-        {
-            "group": 6,
-            "frame": 0,
-            "file": "mutalisk2-death02.png"
-        },
-        {
-            "group": 6,
-            "frame": 1,
-            "file": "mutalisk2-death03.png"
-        },
-        {
-            "group": 6,
-            "frame": 2,
-            "file": "mutalisk2-death04.png"
-        },
-        {
-            "group": 6,
-            "frame": 3,
-            "file": "mutalisk2-death05.png"
-        },
-        {
-            "group": 6,
-            "frame": 4,
-            "file": "mutalisk2-death06.png"
-        },
-        {
-            "group": 6,
-            "frame": 5,
-            "file": "mutalisk2-death07.png"
-        },
-        {
-            "group": 6,
-            "frame": 6,
-            "file": "mutalisk2-death08.png"
-        },
-        {
-            "group": 6,
-            "frame": 7,
-            "file": "mutalisk2-death09.png"
-        },
-        {
-            "group": 6,
-            "frame": 8,
-            "file": "mutalisk2-death10.png"
-        },
-        {
-            "group": 7,
-            "frame": 0,
-            "file": "mutalisk2-turn125a.png"
-        },
-        {
-            "group": 7,
-            "frame": 1,
-            "file": "mutalisk2-turn140a.png"
-        },
-        {
-            "group": 8,
-            "frame": 0,
-            "file": "mutalisk2-turn140a.png"
-        },
-        {
-            "group": 8,
-            "frame": 1,
-            "file": "mutalisk2-turn125a.png"
-        },
-        {
-            "group": 9,
-            "frame": 0,
-            "file": "mutalisk2-turn125a.png"
-        },
-        {
-            "group": 9,
-            "frame": 1,
-            "file": "mutalisk2-turn140a.png"
-        },
-        {
-            "group": 10,
-            "frame": 0,
-            "file": "mutalisk2-turn140a.png"
-        },
-        {
-            "group": 10,
-            "frame": 1,
-            "file": "mutalisk2-turn125a.png"
-        },
-        {
-            "group": 11,
-            "frame": 0,
-            "file": "mutalisk2-turn90a.png"
-        },
-        {
-            "group": 11,
-            "frame": 1,
-            "file": "mutalisk2-turn75a.png"
-        },
-        {
-            "group": 11,
-            "frame": 2,
-            "file": "mutalisk2-attackup04.png"
-        },
-        {
-            "group": 11,
-            "frame": 3,
-            "file": "mutalisk2-attackup05.png"
-        },
-        {
-            "group": 11,
-            "frame": 4,
-            "file": "mutalisk2-attackup06.png"
-        },
-        {
-            "group": 11,
-            "frame": 5,
-            "file": "mutalisk2-attackup07.png"
-        },
-        {
-            "group": 11,
-            "frame": 6,
-            "file": "mutalisk2-attackup08.png"
-        },
-        {
-            "group": 11,
-            "frame": 7,
-            "file": "mutalisk2-attackup09.png"
-        },
-        {
-            "group": 11,
-            "frame": 8,
-            "file": "mutalisk2-attackup10.png"
-        },
-        {
-            "group": 11,
-            "frame": 9,
-            "file": "mutalisk2-attackup11.png"
-        },
-        {
-            "group": 11,
-            "frame": 10,
-            "file": "mutalisk2-turn75a.png"
-        },
-        {
-            "group": 11,
-            "frame": 11,
-            "file": "mutalisk2-turn90a.png"
-        },
-        {
-            "group": 12,
-            "frame": 0,
-            "file": "mutalisk2-attackstraight02.png"
-        },
-        {
-            "group": 12,
-            "frame": 1,
-            "file": "mutalisk2-attackstraight03.png"
-        },
-        {
-            "group": 12,
-            "frame": 2,
-            "file": "mutalisk2-attackstraight04.png"
-        },
-        {
-            "group": 12,
-            "frame": 3,
-            "file": "mutalisk2-attackstraight05.png"
-        },
-        {
-            "group": 12,
-            "frame": 4,
-            "file": "mutalisk2-attackstraight06.png"
-        },
-        {
-            "group": 12,
-            "frame": 5,
-            "file": "mutalisk2-attackstraight07.png"
-        },
-        {
-            "group": 12,
-            "frame": 6,
-            "file": "mutalisk2-attackstraight08.png"
-        },
-        {
-            "group": 12,
-            "frame": 7,
-            "file": "mutalisk2-attackstraight09.png"
-        },
-        {
-            "group": 13,
-            "frame": 0,
-            "file": "mutalisk2-turn125a.png"
-        },
-        {
-            "group": 13,
-            "frame": 1,
-            "file": "mutalisk2-turn140a.png"
-        },
-        {
-            "group": 13,
-            "frame": 2,
-            "file": "mutalisk2-attackdown05.png"
-        },
-        {
-            "group": 13,
-            "frame": 3,
-            "file": "mutalisk2-attackdown06.png"
-        },
-        {
-            "group": 13,
-            "frame": 4,
-            "file": "mutalisk2-attackdown07.png"
-        },
-        {
-            "group": 13,
-            "frame": 5,
-            "file": "mutalisk2-attackdown08.png"
-        },
-        {
-            "group": 13,
-            "frame": 6,
-            "file": "mutalisk2-attackdown09.png"
-        },
-        {
-            "group": 13,
-            "frame": 7,
-            "file": "mutalisk2-attackdown10.png"
-        },
-        {
-            "group": 13,
-            "frame": 8,
-            "file": "mutalisk2-attackdown11.png"
-        },
-        {
-            "group": 13,
-            "frame": 9,
-            "file": "mutalisk2-turn140a.png"
-        },
-        {
-            "group": 13,
-            "frame": 10,
-            "file": "mutalisk2-turn125a.png"
-        }
-    ],
+	"basepath" : "swarm/battle/mutalisk2/",
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "mutalisk2-moving03.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "mutalisk2-moving04.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "mutalisk2-moving05.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "mutalisk2-moving06.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "mutalisk2-moving07.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "mutalisk2-moving18.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "mutalisk2-moving19.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "mutalisk2-moving20.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "mutalisk2-moving21.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "mutalisk2-moving22.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "mutalisk2-moving23.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 11,
+			"file" : "mutalisk2-moving24.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 0,
+			"file" : "mutalisk2-standing00.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 1,
+			"file" : "mutalisk2-standing01.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 2,
+			"file" : "mutalisk2-standing02.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 3,
+			"file" : "mutalisk2-standing03.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 4,
+			"file" : "mutalisk2-standing04.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 5,
+			"file" : "mutalisk2-standing05.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 6,
+			"file" : "mutalisk2-standing06.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 7,
+			"file" : "mutalisk2-standing07.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 8,
+			"file" : "mutalisk2-standing17.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 9,
+			"file" : "mutalisk2-standing18.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 10,
+			"file" : "mutalisk2-standing19.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 11,
+			"file" : "mutalisk2-standing20.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 12,
+			"file" : "mutalisk2-standing21.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 13,
+			"file" : "mutalisk2-standing22.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 14,
+			"file" : "mutalisk2-standing23.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 15,
+			"file" : "mutalisk2-standing24.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 16,
+			"file" : "mutalisk2-standing25.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 17,
+			"file" : "mutalisk2-standing26.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 18,
+			"file" : "mutalisk2-standing27.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 19,
+			"file" : "mutalisk2-standing28.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 20,
+			"file" : "mutalisk2-standing29.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 21,
+			"file" : "mutalisk2-standing30.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 22,
+			"file" : "mutalisk2-standing31.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 23,
+			"file" : "mutalisk2-standing32.png"
+		},
+		{
+			"group" : 1,
+			"frame" : 24,
+			"file" : "mutalisk2-standing33.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 0,
+			"file" : "mutalisk2-standing33.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 1,
+			"file" : "mutalisk2-standing32.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 2,
+			"file" : "mutalisk2-standing31.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 3,
+			"file" : "mutalisk2-standing30.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 4,
+			"file" : "mutalisk2-standing29.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 5,
+			"file" : "mutalisk2-standing28.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 6,
+			"file" : "mutalisk2-standing27.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 7,
+			"file" : "mutalisk2-standing26.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 8,
+			"file" : "mutalisk2-standing25.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 9,
+			"file" : "mutalisk2-standing24.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 10,
+			"file" : "mutalisk2-standing25.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 11,
+			"file" : "mutalisk2-standing26.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 12,
+			"file" : "mutalisk2-standing27.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 13,
+			"file" : "mutalisk2-standing28.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 14,
+			"file" : "mutalisk2-standing29.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 15,
+			"file" : "mutalisk2-standing30.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 16,
+			"file" : "mutalisk2-standing31.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 17,
+			"file" : "mutalisk2-standing32.png"
+		},
+		{
+			"group" : 2,
+			"frame" : 18,
+			"file" : "mutalisk2-standing33.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 0,
+			"file" : "mutalisk2-gettinghit24.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 1,
+			"file" : "mutalisk2-gettinghit12.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 2,
+			"file" : "mutalisk2-gettinghit11.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 3,
+			"file" : "mutalisk2-gettinghit10.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 4,
+			"file" : "mutalisk2-gettinghit11.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 5,
+			"file" : "mutalisk2-gettinghit12.png"
+		},
+		{
+			"group" : 3,
+			"frame" : 6,
+			"file" : "mutalisk2-gettinghit24.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 0,
+			"file" : "mutalisk2-defend04.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 1,
+			"file" : "mutalisk2-defend05.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 2,
+			"file" : "mutalisk2-defend06.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 3,
+			"file" : "mutalisk2-defend07.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 4,
+			"file" : "mutalisk2-defend08.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 5,
+			"file" : "mutalisk2-defend08.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 6,
+			"file" : "mutalisk2-defend07.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 7,
+			"file" : "mutalisk2-defend06.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 8,
+			"file" : "mutalisk2-defend05.png"
+		},
+		{
+			"group" : 4,
+			"frame" : 9,
+			"file" : "mutalisk2-defend04.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 0,
+			"file" : "mutalisk2-death02.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 1,
+			"file" : "mutalisk2-death03.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 2,
+			"file" : "mutalisk2-death04.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 3,
+			"file" : "mutalisk2-death05.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 4,
+			"file" : "mutalisk2-death06.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 5,
+			"file" : "mutalisk2-death07.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 6,
+			"file" : "mutalisk2-death08.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 7,
+			"file" : "mutalisk2-death09.png"
+		},
+		{
+			"group" : 5,
+			"frame" : 8,
+			"file" : "mutalisk2-death10.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 0,
+			"file" : "mutalisk2-death02.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 1,
+			"file" : "mutalisk2-death03.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 2,
+			"file" : "mutalisk2-death04.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 3,
+			"file" : "mutalisk2-death05.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 4,
+			"file" : "mutalisk2-death06.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 5,
+			"file" : "mutalisk2-death07.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 6,
+			"file" : "mutalisk2-death08.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 7,
+			"file" : "mutalisk2-death09.png"
+		},
+		{
+			"group" : 6,
+			"frame" : 8,
+			"file" : "mutalisk2-death10.png"
+		},
+		{
+			"group" : 7,
+			"frame" : 0,
+			"file" : "mutalisk2-turn125a.png"
+		},
+		{
+			"group" : 7,
+			"frame" : 1,
+			"file" : "mutalisk2-turn140a.png"
+		},
+		{
+			"group" : 8,
+			"frame" : 0,
+			"file" : "mutalisk2-turn140a.png"
+		},
+		{
+			"group" : 8,
+			"frame" : 1,
+			"file" : "mutalisk2-turn125a.png"
+		},
+		{
+			"group" : 9,
+			"frame" : 0,
+			"file" : "mutalisk2-turn125a.png"
+		},
+		{
+			"group" : 9,
+			"frame" : 1,
+			"file" : "mutalisk2-turn140a.png"
+		},
+		{
+			"group" : 10,
+			"frame" : 0,
+			"file" : "mutalisk2-turn140a.png"
+		},
+		{
+			"group" : 10,
+			"frame" : 1,
+			"file" : "mutalisk2-turn125a.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 0,
+			"file" : "mutalisk2-turn90a.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 1,
+			"file" : "mutalisk2-turn75a.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 2,
+			"file" : "mutalisk2-attackup04.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 3,
+			"file" : "mutalisk2-attackup05.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 4,
+			"file" : "mutalisk2-attackup06.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 5,
+			"file" : "mutalisk2-attackup07.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 6,
+			"file" : "mutalisk2-attackup08.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 7,
+			"file" : "mutalisk2-attackup09.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 8,
+			"file" : "mutalisk2-attackup10.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 9,
+			"file" : "mutalisk2-attackup11.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 10,
+			"file" : "mutalisk2-turn75a.png"
+		},
+		{
+			"group" : 11,
+			"frame" : 11,
+			"file" : "mutalisk2-turn90a.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 0,
+			"file" : "mutalisk2-attackstraight02.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 1,
+			"file" : "mutalisk2-attackstraight03.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 2,
+			"file" : "mutalisk2-attackstraight04.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 3,
+			"file" : "mutalisk2-attackstraight05.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 4,
+			"file" : "mutalisk2-attackstraight06.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 5,
+			"file" : "mutalisk2-attackstraight07.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 6,
+			"file" : "mutalisk2-attackstraight08.png"
+		},
+		{
+			"group" : 12,
+			"frame" : 7,
+			"file" : "mutalisk2-attackstraight09.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 0,
+			"file" : "mutalisk2-turn125a.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 1,
+			"file" : "mutalisk2-turn140a.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 2,
+			"file" : "mutalisk2-attackdown05.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 3,
+			"file" : "mutalisk2-attackdown06.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 4,
+			"file" : "mutalisk2-attackdown07.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 5,
+			"file" : "mutalisk2-attackdown08.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 6,
+			"file" : "mutalisk2-attackdown09.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 7,
+			"file" : "mutalisk2-attackdown10.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 8,
+			"file" : "mutalisk2-attackdown11.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 9,
+			"file" : "mutalisk2-turn140a.png"
+		},
+		{
+			"group" : 13,
+			"frame" : 10,
+			"file" : "mutalisk2-turn125a.png"
+		}
+	]
 }
