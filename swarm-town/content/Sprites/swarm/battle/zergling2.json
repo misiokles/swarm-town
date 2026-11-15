@@ -1,1027 +1,1027 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "ling2mov02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "ling2mov03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "ling2mov04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "ling2mov05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "ling2mov06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "ling2mov07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "ling2mov08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "ling2mov09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 0,
-			"file" : "ling2moo03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 1,
-			"file" : "ling2moo05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 2,
-			"file" : "ling2moo07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 3,
-			"file" : "ling2moo09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 4,
-			"file" : "ling2moo11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 5,
-			"file" : "ling2moo13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 6,
-			"file" : "ling2moo15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 7,
-			"file" : "ling2moo17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 8,
-			"file" : "ling2moo19.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 9,
-			"file" : "ling2moo21.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 10,
-			"file" : "ling2moo23.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 11,
-			"file" : "ling2moo25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 12,
-			"file" : "ling2moo27.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 13,
-			"file" : "ling2moo42.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 14,
-			"file" : "ling2moo44.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 15,
-			"file" : "ling2moo46.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 16,
-			"file" : "ling2moo48.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 17,
-			"file" : "ling2moo50.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 18,
-			"file" : "ling2moo52.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 19,
-			"file" : "ling2moo54.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 20,
-			"file" : "ling2moo56.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 21,
-			"file" : "ling2moo58.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 0,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 1,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 2,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 3,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 4,
-			"file" : "ling2sta01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 5,
-			"file" : "ling2sta02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 6,
-			"file" : "ling2sta03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 7,
-			"file" : "ling2sta04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 8,
-			"file" : "ling2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 9,
-			"file" : "ling2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 10,
-			"file" : "ling2sta07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 11,
-			"file" : "ling2sta08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 12,
-			"file" : "ling2sta07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 13,
-			"file" : "ling2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 14,
-			"file" : "ling2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 15,
-			"file" : "ling2sta04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 16,
-			"file" : "ling2sta03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 17,
-			"file" : "ling2sta02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 18,
-			"file" : "ling2sta01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 19,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 20,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 21,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 22,
-			"file" : "ling2sta00.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 0,
-			"file" : "ling2hit04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 1,
-			"file" : "ling2hit05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 2,
-			"file" : "ling2hit06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 3,
-			"file" : "ling2hit07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 4,
-			"file" : "ling2hit06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 5,
-			"file" : "ling2hit05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 6,
-			"file" : "ling2hit04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 0,
-			"file" : "ling2def04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 1,
-			"file" : "ling2def06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 2,
-			"file" : "ling2def08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 3,
-			"file" : "ling2def10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 4,
-			"file" : "ling2def12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 5,
-			"file" : "ling2def10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 6,
-			"file" : "ling2def08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 7,
-			"file" : "ling2def06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 8,
-			"file" : "ling2def04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 0,
-			"file" : "zergling2-death1.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 1,
-			"file" : "ling2dth07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 2,
-			"file" : "ling2dth08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 3,
-			"file" : "ling2dth10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 4,
-			"file" : "ling2dth11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 5,
-			"file" : "ling2dth12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 6,
-			"file" : "ling2dth13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 7,
-			"file" : "ling2dth15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 8,
-			"file" : "ling2dth17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 9,
-			"file" : "ling2dth19.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 10,
-			"file" : "ling2dth22.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 11,
-			"file" : "ling2dth25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 12,
-			"file" : "ling2dth28.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 13,
-			"file" : "ling2dth30.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 14,
-			"file" : "ling2dth32.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 15,
-			"file" : "ling2dth37.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 16,
-			"file" : "ling2dth38.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 17,
-			"file" : "ling2dth46.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 0,
-			"file" : "zergling2-death1.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 1,
-			"file" : "ling2dth07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 2,
-			"file" : "ling2dth08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 3,
-			"file" : "ling2dth10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 4,
-			"file" : "ling2dth11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 5,
-			"file" : "ling2dth12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 6,
-			"file" : "ling2dth13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 7,
-			"file" : "ling2dth15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 8,
-			"file" : "ling2dth17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 9,
-			"file" : "ling2dth19.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 10,
-			"file" : "ling2dth22.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 11,
-			"file" : "ling2dth25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 12,
-			"file" : "ling2dth28.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 13,
-			"file" : "ling2dth30.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 14,
-			"file" : "ling2dth32.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 15,
-			"file" : "ling2dth37.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 16,
-			"file" : "ling2dth38.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 17,
-			"file" : "ling2dth46.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 7,
-			"frame" : 0,
-			"file" : "zergling2-turn119.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 7,
-			"frame" : 1,
-			"file" : "zergling2-turn136.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 8,
-			"frame" : 0,
-			"file" : "zergling2-turn136.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 8,
-			"frame" : 1,
-			"file" : "zergling2-turn119.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 9,
-			"frame" : 0,
-			"file" : "zergling2-turn119.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 9,
-			"frame" : 1,
-			"file" : "zergling2-turn136.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 10,
-			"frame" : 0,
-			"file" : "zergling2-turn136.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 10,
-			"frame" : 1,
-			"file" : "zergling2-turn119.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 0,
-			"file" : "zergling2-turn80.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 1,
-			"file" : "ling2atu01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 2,
-			"file" : "ling2atu02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 3,
-			"file" : "ling2atu03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 4,
-			"file" : "ling2atu04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 5,
-			"file" : "ling2atu05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 6,
-			"file" : "ling2atu06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 7,
-			"file" : "ling2atu07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 8,
-			"file" : "ling2atu08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 9,
-			"file" : "ling2atu09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 10,
-			"file" : "zergling2-turn80.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 0,
-			"file" : "ling2ats03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 1,
-			"file" : "ling2ats04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 2,
-			"file" : "ling2ats05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 3,
-			"file" : "ling2ats06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 4,
-			"file" : "ling2ats07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 5,
-			"file" : "ling2ats08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 6,
-			"file" : "ling2ats09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 7,
-			"file" : "ling2ats10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 8,
-			"file" : "ling2ats11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 9,
-			"file" : "ling2ats12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 0,
-			"file" : "zergling2-turn119.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 1,
-			"file" : "ling2atd04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 2,
-			"file" : "ling2atd05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 3,
-			"file" : "ling2atd06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 4,
-			"file" : "ling2atd07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 5,
-			"file" : "ling2atd08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 6,
-			"file" : "ling2atd09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 7,
-			"file" : "ling2atd10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 8,
-			"file" : "ling2atd11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 9,
-			"file" : "ling2atd12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 10,
-			"file" : "zergling2-turn119.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 20,
-			"frame" : 0,
-			"file" : "ling2mov01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		}
-	],
-	"basepath" : "swarm/battle/zergling2/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "ling2mov02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "ling2mov03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "ling2mov04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "ling2mov05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "ling2mov06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "ling2mov07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "ling2mov08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "ling2mov09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 0,
+            "file": "ling2moo03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 1,
+            "file": "ling2moo05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 2,
+            "file": "ling2moo07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 3,
+            "file": "ling2moo09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 4,
+            "file": "ling2moo11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 5,
+            "file": "ling2moo13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 6,
+            "file": "ling2moo15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 7,
+            "file": "ling2moo17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 8,
+            "file": "ling2moo19.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 9,
+            "file": "ling2moo21.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 10,
+            "file": "ling2moo23.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 11,
+            "file": "ling2moo25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 12,
+            "file": "ling2moo27.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 13,
+            "file": "ling2moo42.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 14,
+            "file": "ling2moo44.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 15,
+            "file": "ling2moo46.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 16,
+            "file": "ling2moo48.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 17,
+            "file": "ling2moo50.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 18,
+            "file": "ling2moo52.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 19,
+            "file": "ling2moo54.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 20,
+            "file": "ling2moo56.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 21,
+            "file": "ling2moo58.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 0,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 1,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 2,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 3,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 4,
+            "file": "ling2sta01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 5,
+            "file": "ling2sta02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 6,
+            "file": "ling2sta03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 7,
+            "file": "ling2sta04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 8,
+            "file": "ling2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 9,
+            "file": "ling2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 10,
+            "file": "ling2sta07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 11,
+            "file": "ling2sta08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 12,
+            "file": "ling2sta07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 13,
+            "file": "ling2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 14,
+            "file": "ling2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 15,
+            "file": "ling2sta04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 16,
+            "file": "ling2sta03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 17,
+            "file": "ling2sta02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 18,
+            "file": "ling2sta01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 19,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 20,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 21,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 22,
+            "file": "ling2sta00.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 0,
+            "file": "ling2hit04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 1,
+            "file": "ling2hit05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 2,
+            "file": "ling2hit06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 3,
+            "file": "ling2hit07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 4,
+            "file": "ling2hit06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 5,
+            "file": "ling2hit05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 6,
+            "file": "ling2hit04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 0,
+            "file": "ling2def04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 1,
+            "file": "ling2def06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 2,
+            "file": "ling2def08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 3,
+            "file": "ling2def10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 4,
+            "file": "ling2def12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 5,
+            "file": "ling2def10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 6,
+            "file": "ling2def08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 7,
+            "file": "ling2def06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 8,
+            "file": "ling2def04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 0,
+            "file": "zergling2-death1.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 1,
+            "file": "ling2dth07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 2,
+            "file": "ling2dth08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 3,
+            "file": "ling2dth10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 4,
+            "file": "ling2dth11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 5,
+            "file": "ling2dth12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 6,
+            "file": "ling2dth13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 7,
+            "file": "ling2dth15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 8,
+            "file": "ling2dth17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 9,
+            "file": "ling2dth19.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 10,
+            "file": "ling2dth22.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 11,
+            "file": "ling2dth25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 12,
+            "file": "ling2dth28.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 13,
+            "file": "ling2dth30.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 14,
+            "file": "ling2dth32.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 15,
+            "file": "ling2dth37.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 16,
+            "file": "ling2dth38.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 17,
+            "file": "ling2dth46.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 0,
+            "file": "zergling2-death1.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 1,
+            "file": "ling2dth07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 2,
+            "file": "ling2dth08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 3,
+            "file": "ling2dth10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 4,
+            "file": "ling2dth11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 5,
+            "file": "ling2dth12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 6,
+            "file": "ling2dth13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 7,
+            "file": "ling2dth15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 8,
+            "file": "ling2dth17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 9,
+            "file": "ling2dth19.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 10,
+            "file": "ling2dth22.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 11,
+            "file": "ling2dth25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 12,
+            "file": "ling2dth28.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 13,
+            "file": "ling2dth30.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 14,
+            "file": "ling2dth32.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 15,
+            "file": "ling2dth37.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 16,
+            "file": "ling2dth38.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 17,
+            "file": "ling2dth46.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 7,
+            "frame": 0,
+            "file": "zergling2-turn119.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 7,
+            "frame": 1,
+            "file": "zergling2-turn136.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 8,
+            "frame": 0,
+            "file": "zergling2-turn136.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 8,
+            "frame": 1,
+            "file": "zergling2-turn119.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 9,
+            "frame": 0,
+            "file": "zergling2-turn119.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 9,
+            "frame": 1,
+            "file": "zergling2-turn136.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 10,
+            "frame": 0,
+            "file": "zergling2-turn136.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 10,
+            "frame": 1,
+            "file": "zergling2-turn119.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 0,
+            "file": "zergling2-turn80.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 1,
+            "file": "ling2atu01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 2,
+            "file": "ling2atu02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 3,
+            "file": "ling2atu03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 4,
+            "file": "ling2atu04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 5,
+            "file": "ling2atu05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 6,
+            "file": "ling2atu06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 7,
+            "file": "ling2atu07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 8,
+            "file": "ling2atu08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 9,
+            "file": "ling2atu09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 10,
+            "file": "zergling2-turn80.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 0,
+            "file": "ling2ats03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 1,
+            "file": "ling2ats04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 2,
+            "file": "ling2ats05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 3,
+            "file": "ling2ats06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 4,
+            "file": "ling2ats07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 5,
+            "file": "ling2ats08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 6,
+            "file": "ling2ats09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 7,
+            "file": "ling2ats10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 8,
+            "file": "ling2ats11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 9,
+            "file": "ling2ats12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 0,
+            "file": "zergling2-turn119.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 1,
+            "file": "ling2atd04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 2,
+            "file": "ling2atd05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 3,
+            "file": "ling2atd06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 4,
+            "file": "ling2atd07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 5,
+            "file": "ling2atd08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 6,
+            "file": "ling2atd09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 7,
+            "file": "ling2atd10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 8,
+            "file": "ling2atd11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 9,
+            "file": "ling2atd12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 10,
+            "file": "zergling2-turn119.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 20,
+            "frame": 0,
+            "file": "ling2mov01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        }
+    ],
+    "basepath": "swarm/battle/zergling2/"
 }

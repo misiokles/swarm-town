@@ -1,600 +1,600 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "roamov03.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "roamov04.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "roamov05.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "roamov06.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "roamov07.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "roamov08.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "roamov09.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "roamov10.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "roamov11.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "roamov12.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 10,
-			"file" : "roamov13.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 0,
-			"file" : "roasta04.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 1,
-			"file" : "roasta07.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 2,
-			"file" : "roasta10.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 3,
-			"file" : "roasta13.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 4,
-			"file" : "roasta16.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 5,
-			"file" : "roasta19.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 6,
-			"file" : "roasta22.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 7,
-			"file" : "roasta25.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 8,
-			"file" : "roasta28.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 9,
-			"file" : "roasta31.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 10,
-			"file" : "roasta34.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 0,
-			"file" : "roasta00.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 1,
-			"file" : "roasta00.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 2,
-			"file" : "roasta00.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 3,
-			"file" : "roamo03.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 4,
-			"file" : "roamo04.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 5,
-			"file" : "roamo05.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 6,
-			"file" : "roamo06.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 7,
-			"file" : "roamo07.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 8,
-			"file" : "roamo08.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 9,
-			"file" : "roamo09.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 10,
-			"file" : "roamo10.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 11,
-			"file" : "roasta00.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 12,
-			"file" : "roasta00.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 13,
-			"file" : "roasta00.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 0,
-			"file" : "roahit03.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 1,
-			"file" : "roahit04.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 2,
-			"file" : "roahit05.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 3,
-			"file" : "roahit06.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 4,
-			"file" : "roahit05.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 5,
-			"file" : "roahit04.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 6,
-			"file" : "roahit03.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 0,
-			"file" : "roadef26.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 1,
-			"file" : "roadef20.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 2,
-			"file" : "roadef16.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 3,
-			"file" : "roadef14.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 4,
-			"file" : "roadef12.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 5,
-			"file" : "roadef14.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 6,
-			"file" : "roadef16.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 7,
-			"file" : "roadef20.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 8,
-			"file" : "roadef26.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 0,
-			"file" : "roadth10.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 1,
-			"file" : "roadth11.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 2,
-			"file" : "roadth20.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 3,
-			"file" : "roadth21.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 4,
-			"file" : "roadth24.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 5,
-			"file" : "roadth26.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 6,
-			"file" : "roadth28.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 7,
-			"file" : "roadth30.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 8,
-			"file" : "roadth32.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 9,
-			"file" : "roadth34.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 10,
-			"file" : "roadth36.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 11,
-			"file" : "roadth38.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 0,
-			"file" : "roadth10.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 1,
-			"file" : "roadth11.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 2,
-			"file" : "roadth20.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 3,
-			"file" : "roadth21.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 4,
-			"file" : "roadth24.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 5,
-			"file" : "roadth26.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 6,
-			"file" : "roadth28.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 7,
-			"file" : "roadth30.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 8,
-			"file" : "roadth32.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 9,
-			"file" : "roadth34.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 10,
-			"file" : "roadth36.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 11,
-			"file" : "roadth38.png"
-		},
-		{
-			"group" : 7,
-			"frame" : 0,
-			"file" : "turn80.png"
-		},
-		{
-			"group" : 7,
-			"frame" : 1,
-			"file" : "turn95.png"
-		},
-		{
-			"group" : 8,
-			"frame" : 0,
-			"file" : "turn95.png"
-		},
-		{
-			"group" : 8,
-			"frame" : 1,
-			"file" : "turn80.png"
-		},
-		{
-			"group" : 9,
-			"frame" : 0,
-			"file" : "turn80.png"
-		},
-		{
-			"group" : 9,
-			"frame" : 1,
-			"file" : "turn95.png"
-		},
-		{
-			"group" : 10,
-			"frame" : 0,
-			"file" : "turn95.png"
-		},
-		{
-			"group" : 10,
-			"frame" : 1,
-			"file" : "turn80.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 0,
-			"file" : "turn45.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 1,
-			"file" : "roaatu04.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 2,
-			"file" : "roaatu05.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 3,
-			"file" : "roaatu06.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 4,
-			"file" : "roaatu07.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 5,
-			"file" : "roaatu08.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 6,
-			"file" : "roaatu09.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 7,
-			"file" : "roaatu10.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 8,
-			"file" : "roaatu11.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 9,
-			"file" : "roaatu12.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 10,
-			"file" : "roaatu13.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 11,
-			"file" : "roaatu14.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 12,
-			"file" : "turn45.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 0,
-			"file" : "roaats04.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 1,
-			"file" : "roaats05.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 2,
-			"file" : "roaats06.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 3,
-			"file" : "roaats07.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 4,
-			"file" : "roaats08.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 5,
-			"file" : "roaats09.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 6,
-			"file" : "roaats10.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 7,
-			"file" : "roaats11.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 8,
-			"file" : "roaats12.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 9,
-			"file" : "roaats13.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 10,
-			"file" : "roaats14.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 0,
-			"file" : "roaatd04.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 1,
-			"file" : "roaatd05.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 2,
-			"file" : "roaatd06.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 3,
-			"file" : "roaatd07.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 4,
-			"file" : "roaatd08.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 5,
-			"file" : "roaatd09.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 6,
-			"file" : "roaatd10.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 7,
-			"file" : "roaatd11.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 8,
-			"file" : "roaatd12.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 9,
-			"file" : "roaatd13.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 10,
-			"file" : "roaatd14.png"
-		}
-	],
-	"basepath" : "swarm/battle/roach1/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "roamov03.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "roamov04.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "roamov05.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "roamov06.png"
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "roamov07.png"
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "roamov08.png"
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "roamov09.png"
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "roamov10.png"
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "roamov11.png"
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "roamov12.png"
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "roamov13.png"
+        },
+        {
+            "group": 1,
+            "frame": 0,
+            "file": "roasta04.png"
+        },
+        {
+            "group": 1,
+            "frame": 1,
+            "file": "roasta07.png"
+        },
+        {
+            "group": 1,
+            "frame": 2,
+            "file": "roasta10.png"
+        },
+        {
+            "group": 1,
+            "frame": 3,
+            "file": "roasta13.png"
+        },
+        {
+            "group": 1,
+            "frame": 4,
+            "file": "roasta16.png"
+        },
+        {
+            "group": 1,
+            "frame": 5,
+            "file": "roasta19.png"
+        },
+        {
+            "group": 1,
+            "frame": 6,
+            "file": "roasta22.png"
+        },
+        {
+            "group": 1,
+            "frame": 7,
+            "file": "roasta25.png"
+        },
+        {
+            "group": 1,
+            "frame": 8,
+            "file": "roasta28.png"
+        },
+        {
+            "group": 1,
+            "frame": 9,
+            "file": "roasta31.png"
+        },
+        {
+            "group": 1,
+            "frame": 10,
+            "file": "roasta34.png"
+        },
+        {
+            "group": 2,
+            "frame": 0,
+            "file": "roasta00.png"
+        },
+        {
+            "group": 2,
+            "frame": 1,
+            "file": "roasta00.png"
+        },
+        {
+            "group": 2,
+            "frame": 2,
+            "file": "roasta00.png"
+        },
+        {
+            "group": 2,
+            "frame": 3,
+            "file": "roamo03.png"
+        },
+        {
+            "group": 2,
+            "frame": 4,
+            "file": "roamo04.png"
+        },
+        {
+            "group": 2,
+            "frame": 5,
+            "file": "roamo05.png"
+        },
+        {
+            "group": 2,
+            "frame": 6,
+            "file": "roamo06.png"
+        },
+        {
+            "group": 2,
+            "frame": 7,
+            "file": "roamo07.png"
+        },
+        {
+            "group": 2,
+            "frame": 8,
+            "file": "roamo08.png"
+        },
+        {
+            "group": 2,
+            "frame": 9,
+            "file": "roamo09.png"
+        },
+        {
+            "group": 2,
+            "frame": 10,
+            "file": "roamo10.png"
+        },
+        {
+            "group": 2,
+            "frame": 11,
+            "file": "roasta00.png"
+        },
+        {
+            "group": 2,
+            "frame": 12,
+            "file": "roasta00.png"
+        },
+        {
+            "group": 2,
+            "frame": 13,
+            "file": "roasta00.png"
+        },
+        {
+            "group": 3,
+            "frame": 0,
+            "file": "roahit03.png"
+        },
+        {
+            "group": 3,
+            "frame": 1,
+            "file": "roahit04.png"
+        },
+        {
+            "group": 3,
+            "frame": 2,
+            "file": "roahit05.png"
+        },
+        {
+            "group": 3,
+            "frame": 3,
+            "file": "roahit06.png"
+        },
+        {
+            "group": 3,
+            "frame": 4,
+            "file": "roahit05.png"
+        },
+        {
+            "group": 3,
+            "frame": 5,
+            "file": "roahit04.png"
+        },
+        {
+            "group": 3,
+            "frame": 6,
+            "file": "roahit03.png"
+        },
+        {
+            "group": 4,
+            "frame": 0,
+            "file": "roadef26.png"
+        },
+        {
+            "group": 4,
+            "frame": 1,
+            "file": "roadef20.png"
+        },
+        {
+            "group": 4,
+            "frame": 2,
+            "file": "roadef16.png"
+        },
+        {
+            "group": 4,
+            "frame": 3,
+            "file": "roadef14.png"
+        },
+        {
+            "group": 4,
+            "frame": 4,
+            "file": "roadef12.png"
+        },
+        {
+            "group": 4,
+            "frame": 5,
+            "file": "roadef14.png"
+        },
+        {
+            "group": 4,
+            "frame": 6,
+            "file": "roadef16.png"
+        },
+        {
+            "group": 4,
+            "frame": 7,
+            "file": "roadef20.png"
+        },
+        {
+            "group": 4,
+            "frame": 8,
+            "file": "roadef26.png"
+        },
+        {
+            "group": 5,
+            "frame": 0,
+            "file": "roadth10.png"
+        },
+        {
+            "group": 5,
+            "frame": 1,
+            "file": "roadth11.png"
+        },
+        {
+            "group": 5,
+            "frame": 2,
+            "file": "roadth20.png"
+        },
+        {
+            "group": 5,
+            "frame": 3,
+            "file": "roadth21.png"
+        },
+        {
+            "group": 5,
+            "frame": 4,
+            "file": "roadth24.png"
+        },
+        {
+            "group": 5,
+            "frame": 5,
+            "file": "roadth26.png"
+        },
+        {
+            "group": 5,
+            "frame": 6,
+            "file": "roadth28.png"
+        },
+        {
+            "group": 5,
+            "frame": 7,
+            "file": "roadth30.png"
+        },
+        {
+            "group": 5,
+            "frame": 8,
+            "file": "roadth32.png"
+        },
+        {
+            "group": 5,
+            "frame": 9,
+            "file": "roadth34.png"
+        },
+        {
+            "group": 5,
+            "frame": 10,
+            "file": "roadth36.png"
+        },
+        {
+            "group": 5,
+            "frame": 11,
+            "file": "roadth38.png"
+        },
+        {
+            "group": 6,
+            "frame": 0,
+            "file": "roadth10.png"
+        },
+        {
+            "group": 6,
+            "frame": 1,
+            "file": "roadth11.png"
+        },
+        {
+            "group": 6,
+            "frame": 2,
+            "file": "roadth20.png"
+        },
+        {
+            "group": 6,
+            "frame": 3,
+            "file": "roadth21.png"
+        },
+        {
+            "group": 6,
+            "frame": 4,
+            "file": "roadth24.png"
+        },
+        {
+            "group": 6,
+            "frame": 5,
+            "file": "roadth26.png"
+        },
+        {
+            "group": 6,
+            "frame": 6,
+            "file": "roadth28.png"
+        },
+        {
+            "group": 6,
+            "frame": 7,
+            "file": "roadth30.png"
+        },
+        {
+            "group": 6,
+            "frame": 8,
+            "file": "roadth32.png"
+        },
+        {
+            "group": 6,
+            "frame": 9,
+            "file": "roadth34.png"
+        },
+        {
+            "group": 6,
+            "frame": 10,
+            "file": "roadth36.png"
+        },
+        {
+            "group": 6,
+            "frame": 11,
+            "file": "roadth38.png"
+        },
+        {
+            "group": 7,
+            "frame": 0,
+            "file": "turn80.png"
+        },
+        {
+            "group": 7,
+            "frame": 1,
+            "file": "turn95.png"
+        },
+        {
+            "group": 8,
+            "frame": 0,
+            "file": "turn95.png"
+        },
+        {
+            "group": 8,
+            "frame": 1,
+            "file": "turn80.png"
+        },
+        {
+            "group": 9,
+            "frame": 0,
+            "file": "turn80.png"
+        },
+        {
+            "group": 9,
+            "frame": 1,
+            "file": "turn95.png"
+        },
+        {
+            "group": 10,
+            "frame": 0,
+            "file": "turn95.png"
+        },
+        {
+            "group": 10,
+            "frame": 1,
+            "file": "turn80.png"
+        },
+        {
+            "group": 11,
+            "frame": 0,
+            "file": "turn45.png"
+        },
+        {
+            "group": 11,
+            "frame": 1,
+            "file": "roaatu04.png"
+        },
+        {
+            "group": 11,
+            "frame": 2,
+            "file": "roaatu05.png"
+        },
+        {
+            "group": 11,
+            "frame": 3,
+            "file": "roaatu06.png"
+        },
+        {
+            "group": 11,
+            "frame": 4,
+            "file": "roaatu07.png"
+        },
+        {
+            "group": 11,
+            "frame": 5,
+            "file": "roaatu08.png"
+        },
+        {
+            "group": 11,
+            "frame": 6,
+            "file": "roaatu09.png"
+        },
+        {
+            "group": 11,
+            "frame": 7,
+            "file": "roaatu10.png"
+        },
+        {
+            "group": 11,
+            "frame": 8,
+            "file": "roaatu11.png"
+        },
+        {
+            "group": 11,
+            "frame": 9,
+            "file": "roaatu12.png"
+        },
+        {
+            "group": 11,
+            "frame": 10,
+            "file": "roaatu13.png"
+        },
+        {
+            "group": 11,
+            "frame": 11,
+            "file": "roaatu14.png"
+        },
+        {
+            "group": 11,
+            "frame": 12,
+            "file": "turn45.png"
+        },
+        {
+            "group": 12,
+            "frame": 0,
+            "file": "roaats04.png"
+        },
+        {
+            "group": 12,
+            "frame": 1,
+            "file": "roaats05.png"
+        },
+        {
+            "group": 12,
+            "frame": 2,
+            "file": "roaats06.png"
+        },
+        {
+            "group": 12,
+            "frame": 3,
+            "file": "roaats07.png"
+        },
+        {
+            "group": 12,
+            "frame": 4,
+            "file": "roaats08.png"
+        },
+        {
+            "group": 12,
+            "frame": 5,
+            "file": "roaats09.png"
+        },
+        {
+            "group": 12,
+            "frame": 6,
+            "file": "roaats10.png"
+        },
+        {
+            "group": 12,
+            "frame": 7,
+            "file": "roaats11.png"
+        },
+        {
+            "group": 12,
+            "frame": 8,
+            "file": "roaats12.png"
+        },
+        {
+            "group": 12,
+            "frame": 9,
+            "file": "roaats13.png"
+        },
+        {
+            "group": 12,
+            "frame": 10,
+            "file": "roaats14.png"
+        },
+        {
+            "group": 13,
+            "frame": 0,
+            "file": "roaatd04.png"
+        },
+        {
+            "group": 13,
+            "frame": 1,
+            "file": "roaatd05.png"
+        },
+        {
+            "group": 13,
+            "frame": 2,
+            "file": "roaatd06.png"
+        },
+        {
+            "group": 13,
+            "frame": 3,
+            "file": "roaatd07.png"
+        },
+        {
+            "group": 13,
+            "frame": 4,
+            "file": "roaatd08.png"
+        },
+        {
+            "group": 13,
+            "frame": 5,
+            "file": "roaatd09.png"
+        },
+        {
+            "group": 13,
+            "frame": 6,
+            "file": "roaatd10.png"
+        },
+        {
+            "group": 13,
+            "frame": 7,
+            "file": "roaatd11.png"
+        },
+        {
+            "group": 13,
+            "frame": 8,
+            "file": "roaatd12.png"
+        },
+        {
+            "group": 13,
+            "frame": 9,
+            "file": "roaatd13.png"
+        },
+        {
+            "group": 13,
+            "frame": 10,
+            "file": "roaatd14.png"
+        }
+    ],
+    "basepath": "swarm/battle/roach1/"
 }

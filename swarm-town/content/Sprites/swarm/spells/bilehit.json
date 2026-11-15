@@ -1,55 +1,55 @@
 {
-	"images" : [
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "biledown1.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "biledown2.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "biledown1.png"
-		},
+            "group": 0,
+            "frame": 2,
+            "file": "bilehit04.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "biledown2.png"
-		},
+            "group": 0,
+            "frame": 3,
+            "file": "bilehit12.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "bilehit04.png"
-		},
+            "group": 0,
+            "frame": 4,
+            "file": "bilehit15.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "bilehit12.png"
-		},
+            "group": 0,
+            "frame": 5,
+            "file": "bilehit19.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "bilehit15.png"
-		},
+            "group": 0,
+            "frame": 6,
+            "file": "bilehit22.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "bilehit19.png"
-		},
+            "group": 0,
+            "frame": 7,
+            "file": "bilehit25.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "bilehit22.png"
-		},
+            "group": 0,
+            "frame": 8,
+            "file": "bilehit29.png"
+        },
 		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "bilehit25.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "bilehit29.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "bilehit34.png"
-		}
+            "group": 0,
+            "frame": 9,
+            "file": "bilehit34.png"
+        }
 	],
-	"basepath" : "swarm/spells/bilehit/"
+    "basepath": "swarm/spells/bilehit/"
 }

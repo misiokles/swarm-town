@@ -1,5 +1,6 @@
 {
-	"swarm-town:swarm" : {
-		"nativeTerrain" : "creep"
+	"swarm-town:swarm" :
+	{
+		"nativeTerrain": [ "creep" ]
 	}
 }

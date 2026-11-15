@@ -5,19 +5,9 @@
 				"templates" : {
 					"creepSawmill01" : {
 						"animation" : "creep/special/mines/creLanSaw",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"VVVVV",
-							"VBBBB",
-							"VBBAB"
-						],
-						"allowedTerrains" : [
-							"creep"
-						]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
+						"allowedTerrains" : ["creep"]
 					}
 				}
 			},
@@ -25,19 +15,9 @@
 				"templates" : {
 					"creepLab01" : {
 						"animation" : "creep/special/mines/creLanAlcLab",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"VVV",
-							"VVV",
-							"BAB"
-						],
-						"allowedTerrains" : [
-							"creep"
-						]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "BAB"],
+						"allowedTerrains" : ["creep"]
 					}
 				}
 			},
@@ -45,18 +25,9 @@
 				"templates" : {
 					"creepOre01" : {
 						"animation" : "creep/special/mines/creLanOrePit",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"BBB",
-							"BAB"
-						],
-						"allowedTerrains" : [
-							"creep"
-						]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["creep"]
 					}
 				}
 			},
@@ -64,17 +35,9 @@
 				"templates" : {
 					"creepSulfurDune01" : {
 						"animation" : "creep/special/mines/creLanSulDun",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"VVV",
-							"BAB"
-						],
-						"allowedTerrains" : [
-							"creep"
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "BAB"],
+						"allowedTerrains" : ["creep"
 						]
 					}
 				}
@@ -83,17 +46,9 @@
 				"templates" : {
 					"creepCrystalCavern01" : {
 						"animation" : "creep/special/mines/creLanCryCav",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"BBB",
-							"BAB"
-						],
-						"allowedTerrains" : [
-							"creep"
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["creep"
 						]
 					}
 				}
@@ -102,18 +57,9 @@
 				"templates" : {
 					"creepGempond01" : {
 						"animation" : "creep/special/mines/creLanGenPon",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"BBB",
-							"BAB"
-						],
-						"allowedTerrains" : [
-							"creep"
-						]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["creep"]
 					}
 				}
 			},
@@ -121,18 +67,9 @@
 				"templates" : {
 					"creepGoldmine01" : {
 						"animation" : "creep/special/mines/creLanGolMin",
-						"visitableFrom" : [
-							"---",
-							"-+-",
-							"+++"
-						],
-						"mask" : [
-							"BBB",
-							"BAB"
-						],
-						"allowedTerrains" : [
-							"creep"
-						]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["creep"]
 					}
 				}
 			}

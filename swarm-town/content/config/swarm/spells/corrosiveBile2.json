@@ -1,81 +1,68 @@
 {
-	"corrosiveBile2" : {
-		"type" : "combat",
-		"targetCondition" : {},
-		"name" : "Corrosive Bile2",
-		"school" : {
-			"air" : false,
-			"earth" : false,
-			"fire" : false,
-			"water" : false
-		},
-		"level" : 0,
-		"power" : 1,
-		"defaultGainChance" : 0,
-		"animation" : {
-			"hit" : [
-				{
-					"verticalPosition" : "bottom"
-				},
-				"swarm/spells/bilehit.json"
-			]
-		},
-		"flags" : {
-			"indifferent" : true
-		},
-		"graphics" : {
-			"iconEffect" : "swarm/spells/corrosiveBile2Effect.bmp"
-		},
-		"sounds" : {
-			"cast" : "swarm/CorrosiveBileHit.wav"
-		},
-		"targetType" : "OBSTACLE",
-		"levels" : {
-			"base" : {
-				"range" : "0",
-				"battleEffects" : {
-					"removeObstacle" : {
-						"optional" : false,
-						"type" : "core:removeObstacle",
-						"removeSpells" : [
-							"forceField"
-						]
+	"corrosiveBile2":
+		{
+			"type": "combat",
+			"targetCondition" : {
+			},
+			"name": "Corrosive Bile2",
+		    "school": {"air":false, "earth":false, "fire":false, "water":false},
+			"level": 0,
+			"power": 1,
+			"defaultGainChance": 0, 
+			"animation" : {
+				"hit" : [ {"verticalPosition":"bottom"}, "swarm/spells/bilehit.json" ]
+			},
+			"flags" : {
+				"indifferent": true
+			},
+			"graphics": {
+			"iconEffect" : "swarm/spells/corrosiveBile2Effect.bmp",
+			},
+			"sounds": {
+				"cast": "swarm/CorrosiveBileHit.wav"
+			},
+			"targetType" : "OBSTACLE",
+			"levels" : {
+				"base":{
+					"range" : "0",
+					"battleEffects": {
+						"removeObstacle" : {
+							"optional":false,
+							"type":"core:removeObstacle",
+							"removeSpells" : ["forceField"]
+						}
 					}
+				},
+				"advanced" : {
+					"battleEffects": {
+						"removeObstacle" : {
+							"removeSpells" : ["forceField"]
+						}
+					},
+					"cost" : 1,
+
+					"description" : "{Corrosive Bile2}\n\nLaunch a missile at the target location, destroying Force Fields in the area upon impact.\n",
+
+					"power" : 1,
+				},
+				"expert" : {
+					"battleEffects": {
+						"removeObstacle" : {
+							"removeSpells" : ["forceField"]
+						}
+					},
+					"cost" : 1,
+
+					"description" : "{Corrosive Bile2}\n\nLaunch a missile at the target location, destroying Force Fields in the area upon impact.\n",
+
+					"power" : 1,
+				},
+				"none" : {
+					"description" : "{Corrosive Bile2}\n\nLaunch a missile at the target location, destroying Force Fields in the area upon impact.\n",
+					"cost" : 1,
+					"power" : 1
 				}
-			},
-			"advanced" : {
-				"battleEffects" : {
-					"removeObstacle" : {
-						"removeSpells" : [
-							"forceField"
-						]
-					}
-				},
-				"cost" : 1,
-
-				"description" : "{Corrosive Bile2}\n\nLaunch a missile at the target location, destroying Force Fields in the area upon impact.\n",
-
-				"power" : 1
-			},
-			"expert" : {
-				"battleEffects" : {
-					"removeObstacle" : {
-						"removeSpells" : [
-							"forceField"
-						]
-					}
-				},
-				"cost" : 1,
-
-				"description" : "{Corrosive Bile2}\n\nLaunch a missile at the target location, destroying Force Fields in the area upon impact.\n",
-
-				"power" : 1
-			},
-			"none" : {
-				"description" : "{Corrosive Bile2}\n\nLaunch a missile at the target location, destroying Force Fields in the area upon impact.\n",
-				"cost" : 1,
-				"power" : 1
 			}
+			
 		}
-	}
 }

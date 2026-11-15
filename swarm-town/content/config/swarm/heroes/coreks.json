@@ -1,45 +1,40 @@
 {
-	"coreks" : {
+	"coreks" : 
+	{
 		"class" : "overseer",
 		"female" : true,
-		"texts" : {
+		"texts" :
+		{
 			"name" : "Сoreks",
 			"biography" : "undetermined",
-			"specialty" : {
-				"description" : "{Roaches and Ravagers}\r\n\r\nIncreases Speed of any Roaches or Ravagers by 1 and their Attack and Defense skills by 5% for every 2 levels (rounded up)",
+			"specialty" :
+			{
+				"description" : "Increases Speed of any Roaches or Ravagers by 1 and their Attack and Defense skills by 5% for every 2 levels (rounded up)",
 				"tooltip" : "Creature Bonus: Roaches",
 				"name" : "Roaches"
 			}
 		},
-		"images" : {
+		"images" :
+		{
 			"specialtySmall" : "swarm/heroes/coreks/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/coreks/spec-large.png",
 			"large" : "swarm/heroes/coreks/portrait-large.png",
 			"small" : "swarm/heroes/coreks/portrait-small.png"
 		},
 
-		"spellbook" : [
+		"spellbook" :
+		[
 			"magicArrow"
 		],
-		"army" : [
-			{
-				"creature" : "roach1",
-				"min" : 4,
-				"max" : 9
-			},
-			{
-				"creature" : "roach1",
-				"min" : 4,
-				"max" : 7
-			},
-			{
-				"creature" : "roach1",
-				"min" : 4,
-				"max" : 6
-			}
+		"army" :
+		[
+			{ "creature" : "roach1", "min" : 4, "max" : 9 },
+			{ "creature" : "roach1", "min" : 4, "max" : 7 },
+			{ "creature" : "roach1", "min" : 4, "max" : 6}
 		],
 
-		"skills" : [
+		"skills" :
+		[
 			{
 				"level" : "basic",
 				"skill" : "offence"
@@ -49,7 +44,7 @@
 				"skill" : "tactics"
 			}
 		],
-
+		
 		"specialty" : {
 			"creature" : "roach1"
 		}

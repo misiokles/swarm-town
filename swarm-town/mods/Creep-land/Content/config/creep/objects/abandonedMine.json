@@ -5,19 +5,9 @@
 				"templates" : {
 					"jungleAVXhilg1" : {
 						"animation" : "jungle/objects/abandonedMine/AVXamjun",
-						"visitableFrom" : [
-							"---",
-							"+++",
-							"+++"
-						],
-						"mask" : [
-							"VVVV",
-							"VVVV",
-							"VBAB"
-						],
-						"allowedTerrains" : [
-							"jungle"
-						]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["jungle"]
 					}
 				}
 			}

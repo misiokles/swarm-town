@@ -1,12 +1,7 @@
 {
 	"corrosiveBile" : {
 		"animation" : {
-			"hit" : [
-				{
-					"verticalPosition" : "bottom"
-				},
-				"swarm/spells/bilehit.json"
-			]
+			"hit":[ {"verticalPosition":"bottom"}, "swarm/spells/bilehit.json" ]
 		},
 
 		"flags" : {
@@ -23,6 +18,7 @@
 
 		"levels" : {
 			"advanced" : {
+				
 				"battleEffects" : {
 					"directDamage" : {
 						"type" : "core:damage"
@@ -57,6 +53,7 @@
 			},
 
 			"basic" : {
+
 				"battleEffects" : {
 					"directDamage" : {
 						"type" : "core:damage"
@@ -77,6 +74,7 @@
 			},
 
 			"expert" : {
+
 				"battleEffects" : {
 					"directDamage" : {
 						"type" : "core:damage"
@@ -97,6 +95,7 @@
 			},
 
 			"none" : {
+
 				"battleEffects" : {
 					"directDamage" : {
 						"type" : "core:damage"

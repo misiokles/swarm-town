@@ -1,10 +1,13 @@
 {
-	"hunterling2" : {
-		"name" : {
+	"hunterling2":
+	{
+		"name" :
+		{
 			"plural" : "Hunterlings",
 			"singular" : "Hunterling"
 		},
-		"advMapAmount" : {
+		"advMapAmount" :
+		{
 			"max" : 8,
 			"min" : 3
 		},
@@ -12,42 +15,44 @@
 		"aiValue" : 2000,
 		"attack" : 15,
 		"doubleWide" : true,
-		"cost" : {
+		"cost" :
+		{
 			"gold" : 1200
 		},
-		"damage" : {
+		"damage" :
+		{
 			"max" : 24,
 			"min" : 16
 		},
 		"defense" : 14,
 		"fightValue" : 2000,
-		"graphics" : {
+		"graphics" :
+		{
 			"animation" : "swarm/battle/hunterling2",
-			"animationTime" : {
-				"attack" : 1,
-				"idle" : 10,
-				"walk" : 1
-			},
+			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
 			"map" : "swarm/map/hunterling2mini",
 			"iconSmall" : "swarm/iconsSmall/hunterling2s.png",
 			"iconLarge" : "swarm/iconsBig/hunterling2l.png",
 			"timeBetweenFidgets" : 1
-		},
+			},
 		"growth" : 2,
 		"hitPoints" : 90,
-		"level" : 6,
-		"sound" : {
+		"level" : 6,	
+		"sound" :
+		{
 			"attack" : "swarm/brutalisk_attack.wav",
 			"defend" : "swarm/brutalisk_defend.wav",
 			"killed" : "swarm/brutalisk_killed.wav",
-			"move" : "swarm/hunterling_move.wav",
-			"wince" : "swarm/brutalisk_wince.wav"
+			"move"   : "swarm/hunterling_move.wav",
+			"wince"  : "swarm/brutalisk_wince.wav"            
 		},
 		"speed" : 11,
-		"abilities" : {
-			"flying" : {
+		"abilities" :
+		{
+		       "flying" :
+			{
 				"type" : "FLYING"
-			}
-		}
+			},
+        }
 	}
 }

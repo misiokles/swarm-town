@@ -1,1041 +1,1041 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "que2mov05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "que2mov07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "que2mov09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "que2mov11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "que2mov13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "que2mov15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "que2mov17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "que2mov19.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "que2mov21.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "que2mov23.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 10,
-			"file" : "que2mov25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 0,
-			"file" : "que2moo03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 1,
-			"file" : "que2moo06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 2,
-			"file" : "que2moo07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 3,
-			"file" : "que2moo08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 4,
-			"file" : "que2moo09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 5,
-			"file" : "que2moo10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 6,
-			"file" : "que2moo11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 7,
-			"file" : "que2moo12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 8,
-			"file" : "que2moo13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 9,
-			"file" : "que2moo13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 10,
-			"file" : "que2moo12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 11,
-			"file" : "que2moo11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 12,
-			"file" : "que2moo10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 13,
-			"file" : "que2moo09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 14,
-			"file" : "que2moo08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 15,
-			"file" : "que2moo07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 16,
-			"file" : "que2moo06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 17,
-			"file" : "que2moo03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 0,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 1,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 2,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 3,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 4,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 5,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 6,
-			"file" : "que2sta09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 7,
-			"file" : "que2sta13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 8,
-			"file" : "que2sta17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 9,
-			"file" : "que2sta21.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 10,
-			"file" : "que2sta25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 11,
-			"file" : "que2sta29.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 12,
-			"file" : "que2sta33.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 13,
-			"file" : "que2sta37.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 14,
-			"file" : "que2sta41.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 15,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 16,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 17,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 18,
-			"file" : "que2sta05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 0,
-			"file" : "que2hit00.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 1,
-			"file" : "que2hit08.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 2,
-			"file" : "que2hit11.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 3,
-			"file" : "que2hit14.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 4,
-			"file" : "que2hit17.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 5,
-			"file" : "que2hit20.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 6,
-			"file" : "que2hit23.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 7,
-			"file" : "que2hit26.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 8,
-			"file" : "que2hit29.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 9,
-			"file" : "que2hit32.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 10,
-			"file" : "que2hit33.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 0,
-			"file" : "que2def01.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 1,
-			"file" : "que2def08.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 2,
-			"file" : "que2def09.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 3,
-			"file" : "que2def11.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 4,
-			"file" : "que2def12.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 5,
-			"file" : "que2def14.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 6,
-			"file" : "que2def16.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 7,
-			"file" : "que2def16.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 8,
-			"file" : "que2def14.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 9,
-			"file" : "que2def12.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 10,
-			"file" : "que2def11.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 11,
-			"file" : "que2def09.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 12,
-			"file" : "que2def08.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 13,
-			"file" : "que2def01.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 0,
-			"file" : "que2dth00.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 1,
-			"file" : "que2dth07.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 2,
-			"file" : "que2dth09.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 3,
-			"file" : "que2dth12.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 4,
-			"file" : "que2dth15.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 5,
-			"file" : "que2dth17.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 6,
-			"file" : "que2dth22.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 7,
-			"file" : "que2dth26.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 8,
-			"file" : "que2dth32.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 9,
-			"file" : "que2dth37.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 10,
-			"file" : "que2dth41.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 11,
-			"file" : "que2dth53.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 0,
-			"file" : "que2dth00.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 1,
-			"file" : "que2dth07.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 2,
-			"file" : "que2dth09.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 3,
-			"file" : "que2dth12.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 4,
-			"file" : "que2dth15.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 5,
-			"file" : "que2dth17.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 6,
-			"file" : "que2dth22.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 7,
-			"file" : "que2dth26.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 8,
-			"file" : "que2dth32.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 9,
-			"file" : "que2dth37.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 10,
-			"file" : "que2dth41.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 11,
-			"file" : "que2dth53.png"
-		},
-		{
-			"group" : 7,
-			"frame" : 0,
-			"file" : "que2tdown1.png"
-		},
-		{
-			"group" : 7,
-			"frame" : 1,
-			"file" : "que2tdown2.png"
-		},
-		{
-			"group" : 8,
-			"frame" : 0,
-			"file" : "que2tdown2.png"
-		},
-		{
-			"group" : 8,
-			"frame" : 1,
-			"file" : "que2tdown1.png"
-		},
-		{
-			"group" : 9,
-			"frame" : 0,
-			"file" : "que2tdown1.png"
-		},
-		{
-			"group" : 9,
-			"frame" : 1,
-			"file" : "que2tdown2.png"
-		},
-		{
-			"group" : 10,
-			"frame" : 0,
-			"file" : "que2tdown2.png"
-		},
-		{
-			"group" : 10,
-			"frame" : 1,
-			"file" : "que2tdown1.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 0,
-			"file" : "que2tup1.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 1,
-			"file" : "que2atu01.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 2,
-			"file" : "que2atu02.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 3,
-			"file" : "que2atu07.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 4,
-			"file" : "que2atu08.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 5,
-			"file" : "que2atu09.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 6,
-			"file" : "que2atu10.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 7,
-			"file" : "que2atu11.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 8,
-			"file" : "que2atu12.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 9,
-			"file" : "que2atu13.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 10,
-			"file" : "que2atu15.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 11,
-			"file" : "que2atu17.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 12,
-			"file" : "que2atu18.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 13,
-			"file" : "que2atu19.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 14,
-			"file" : "que2atu20.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 15,
-			"file" : "que2tup1.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 0,
-			"file" : "que2ats02.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 1,
-			"file" : "que2ats03.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 2,
-			"file" : "que2ats08.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 3,
-			"file" : "que2ats09.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 4,
-			"file" : "que2ats10.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 5,
-			"file" : "que2ats11.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 6,
-			"file" : "que2ats12.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 7,
-			"file" : "que2ats13.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 8,
-			"file" : "que2ats14.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 9,
-			"file" : "que2ats15.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 10,
-			"file" : "que2ats16.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 11,
-			"file" : "que2ats17.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 12,
-			"file" : "que2ats18.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 13,
-			"file" : "que2ats19.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 14,
-			"file" : "que2ats20.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 0,
-			"file" : "que2tdown1.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 1,
-			"file" : "que2atd01.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 2,
-			"file" : "que2atd02.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 3,
-			"file" : "que2atd07.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 4,
-			"file" : "que2atd08.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 5,
-			"file" : "que2atd09.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 6,
-			"file" : "que2atd10.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 7,
-			"file" : "que2atd11.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 8,
-			"file" : "que2atd12.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 9,
-			"file" : "que2atd13.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 10,
-			"file" : "que2atd14.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 11,
-			"file" : "que2atd16.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 12,
-			"file" : "que2atd17.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 13,
-			"file" : "que2atd18.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 14,
-			"file" : "que2atd20.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 15,
-			"file" : "que2tdown1.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 0,
-			"file" : "que2spe00.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 1,
-			"file" : "que2spe06.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 2,
-			"file" : "que2spe08.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 3,
-			"file" : "que2spe10.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 4,
-			"file" : "que2spe12.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 5,
-			"file" : "que2spe16.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 6,
-			"file" : "que2spe17.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 7,
-			"file" : "que2spe38.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 8,
-			"file" : "que2spe41.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 9,
-			"file" : "que2spe44.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 10,
-			"file" : "que2spe47.png"
-		},
-		{
-			"group" : 17,
-			"frame" : 11,
-			"file" : "que2spe52.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 0,
-			"file" : "que2spe00.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 1,
-			"file" : "que2spe06.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 2,
-			"file" : "que2spe08.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 3,
-			"file" : "que2spe10.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 4,
-			"file" : "que2spe12.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 5,
-			"file" : "que2spe16.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 6,
-			"file" : "que2spe17.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 7,
-			"file" : "que2spe38.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 8,
-			"file" : "que2spe41.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 9,
-			"file" : "que2spe44.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 10,
-			"file" : "que2spe47.png"
-		},
-		{
-			"group" : 18,
-			"frame" : 11,
-			"file" : "que2spe52.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 0,
-			"file" : "que2spe00.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 1,
-			"file" : "que2spe06.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 2,
-			"file" : "que2spe08.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 3,
-			"file" : "que2spe10.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 4,
-			"file" : "que2spe12.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 5,
-			"file" : "que2spe16.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 6,
-			"file" : "que2spe17.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 7,
-			"file" : "que2spe38.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 8,
-			"file" : "que2spe41.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 9,
-			"file" : "que2spe44.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 10,
-			"file" : "que2spe47.png"
-		},
-		{
-			"group" : 19,
-			"frame" : 11,
-			"file" : "que2spe52.png"
-		}
-	],
-	"basepath" : "swarm/battle/queen2/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "que2mov05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "que2mov07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "que2mov09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "que2mov11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "que2mov13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "que2mov15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "que2mov17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "que2mov19.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "que2mov21.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "que2mov23.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "que2mov25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 0,
+            "file": "que2moo03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 1,
+            "file": "que2moo06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 2,
+            "file": "que2moo07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 3,
+            "file": "que2moo08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 4,
+            "file": "que2moo09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 5,
+            "file": "que2moo10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 6,
+            "file": "que2moo11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 7,
+            "file": "que2moo12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 8,
+            "file": "que2moo13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 9,
+            "file": "que2moo13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 10,
+            "file": "que2moo12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 11,
+            "file": "que2moo11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 12,
+            "file": "que2moo10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 13,
+            "file": "que2moo09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 14,
+            "file": "que2moo08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 15,
+            "file": "que2moo07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 16,
+            "file": "que2moo06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 17,
+            "file": "que2moo03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 0,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 1,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 2,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 3,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 4,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 5,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 6,
+            "file": "que2sta09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 7,
+            "file": "que2sta13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 8,
+            "file": "que2sta17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 9,
+            "file": "que2sta21.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 10,
+            "file": "que2sta25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 11,
+            "file": "que2sta29.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 12,
+            "file": "que2sta33.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 13,
+            "file": "que2sta37.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 14,
+            "file": "que2sta41.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 15,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 16,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 17,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 18,
+            "file": "que2sta05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 0,
+            "file": "que2hit00.png"
+        },
+        {
+            "group": 3,
+            "frame": 1,
+            "file": "que2hit08.png"
+        },
+        {
+            "group": 3,
+            "frame": 2,
+            "file": "que2hit11.png"
+        },
+        {
+            "group": 3,
+            "frame": 3,
+            "file": "que2hit14.png"
+        },
+        {
+            "group": 3,
+            "frame": 4,
+            "file": "que2hit17.png"
+        },
+        {
+            "group": 3,
+            "frame": 5,
+            "file": "que2hit20.png"
+        },
+        {
+            "group": 3,
+            "frame": 6,
+            "file": "que2hit23.png"
+        },
+        {
+            "group": 3,
+            "frame": 7,
+            "file": "que2hit26.png"
+        },
+        {
+            "group": 3,
+            "frame": 8,
+            "file": "que2hit29.png"
+        },
+        {
+            "group": 3,
+            "frame": 9,
+            "file": "que2hit32.png"
+        },
+        {
+            "group": 3,
+            "frame": 10,
+            "file": "que2hit33.png"
+        },
+        {
+            "group": 4,
+            "frame": 0,
+            "file": "que2def01.png"
+        },
+        {
+            "group": 4,
+            "frame": 1,
+            "file": "que2def08.png"
+        },
+        {
+            "group": 4,
+            "frame": 2,
+            "file": "que2def09.png"
+        },
+        {
+            "group": 4,
+            "frame": 3,
+            "file": "que2def11.png"
+        },
+        {
+            "group": 4,
+            "frame": 4,
+            "file": "que2def12.png"
+        },
+        {
+            "group": 4,
+            "frame": 5,
+            "file": "que2def14.png"
+        },
+        {
+            "group": 4,
+            "frame": 6,
+            "file": "que2def16.png"
+        },
+        {
+            "group": 4,
+            "frame": 7,
+            "file": "que2def16.png"
+        },
+        {
+            "group": 4,
+            "frame": 8,
+            "file": "que2def14.png"
+        },
+        {
+            "group": 4,
+            "frame": 9,
+            "file": "que2def12.png"
+        },
+        {
+            "group": 4,
+            "frame": 10,
+            "file": "que2def11.png"
+        },
+        {
+            "group": 4,
+            "frame": 11,
+            "file": "que2def09.png"
+        },
+        {
+            "group": 4,
+            "frame": 12,
+            "file": "que2def08.png"
+        },
+        {
+            "group": 4,
+            "frame": 13,
+            "file": "que2def01.png"
+        },
+        {
+            "group": 5,
+            "frame": 0,
+            "file": "que2dth00.png"
+        },
+        {
+            "group": 5,
+            "frame": 1,
+            "file": "que2dth07.png"
+        },
+        {
+            "group": 5,
+            "frame": 2,
+            "file": "que2dth09.png"
+        },
+        {
+            "group": 5,
+            "frame": 3,
+            "file": "que2dth12.png"
+        },
+        {
+            "group": 5,
+            "frame": 4,
+            "file": "que2dth15.png"
+        },
+        {
+            "group": 5,
+            "frame": 5,
+            "file": "que2dth17.png"
+        },
+        {
+            "group": 5,
+            "frame": 6,
+            "file": "que2dth22.png"
+        },
+        {
+            "group": 5,
+            "frame": 7,
+            "file": "que2dth26.png"
+        },
+        {
+            "group": 5,
+            "frame": 8,
+            "file": "que2dth32.png"
+        },
+        {
+            "group": 5,
+            "frame": 9,
+            "file": "que2dth37.png"
+        },
+        {
+            "group": 5,
+            "frame": 10,
+            "file": "que2dth41.png"
+        },
+        {
+            "group": 5,
+            "frame": 11,
+            "file": "que2dth53.png"
+        },
+        {
+            "group": 6,
+            "frame": 0,
+            "file": "que2dth00.png"
+        },
+        {
+            "group": 6,
+            "frame": 1,
+            "file": "que2dth07.png"
+        },
+        {
+            "group": 6,
+            "frame": 2,
+            "file": "que2dth09.png"
+        },
+        {
+            "group": 6,
+            "frame": 3,
+            "file": "que2dth12.png"
+        },
+        {
+            "group": 6,
+            "frame": 4,
+            "file": "que2dth15.png"
+        },
+        {
+            "group": 6,
+            "frame": 5,
+            "file": "que2dth17.png"
+        },
+        {
+            "group": 6,
+            "frame": 6,
+            "file": "que2dth22.png"
+        },
+        {
+            "group": 6,
+            "frame": 7,
+            "file": "que2dth26.png"
+        },
+        {
+            "group": 6,
+            "frame": 8,
+            "file": "que2dth32.png"
+        },
+        {
+            "group": 6,
+            "frame": 9,
+            "file": "que2dth37.png"
+        },
+        {
+            "group": 6,
+            "frame": 10,
+            "file": "que2dth41.png"
+        },
+        {
+            "group": 6,
+            "frame": 11,
+            "file": "que2dth53.png"
+        },
+        {
+            "group": 7,
+            "frame": 0,
+            "file": "que2tdown1.png"
+        },
+        {
+            "group": 7,
+            "frame": 1,
+            "file": "que2tdown2.png"
+        },
+        {
+            "group": 8,
+            "frame": 0,
+            "file": "que2tdown2.png"
+        },
+        {
+            "group": 8,
+            "frame": 1,
+            "file": "que2tdown1.png"
+        },
+        {
+            "group": 9,
+            "frame": 0,
+            "file": "que2tdown1.png"
+        },
+        {
+            "group": 9,
+            "frame": 1,
+            "file": "que2tdown2.png"
+        },
+        {
+            "group": 10,
+            "frame": 0,
+            "file": "que2tdown2.png"
+        },
+        {
+            "group": 10,
+            "frame": 1,
+            "file": "que2tdown1.png"
+        },
+        {
+            "group": 11,
+            "frame": 0,
+            "file": "que2tup1.png"
+        },
+        {
+            "group": 11,
+            "frame": 1,
+            "file": "que2atu01.png"
+        },
+        {
+            "group": 11,
+            "frame": 2,
+            "file": "que2atu02.png"
+        },
+        {
+            "group": 11,
+            "frame": 3,
+            "file": "que2atu07.png"
+        },
+        {
+            "group": 11,
+            "frame": 4,
+            "file": "que2atu08.png"
+        },
+        {
+            "group": 11,
+            "frame": 5,
+            "file": "que2atu09.png"
+        },
+        {
+            "group": 11,
+            "frame": 6,
+            "file": "que2atu10.png"
+        },
+        {
+            "group": 11,
+            "frame": 7,
+            "file": "que2atu11.png"
+        },
+        {
+            "group": 11,
+            "frame": 8,
+            "file": "que2atu12.png"
+        },
+        {
+            "group": 11,
+            "frame": 9,
+            "file": "que2atu13.png"
+        },
+        {
+            "group": 11,
+            "frame": 10,
+            "file": "que2atu15.png"
+        },
+        {
+            "group": 11,
+            "frame": 11,
+            "file": "que2atu17.png"
+        },
+        {
+            "group": 11,
+            "frame": 12,
+            "file": "que2atu18.png"
+        },
+        {
+            "group": 11,
+            "frame": 13,
+            "file": "que2atu19.png"
+        },
+        {
+            "group": 11,
+            "frame": 14,
+            "file": "que2atu20.png"
+        },
+        {
+            "group": 11,
+            "frame": 15,
+            "file": "que2tup1.png"
+        },
+        {
+            "group": 12,
+            "frame": 0,
+            "file": "que2ats02.png"
+        },
+        {
+            "group": 12,
+            "frame": 1,
+            "file": "que2ats03.png"
+        },
+        {
+            "group": 12,
+            "frame": 2,
+            "file": "que2ats08.png"
+        },
+        {
+            "group": 12,
+            "frame": 3,
+            "file": "que2ats09.png"
+        },
+        {
+            "group": 12,
+            "frame": 4,
+            "file": "que2ats10.png"
+        },
+        {
+            "group": 12,
+            "frame": 5,
+            "file": "que2ats11.png"
+        },
+        {
+            "group": 12,
+            "frame": 6,
+            "file": "que2ats12.png"
+        },
+        {
+            "group": 12,
+            "frame": 7,
+            "file": "que2ats13.png"
+        },
+        {
+            "group": 12,
+            "frame": 8,
+            "file": "que2ats14.png"
+        },
+        {
+            "group": 12,
+            "frame": 9,
+            "file": "que2ats15.png"
+        },
+        {
+            "group": 12,
+            "frame": 10,
+            "file": "que2ats16.png"
+        },
+        {
+            "group": 12,
+            "frame": 11,
+            "file": "que2ats17.png"
+        },
+        {
+            "group": 12,
+            "frame": 12,
+            "file": "que2ats18.png"
+        },
+        {
+            "group": 12,
+            "frame": 13,
+            "file": "que2ats19.png"
+        },
+        {
+            "group": 12,
+            "frame": 14,
+            "file": "que2ats20.png"
+        },
+        {
+            "group": 13,
+            "frame": 0,
+            "file": "que2tdown1.png"
+        },
+        {
+            "group": 13,
+            "frame": 1,
+            "file": "que2atd01.png"
+        },
+        {
+            "group": 13,
+            "frame": 2,
+            "file": "que2atd02.png"
+        },
+        {
+            "group": 13,
+            "frame": 3,
+            "file": "que2atd07.png"
+        },
+        {
+            "group": 13,
+            "frame": 4,
+            "file": "que2atd08.png"
+        },
+        {
+            "group": 13,
+            "frame": 5,
+            "file": "que2atd09.png"
+        },
+        {
+            "group": 13,
+            "frame": 6,
+            "file": "que2atd10.png"
+        },
+        {
+            "group": 13,
+            "frame": 7,
+            "file": "que2atd11.png"
+        },
+        {
+            "group": 13,
+            "frame": 8,
+            "file": "que2atd12.png"
+        },
+        {
+            "group": 13,
+            "frame": 9,
+            "file": "que2atd13.png"
+        },
+        {
+            "group": 13,
+            "frame": 10,
+            "file": "que2atd14.png"
+        },
+        {
+            "group": 13,
+            "frame": 11,
+            "file": "que2atd16.png"
+        },
+        {
+            "group": 13,
+            "frame": 12,
+            "file": "que2atd17.png"
+        },
+        {
+            "group": 13,
+            "frame": 13,
+            "file": "que2atd18.png"
+        },
+        {
+            "group": 13,
+            "frame": 14,
+            "file": "que2atd20.png"
+        },
+        {
+            "group": 13,
+            "frame": 15,
+            "file": "que2tdown1.png"
+        },
+        {
+            "group": 17,
+            "frame": 0,
+            "file": "que2spe00.png"
+        },
+        {
+            "group": 17,
+            "frame": 1,
+            "file": "que2spe06.png"
+        },
+        {
+            "group": 17,
+            "frame": 2,
+            "file": "que2spe08.png"
+        },
+        {
+            "group": 17,
+            "frame": 3,
+            "file": "que2spe10.png"
+        },
+        {
+            "group": 17,
+            "frame": 4,
+            "file": "que2spe12.png"
+        },
+        {
+            "group": 17,
+            "frame": 5,
+            "file": "que2spe16.png"
+        },
+        {
+            "group": 17,
+            "frame": 6,
+            "file": "que2spe17.png"
+        },
+        {
+            "group": 17,
+            "frame": 7,
+            "file": "que2spe38.png"
+        },
+        {
+            "group": 17,
+            "frame": 8,
+            "file": "que2spe41.png"
+        },
+        {
+            "group": 17,
+            "frame": 9,
+            "file": "que2spe44.png"
+        },
+        {
+            "group": 17,
+            "frame": 10,
+            "file": "que2spe47.png"
+        },
+        {
+            "group": 17,
+            "frame": 11,
+            "file": "que2spe52.png"
+        },
+        {
+            "group": 18,
+            "frame": 0,
+            "file": "que2spe00.png"
+        },
+        {
+            "group": 18,
+            "frame": 1,
+            "file": "que2spe06.png"
+        },
+        {
+            "group": 18,
+            "frame": 2,
+            "file": "que2spe08.png"
+        },
+        {
+            "group": 18,
+            "frame": 3,
+            "file": "que2spe10.png"
+        },
+        {
+            "group": 18,
+            "frame": 4,
+            "file": "que2spe12.png"
+        },
+        {
+            "group": 18,
+            "frame": 5,
+            "file": "que2spe16.png"
+        },
+        {
+            "group": 18,
+            "frame": 6,
+            "file": "que2spe17.png"
+        },
+        {
+            "group": 18,
+            "frame": 7,
+            "file": "que2spe38.png"
+        },
+        {
+            "group": 18,
+            "frame": 8,
+            "file": "que2spe41.png"
+        },
+        {
+            "group": 18,
+            "frame": 9,
+            "file": "que2spe44.png"
+        },
+        {
+            "group": 18,
+            "frame": 10,
+            "file": "que2spe47.png"
+        },
+        {
+            "group": 18,
+            "frame": 11,
+            "file": "que2spe52.png"
+        },
+        {
+            "group": 19,
+            "frame": 0,
+            "file": "que2spe00.png"
+        },
+        {
+            "group": 19,
+            "frame": 1,
+            "file": "que2spe06.png"
+        },
+        {
+            "group": 19,
+            "frame": 2,
+            "file": "que2spe08.png"
+        },
+        {
+            "group": 19,
+            "frame": 3,
+            "file": "que2spe10.png"
+        },
+        {
+            "group": 19,
+            "frame": 4,
+            "file": "que2spe12.png"
+        },
+        {
+            "group": 19,
+            "frame": 5,
+            "file": "que2spe16.png"
+        },
+        {
+            "group": 19,
+            "frame": 6,
+            "file": "que2spe17.png"
+        },
+        {
+            "group": 19,
+            "frame": 7,
+            "file": "que2spe38.png"
+        },
+        {
+            "group": 19,
+            "frame": 8,
+            "file": "que2spe41.png"
+        },
+        {
+            "group": 19,
+            "frame": 9,
+            "file": "que2spe44.png"
+        },
+        {
+            "group": 19,
+            "frame": 10,
+            "file": "que2spe47.png"
+        },
+        {
+            "group": 19,
+            "frame": 11,
+            "file": "que2spe52.png"
+        }
+    ],
+    "basepath": "swarm/battle/queen2/"
 }

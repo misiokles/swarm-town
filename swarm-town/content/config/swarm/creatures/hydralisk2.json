@@ -1,10 +1,13 @@
 {
-	"hydralisk2" : {
-		"name" : {
+	"hydralisk2":
+	{
+		"name" :
+		{
 			"plural" : "Primal Hydralisks",
 			"singular" : "Primal Hydralisk"
 		},
-		"advMapAmount" : {
+		"advMapAmount" :
+		{
 			"max" : 25,
 			"min" : 16
 		},
@@ -12,30 +15,31 @@
 		"aiValue" : 280,
 		"attack" : 9,
 		"hasDoubleWeek" : true,
-		"cost" : {
+                "cost" :
+		{
 			"gold" : 230
 		},
-		"damage" : {
+		"damage" :
+		{
 			"max" : 5,
 			"min" : 3
 		},
 		"defense" : 6,
 		"fightValue" : 280,
-		"graphics" : {
+		"graphics" :
+		{
 			"animation" : "swarm/battle/hydralisk2.def",
-			"animationTime" : {
-				"attack" : 1,
-				"idle" : 10,
-				"walk" : 1
-			},
+			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
 			"map" : "swarm/map/hydralisk2mini.def",
 			"iconSmall" : "swarm/iconsSmall/hydralisk2s.bmp",
 			"iconLarge" : "swarm/iconsBig/hydralisk2l.bmp",
 			"timeBetweenFidgets" : 1,
-			"missile" : {
+			"missile" :
+			{
 				"projectile" : "swarm/battle/projectile/stinger.def",
-				"attackClimaxFrame" : 8,
-				"offset" : {
+			    "attackClimaxFrame" : 8,
+				"offset" :
+				{
 					"upperX" : 41,
 					"upperY" : -92,
 					"middleX" : 58,
@@ -43,41 +47,32 @@
 					"lowerX" : 29,
 					"lowerY" : -14
 				},
-				"frameAngles" : [
-					90,
-					72,
-					45,
-					27,
-					0,
-					-27,
-					-45,
-					-72,
-					-90,
-					0,
-					0,
-					0
-				]
-			}
+				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0]
+			},				
 		},
 		"growth" : 7,
 		"doubleWide" : true,
 		"hitPoints" : 18,
-		"level" : 3,
+        "level" : 3,
 		"shots" : 24,
-		"sound" : {
+		"sound" :
+		{
 			"attack" : "swarm/hydralisk_attack.wav",
 			"defend" : "swarm/hydralisk_defend.wav",
 			"killed" : "swarm/hydralisk_killed.wav",
-			"move" : "NGRDMOVE.wav",
-			"shoot" : "swarm/hydralisk_shoot.wav",
-			"wince" : "swarm/hydralisk_wince.wav"
+			"move": "NGRDMOVE.wav",
+			"shoot": "swarm/hydralisk_shoot.wav",
+			"wince" : "swarm/hydralisk_wince.wav",
 		},
 		"speed" : 6,
-		"abilities" : {
-			"canshoot" : {
+		"abilities" :
+		{
+            "canshoot" :
+			{
 				"type" : "SHOOTER"
 			},
-			"noMeleePenalty" : {
+			"noMeleePenalty" :
+			{
 				"type" : "NO_MELEE_PENALTY"
 			}
 		}

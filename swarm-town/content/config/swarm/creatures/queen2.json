@@ -1,62 +1,69 @@
 {
-	"queen2" : {
-		"name" : {
+	"queen2":
+	{
+		"name" :
+		{
 			"plural" : "Primal Queens",
 			"singular" : "Primal Queen"
 		},
-		"advMapAmount" : {
+		"advMapAmount" :
+		{
 			"max" : 12,
 			"min" : 8
 		},
 		"faction" : "swarm",
 		"aiValue" : 800,
 		"attack" : 9,
-		"doubleWide" : true,
+		"doubleWide" : true,		
 		"hasDoubleWeek" : true,
-		"cost" : {
+        "cost" : 
+		{
 			"gold" : 425
 		},
-		"damage" : {
+		"damage" :
+		{
 			"max" : 14,
 			"min" : 10
 		},
 		"defense" : 12,
 		"fightValue" : 800,
-		"graphics" : {
+		"graphics" :
+		{
 			"animation" : "swarm/battle/queen2",
-			"animationTime" : {
-				"attack" : 1,
-				"idle" : 10,
-				"walk" : 1
-			},
+			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
 			"map" : "swarm/map/queen2mini",
 			"iconSmall" : "swarm/iconsSmall/queen2s.png",
 			"iconLarge" : "swarm/iconsBig/queen2l.png",
-			"timeBetweenFidgets" : 1
+			"timeBetweenFidgets" : 1,
 		},
 		"growth" : 3,
 		"hitPoints" : 65,
 		"level" : 5,
-		"sound" : {
+		"sound" :
+		{
 			"attack" : "swarm/queen_attack.wav",
 			"defend" : "swarm/queen_defend.wav",
 			"killed" : "swarm/queen_killed.wav",
-			"move" : "swarm/queen_move.wav",
-			"wince" : "swarm/queen_wince.wav"
+			"move"   : "swarm/queen_move.wav",
+			"wince"  : "swarm/queen_wince.wav"    
 		},
 		"speed" : 5,
-		"abilities" : {
-			"healLife" : {
+		"abilities" :
+		{
+			"healLife":
+			{
 				"type" : "SPELLCASTER",
 				"subtype" : "spell.cure",
 				"val" : 2
 			},
-			"healPower" : {
+			"healPower" : 
+			{
 				"type" : "SPECIFIC_SPELL_POWER",
 				"subtype" : "spell.cure",
 				"val" : 50
 			},
-			"spellPoints" : {
+			"spellPoints" : 
+			{
 				"type" : "CASTS",
 				"val" : 2
 			}

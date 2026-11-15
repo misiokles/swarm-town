@@ -1,180 +1,180 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "ling1map17.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "ling1map16.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "ling1map15.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "ling1map14.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "ling1map13.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 10,
-			"file" : "ling1map12.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 11,
-			"file" : "ling1map11.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 12,
-			"file" : "ling1map11.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 13,
-			"file" : "ling1map12.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 14,
-			"file" : "ling1map13.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 15,
-			"file" : "ling1map14.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 16,
-			"file" : "ling1map15.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 17,
-			"file" : "ling1map16.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 18,
-			"file" : "ling1map17.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 19,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 20,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 21,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 22,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 23,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 24,
-			"file" : "ling1map18.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		}
-	],
-	"basepath" : "swarm/map/zergling1map/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "ling1map17.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "ling1map16.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "ling1map15.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "ling1map14.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "ling1map13.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "ling1map12.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 11,
+            "file": "ling1map11.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 12,
+            "file": "ling1map11.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 13,
+            "file": "ling1map12.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 14,
+            "file": "ling1map13.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 15,
+            "file": "ling1map14.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 16,
+            "file": "ling1map15.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 17,
+            "file": "ling1map16.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 18,
+            "file": "ling1map17.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 19,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 20,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 21,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 22,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 23,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 24,
+            "file": "ling1map18.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        }
+    ],
+    "basepath": "swarm/map/zergling1map/"
 }

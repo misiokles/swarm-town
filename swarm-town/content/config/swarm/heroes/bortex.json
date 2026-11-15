@@ -1,49 +1,38 @@
 {
-	"bortex" : {
+	"bortex" :
+	{
 		"class" : "overseer",
 		"female" : true,
 
-		"texts" : {
+		
+		"texts" :
+		{
 			"name" : "Bortex",
 			"biography" : "undetermined",
-			"specialty" : {
-				"description" : "{Brutalisks and Hunterlings}\r\n\r\nIncreases the Attack and Defence of any Brutalisks or Hunterlings for each level attained after 6th level.",
+			"specialty" :
+			{
+				"description" : "Increases the Attack and Defence of any Brutalisks or Hunterlings for each level attained after 6th level.",
 				"tooltip" : "Creature Bonus: Brutalisks",
 				"name" : "Brutalisks"
 			}
 		},
-		"images" : {
+		"images" :
+		{
 			"specialtySmall" : "swarm/heroes/bortex/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/bortex/spec-large.png",
 			"large" : "swarm/heroes/bortex/portrait-large.png",
 			"small" : "swarm/heroes/bortex/portrait-small.png"
 		},
-		"army" : [
-			{
-				"creature" : "zergling1",
-				"min" : 10,
-				"max" : 15
-			},
-			{
-				"creature" : "roach1",
-				"min" : 6,
-				"max" : 9
-			},
-			{
-				"creature" : "hydralisk1",
-				"min" : 4,
-				"max" : 6
-			}
+               "army" :
+		[
+			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
+			{ "creature" : "roach1", "min" : 6, "max" : 9 },
+			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
 		],
-		"skills" : [
-			{
-				"skill" : "offence",
-				"level" : "basic"
-			},
-			{
-				"skill" : "ballistics",
-				"level" : "basic"
-			}
+		"skills":
+		[
+			{ "skill" : "offence", "level": "basic" },
+			{ "skill" : "ballistics", "level": "basic" }
 		],
 		"specialty" : {
 			"creature" : "brutalisk1"

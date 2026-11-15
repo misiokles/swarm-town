@@ -1,301 +1,49 @@
 {
-	"swarm" : {
-		"town" : {
-			"structures" : {
-				"extrazerg" : {
-					"animation" : "swarm/town-screen/buildings/gas.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 0
-				},
-				"extrazerg2" : {
-					"animation" : "swarm/town-screen/buildings/overlord.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 0
-				},
-				"extrazerg3" : {
-					"animation" : "swarm/town-screen/buildings/ling.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 0
-				},
-				"mageGuild1" : {
-					"animation" : "swarm/town-screen/buildings/mg1.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/mg1b.bmp",
-					"area" : "swarm/town-screen/buildings-area/mg1a.bmp"
-				},
-				"mageGuild2" : {
-					"animation" : "swarm/town-screen/buildings/mg2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/mg2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/mg2a.bmp"
-				},
-				"mageGuild3" : {
-					"animation" : "swarm/town-screen/buildings/mg3.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/mg3b.bmp",
-					"area" : "swarm/town-screen/buildings-area/mg3a.bmp"
-				},
-				"mageGuild4" : {
-					"animation" : "swarm/town-screen/buildings/mg4.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/mg4b.bmp",
-					"area" : "swarm/town-screen/buildings-area/mg4a.bmp"
-				},
-				"tavern" : {
-					"animation" : "swarm/town-screen/buildings/creep.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 1,
-					"border" : "swarm/town-screen/buildings-border/creepb.bmp",
-					"area" : "swarm/town-screen/buildings-area/creepa.bmp"
-				},
-				"fort" : {
-					"animation" : "swarm/town-screen/buildings/cas1.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/cas1b.bmp",
-					"area" : "swarm/town-screen/buildings-area/cas1a.bmp"
-				},
-				"citadel" : {
-					"animation" : "swarm/town-screen/buildings/cas2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/cas2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/cas2a.bmp"
-				},
-				"castle" : {
-					"animation" : "swarm/town-screen/buildings/cas3.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/cas3b.bmp",
-					"area" : "swarm/town-screen/buildings-area/cas3a.bmp"
-				},
-				"villageHall" : {
-					"animation" : "swarm/town-screen/buildings/hall1.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/hall1.bmp",
-					"area" : "swarm/town-screen/buildings-area/hall1.bmp"
-				},
-				"townHall" : {
-					"animation" : "swarm/town-screen/buildings/hall2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/hall1b.bmp",
-					"area" : "swarm/town-screen/buildings-area/hall2a.bmp"
-				},
-				"cityHall" : {
-					"animation" : "swarm/town-screen/buildings/hall3.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/hall2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/hall3a.bmp"
-				},
-				"capitol" : {
-					"animation" : "swarm/town-screen/buildings/hall4.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/hall3b.bmp",
-					"area" : "swarm/town-screen/buildings-area/hall3a.bmp"
-				},
-				"marketplace" : {
-					"animation" : "swarm/town-screen/buildings/cere.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 8,
-					"border" : "swarm/town-screen/buildings-border/cereb.bmp",
-					"area" : "swarm/town-screen/buildings-area/cerea.bmp"
-				},
-				"resourceSilo" : {
-					"animation" : "swarm/town-screen/buildings/beacon.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 8,
-					"border" : "swarm/town-screen/buildings-border/beaconb.bmp",
-					"area" : "swarm/town-screen/buildings-area/beacona.bmp"
-				},
-				"blacksmith" : {
-					"animation" : "swarm/town-screen/buildings/ext.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 1,
-					"border" : "swarm/town-screen/buildings-border/extb.bmp",
-					"area" : "swarm/town-screen/buildings-area/exta.bmp"
-				},
-				"special1" : {
-					"animation" : "swarm/town-screen/buildings/spec1.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/spec1.bmp",
-					"area" : "swarm/town-screen/buildings-area/spec1.bmp"
-				},
-				"special2" : {
-					"animation" : "swarm/town-screen/buildings/spec2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/spec2.bmp",
-					"area" : "swarm/town-screen/buildings-area/spec2.bmp"
-				},
-				"special3" : {
-					"animation" : "swarm/town-screen/buildings/spec3.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/spec3.bmp",
-					"area" : "swarm/town-screen/buildings-area/spec3.bmp"
-				},
-				"horde1" : {
-					"animation" : "swarm/town-screen/buildings/horde.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 7,
-					"border" : "swarm/town-screen/buildings-border/spec4.bmp",
-					"area" : "swarm/town-screen/buildings-area/spec4.bmp",
-					"hidden" : true
-				},
-				"horde1Upgr" : {
-					"animation" : "swarm/town-screen/buildings/horde.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 7,
-					"border" : "swarm/town-screen/buildings-border/spec4.bmp",
-					"area" : "swarm/town-screen/buildings-area/spec4.bmp",
-					"hidden" : true,
-					"builds" : "horde1"
-				},
-				"grail" : {
-					"animation" : "swarm/town-screen/buildings/grail.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 2,
-					"border" : "swarm/town-screen/buildings-border/grailb.bmp",
-					"area" : "swarm/town-screen/buildings-area/graila.bmp"
-				},
-				"dwellingLvl1" : {
-					"animation" : "swarm/town-screen/buildings/pool1.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/pool1b.bmp",
-					"area" : "swarm/town-screen/buildings-area/pool1a.bmp"
-				},
-				"dwellingLvl2" : {
-					"animation" : "swarm/town-screen/buildings/spore.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 5,
-					"border" : "swarm/town-screen/buildings-border/sporeb.bmp",
-					"area" : "swarm/town-screen/buildings-area/sporea.bmp"
-				},
-				"dwellingLvl3" : {
-					"animation" : "swarm/town-screen/buildings/hydra.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/hydrab.bmp",
-					"area" : "swarm/town-screen/buildings-area/hydraa.bmp"
-				},
-				"dwellingLvl4" : {
-					"animation" : "swarm/town-screen/buildings/evo.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/evob.bmp",
-					"area" : "swarm/town-screen/buildings-area/evoa.bmp"
-				},
-				"dwellingLvl5" : {
-					"animation" : "swarm/town-screen/buildings/queen.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/queenb.bmp",
-					"area" : "swarm/town-screen/buildings-area/queena.bmp"
-				},
-				"dwellingLvl6" : {
-					"animation" : "swarm/town-screen/buildings/ultra.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 1,
-					"border" : "swarm/town-screen/buildings-border/ultrab.bmp",
-					"area" : "swarm/town-screen/buildings-area/ultraa.bmp"
-				},
-				"dwellingLvl7" : {
-					"animation" : "swarm/town-screen/buildings/def.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 9,
-					"border" : "swarm/town-screen/buildings-border/defb.bmp",
-					"area" : "swarm/town-screen/buildings-area/defa.bmp"
-				},
-				"dwellingUpLvl1" : {
-					"animation" : "swarm/town-screen/buildings/pool2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/pool2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/pool2a.bmp"
-				},
-				"dwellingUpLvl2" : {
-					"animation" : "swarm/town-screen/buildings/spore2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 5,
-					"border" : "swarm/town-screen/buildings-border/spore2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/spore2a.bmp"
-				},
-				"dwellingUpLvl3" : {
-					"animation" : "swarm/town-screen/buildings/hydra2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 3,
-					"border" : "swarm/town-screen/buildings-border/hydra2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/hydra2a.bmp"
-				},
-				"dwellingUpLvl4" : {
-					"animation" : "swarm/town-screen/buildings/evo2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/evo2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/evo2a.bmp"
-				},
-				"dwellingUpLvl5" : {
-					"animation" : "swarm/town-screen/buildings/queen2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 4,
-					"border" : "swarm/town-screen/buildings-border/queen2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/queen2a.bmp"
-				},
-				"dwellingUpLvl6" : {
-					"animation" : "swarm/town-screen/buildings/ultra2.def",
-					"x" : 0,
-					"y" : 0,
-					"z" : 1,
-					"border" : "swarm/town-screen/buildings-border/ultra2b.bmp",
-					"area" : "swarm/town-screen/buildings-area/ultra2a.bmp"
-				}
+	"swarm" :
+	{
+		"town" :
+		{
+			"structures" :
+			{
+				"extrazerg":        { "animation" : "swarm/town-screen/buildings/gas.def",		"x" : 0, "y" : 0, "z" : 0 },
+				"extrazerg2":       { "animation" : "swarm/town-screen/buildings/overlord.def",	"x" : 0, "y" : 0, "z" : 0 },
+				"extrazerg3":       { "animation" : "swarm/town-screen/buildings/ling.def",	    "x" : 0, "y" : 0, "z" : 0 },
+				"mageGuild1" :      { "animation" : "swarm/town-screen/buildings/mg1.def",	 	"x" : 0, "y" : 0, "z" : 2, "border" : "swarm/town-screen/buildings-border/mg1b.bmp",   	 "area" : "swarm/town-screen/buildings-area/mg1a.bmp" },
+				"mageGuild2" :      { "animation" : "swarm/town-screen/buildings/mg2.def",  		"x" : 0, "y" : 0, "z" : 2, "border" : "swarm/town-screen/buildings-border/mg2b.bmp",   	 "area" : "swarm/town-screen/buildings-area/mg2a.bmp" },
+				"mageGuild3" :      { "animation" : "swarm/town-screen/buildings/mg3.def",		"x" : 0, "y" : 0, "z" : 2, "border" : "swarm/town-screen/buildings-border/mg3b.bmp",   	 "area" : "swarm/town-screen/buildings-area/mg3a.bmp" },
+				"mageGuild4" :      { "animation" : "swarm/town-screen/buildings/mg4.def",	  	"x" : 0, "y" : 0, "z" : 2, "border" : "swarm/town-screen/buildings-border/mg4b.bmp",   	 "area" : "swarm/town-screen/buildings-area/mg4a.bmp" },
+				"tavern" :          { "animation" : "swarm/town-screen/buildings/creep.def",  	"x" : 0, "y" : 0, "z" : 1,         "border" : "swarm/town-screen/buildings-border/creepb.bmp", 	 "area" : "swarm/town-screen/buildings-area/creepa.bmp" },
+				"fort" :            { "animation" : "swarm/town-screen/buildings/cas1.def",      "x" : 0, "y" : 0, "z" : 2,        "border" : "swarm/town-screen/buildings-border/cas1b.bmp",  	 "area" : "swarm/town-screen/buildings-area/cas1a.bmp" },
+				"citadel" :         { "animation" : "swarm/town-screen/buildings/cas2.def",      "x" : 0, "y" : 0, "z" : 2,        "border" : "swarm/town-screen/buildings-border/cas2b.bmp",  	 "area" : "swarm/town-screen/buildings-area/cas2a.bmp" },
+				"castle" :          { "animation" : "swarm/town-screen/buildings/cas3.def",      "x" : 0, "y" : 0, "z" : 2,        "border" : "swarm/town-screen/buildings-border/cas3b.bmp",  	 "area" : "swarm/town-screen/buildings-area/cas3a.bmp" },
+				"villageHall" :     { "animation" : "swarm/town-screen/buildings/hall1.def",     "x" : 0, "y" : 0, "z" : 3,        "border" : "swarm/town-screen/buildings-border/hall1.bmp",  	 "area" : "swarm/town-screen/buildings-area/hall1.bmp" },
+				"townHall" :        { "animation" : "swarm/town-screen/buildings/hall2.def",     "x" : 0, "y" : 0, "z" : 3,        "border" : "swarm/town-screen/buildings-border/hall1b.bmp", 	 "area" : "swarm/town-screen/buildings-area/hall2a.bmp" },
+				"cityHall" :        { "animation" : "swarm/town-screen/buildings/hall3.def",     "x" : 0, "y" : 0, "z" : 3,        "border" : "swarm/town-screen/buildings-border/hall2b.bmp",   "area" : "swarm/town-screen/buildings-area/hall3a.bmp" },
+				"capitol" :         { "animation" : "swarm/town-screen/buildings/hall4.def",     "x" : 0, "y" : 0, "z" : 3,        "border" : "swarm/town-screen/buildings-border/hall3b.bmp",   "area" : "swarm/town-screen/buildings-area/hall3a.bmp" },
+				"marketplace" :     { "animation" : "swarm/town-screen/buildings/cere.def",    	"x" : 0, "y" : 0, "z" : 8,         "border" : "swarm/town-screen/buildings-border/cereb.bmp", 	 "area" : "swarm/town-screen/buildings-area/cerea.bmp" },
+				"resourceSilo" :    { "animation" : "swarm/town-screen/buildings/beacon.def",    "x" : 0, "y" : 0, "z" : 8,        "border" : "swarm/town-screen/buildings-border/beaconb.bmp",  "area" : "swarm/town-screen/buildings-area/beacona.bmp" },
+				"blacksmith" :      { "animation" : "swarm/town-screen/buildings/ext.def",     	"x" : 0, "y" : 0, "z" : 1,         "border" : "swarm/town-screen/buildings-border/extb.bmp",  	 "area" : "swarm/town-screen/buildings-area/exta.bmp" },
+				"special1" :        { "animation" : "swarm/town-screen/buildings/spec1.def",    	"x" : 0, "y" : 0, "z" : 2, "border" : "swarm/town-screen/buildings-border/spec1.bmp", 	 "area" : "swarm/town-screen/buildings-area/spec1.bmp" },
+				"special2" :        { "animation" : "swarm/town-screen/buildings/spec2.def",  	"x" : 0, "y" : 0, "z" : 3,         "border" : "swarm/town-screen/buildings-border/spec2.bmp",    "area" : "swarm/town-screen/buildings-area/spec2.bmp" },
+				"special3":         { "animation" : "swarm/town-screen/buildings/spec3.def",    	"x" : 0, "y" : 0, "z" : 4, "border" : "swarm/town-screen/buildings-border/spec3.bmp", 	 "area" : "swarm/town-screen/buildings-area/spec3.bmp" },
+	    	    "horde1":           { "animation" : "swarm/town-screen/buildings/horde.def",    	"x" : 0, "y" : 0, "z" : 7, "border" : "swarm/town-screen/buildings-border/spec4.bmp", 	 "area" : "swarm/town-screen/buildings-area/spec4.bmp", "hidden" : true },
+				"horde1Upgr":       { "animation" : "swarm/town-screen/buildings/horde.def",    	"x" : 0, "y" : 0, "z" : 7,     "border" : "swarm/town-screen/buildings-border/spec4.bmp", 	 "area" : "swarm/town-screen/buildings-area/spec4.bmp", "hidden" : true, "builds" : "horde1" },
+				"grail" :           { "animation" : "swarm/town-screen/buildings/grail.def",  	"x" : 0, "y" : 0, "z" : 2,         "border" : "swarm/town-screen/buildings-border/grailb.bmp", 	 "area" : "swarm/town-screen/buildings-area/graila.bmp" },
+				"dwellingLvl1" :    { "animation" : "swarm/town-screen/buildings/pool1.def", 	"x" : 0, "y" : 0, "z" : 4,         "border" : "swarm/town-screen/buildings-border/pool1b.bmp",   "area" : "swarm/town-screen/buildings-area/pool1a.bmp" },
+				"dwellingLvl2" :    { "animation" : "swarm/town-screen/buildings/spore.def",     "x" : 0, "y" : 0, "z" : 5,        "border" : "swarm/town-screen/buildings-border/sporeb.bmp",   "area" : "swarm/town-screen/buildings-area/sporea.bmp" },
+				"dwellingLvl3" :    { "animation" : "swarm/town-screen/buildings/hydra.def",  	"x" : 0, "y" : 0, "z" : 3,         "border" : "swarm/town-screen/buildings-border/hydrab.bmp",   "area" : "swarm/town-screen/buildings-area/hydraa.bmp" },
+				"dwellingLvl4" :    { "animation" : "swarm/town-screen/buildings/evo.def", 	    "x" : 0, "y" : 0, "z" : 4,         "border" : "swarm/town-screen/buildings-border/evob.bmp",     "area" : "swarm/town-screen/buildings-area/evoa.bmp" },
+				"dwellingLvl5" :    { "animation" : "swarm/town-screen/buildings/queen.def",  	"x" : 0, "y" : 0, "z" : 4,         "border" : "swarm/town-screen/buildings-border/queenb.bmp",   "area" : "swarm/town-screen/buildings-area/queena.bmp" },
+				"dwellingLvl6" :    { "animation" : "swarm/town-screen/buildings/ultra.def",  	"x" : 0, "y" : 0, "z" : 1,         "border" : "swarm/town-screen/buildings-border/ultrab.bmp",   "area" : "swarm/town-screen/buildings-area/ultraa.bmp" },
+				"dwellingLvl7" :    { "animation" : "swarm/town-screen/buildings/def.def",    	"x" : 0, "y" : 0, "z" : 9,         "border" : "swarm/town-screen/buildings-border/defb.bmp",   	 "area" : "swarm/town-screen/buildings-area/defa.bmp" },
+				"dwellingUpLvl1" :  { "animation" : "swarm/town-screen/buildings/pool2.def",  	"x" : 0, "y" : 0, "z" : 4,         "border" : "swarm/town-screen/buildings-border/pool2b.bmp", 	 "area" : "swarm/town-screen/buildings-area/pool2a.bmp" },
+				"dwellingUpLvl2" :  { "animation" : "swarm/town-screen/buildings/spore2.def",    "x" : 0, "y" : 0, "z" : 5,        "border" : "swarm/town-screen/buildings-border/spore2b.bmp",  "area" : "swarm/town-screen/buildings-area/spore2a.bmp" },
+				"dwellingUpLvl3" :  { "animation" : "swarm/town-screen/buildings/hydra2.def",  	"x" : 0, "y" : 0, "z" : 3,         "border" : "swarm/town-screen/buildings-border/hydra2b.bmp",	 "area" : "swarm/town-screen/buildings-area/hydra2a.bmp" },
+				"dwellingUpLvl4" :  { "animation" : "swarm/town-screen/buildings/evo2.def",   	"x" : 0, "y" : 0, "z" : 4,         "border" : "swarm/town-screen/buildings-border/evo2b.bmp", 	 "area" : "swarm/town-screen/buildings-area/evo2a.bmp" },
+				"dwellingUpLvl5" :  { "animation" : "swarm/town-screen/buildings/queen2.def",  	"x" : 0, "y" : 0, "z" : 4,         "border" : "swarm/town-screen/buildings-border/queen2b.bmp",  "area" : "swarm/town-screen/buildings-area/queen2a.bmp" },
+				"dwellingUpLvl6" :  { "animation" : "swarm/town-screen/buildings/ultra2.def",  	"x" : 0, "y" : 0, "z" : 1,         "border" : "swarm/town-screen/buildings-border/ultra2b.bmp",  "area" : "swarm/town-screen/buildings-area/ultra2a.bmp" },
 			}
 		}
 	}
 }
+

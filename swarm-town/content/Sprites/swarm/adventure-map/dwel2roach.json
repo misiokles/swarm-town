@@ -1,40 +1,40 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "dwel2roach2.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "dwel2roach2.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "dwel2roach1.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "dwel2roach2.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "dwel2roach2.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "dwel2roach3.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "dwel2roach2.png"
-		}
-	],
-	"basepath" : "swarm/adventure-map/dwel2roach/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "dwel2roach2.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "dwel2roach2.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "dwel2roach1.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "dwel2roach2.png"
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "dwel2roach2.png"
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "dwel2roach3.png"
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "dwel2roach2.png"
+        }
+    ],
+    "basepath": "swarm/adventure-map/dwel2roach/"
 }

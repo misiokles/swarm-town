@@ -1,10 +1,10 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "dwel3hyd.png"
-		}
-	],
-	"basepath" : "swarm/adventure-map/dwel3hyd/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "dwel3hyd.png"
+        }
+    ],
+    "basepath": "swarm/adventure-map/dwel3hyd/"
 }

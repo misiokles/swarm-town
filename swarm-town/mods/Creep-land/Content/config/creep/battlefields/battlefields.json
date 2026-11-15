@@ -1,5 +1,5 @@
 {
 	"creep" : {
-		"graphics" : "creep/battlefields/creep.bmp"
-	}
+        "graphics" : "creep/battlefields/creep.bmp"
+    }
 }

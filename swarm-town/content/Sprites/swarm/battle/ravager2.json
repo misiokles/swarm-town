@@ -1,1692 +1,1692 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "rav2mov02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "rav2mov03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "rav2mov08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "rav2mov09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "rav2mov10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "rav2mov11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "rav2mov12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "rav2mov13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "rav2mov14.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "rav2mov15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 10,
-			"file" : "rav2mov16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 11,
-			"file" : "rav2mov17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 12,
-			"file" : "rav2mov18.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 13,
-			"file" : "rav2mov19.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 14,
-			"file" : "rav2mov20.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 15,
-			"file" : "rav2mov21.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 16,
-			"file" : "rav2mov22.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 0,
-			"file" : "rav2moo10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 1,
-			"file" : "rav2moo13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 2,
-			"file" : "rav2moo16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 3,
-			"file" : "rav2moo19.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 4,
-			"file" : "rav2moo21.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 5,
-			"file" : "rav2moo22.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 6,
-			"file" : "rav2moo23.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 7,
-			"file" : "rav2moo24.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 8,
-			"file" : "rav2moo25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 9,
-			"file" : "rav2moo26.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 10,
-			"file" : "rav2moo27.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 11,
-			"file" : "rav2moo28.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 12,
-			"file" : "rav2moo29.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 13,
-			"file" : "rav2moo30.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 14,
-			"file" : "rav2moo31.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 15,
-			"file" : "rav2moo32.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 16,
-			"file" : "rav2moo33.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 17,
-			"file" : "rav2moo34.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 18,
-			"file" : "rav2moo35.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 19,
-			"file" : "rav2moo38.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 20,
-			"file" : "rav2moo41.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 21,
-			"file" : "rav2moo44.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 1,
-			"frame" : 22,
-			"file" : "rav2moo46.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 0,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 1,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 2,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 3,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 4,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 5,
-			"file" : "rav2sta08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 6,
-			"file" : "rav2sta10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 7,
-			"file" : "rav2sta12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 8,
-			"file" : "rav2sta10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 9,
-			"file" : "rav2sta08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 10,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 11,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 12,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 13,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 2,
-			"frame" : 14,
-			"file" : "rav2sta06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 0,
-			"file" : "rav2hit02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 1,
-			"file" : "rav2hit08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 2,
-			"file" : "rav2hit09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 3,
-			"file" : "rav2hit10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 4,
-			"file" : "rav2hit11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 5,
-			"file" : "rav2hit10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 3,
-			"frame" : 6,
-			"file" : "rav2hit08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 0,
-			"file" : "rav2def18.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 1,
-			"file" : "rav2def27.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 2,
-			"file" : "rav2def30.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 3,
-			"file" : "rav2def32.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 4,
-			"file" : "rav2def33.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 5,
-			"file" : "rav2def31.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 4,
-			"frame" : 6,
-			"file" : "rav2def27.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 0,
-			"file" : "rav2dth02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 1,
-			"file" : "rav2dth07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 2,
-			"file" : "rav2dth10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 3,
-			"file" : "rav2dth15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 4,
-			"file" : "rav2dth17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 5,
-			"file" : "rav2dth20.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 6,
-			"file" : "rav2dth25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 7,
-			"file" : "rav2dth30.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 8,
-			"file" : "rav2dth32.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 9,
-			"file" : "rav2dth35.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 10,
-			"file" : "rav2dth47.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 5,
-			"frame" : 11,
-			"file" : "rav2dth90.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 0,
-			"file" : "rav2dth02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 1,
-			"file" : "rav2dth07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 2,
-			"file" : "rav2dth10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 3,
-			"file" : "rav2dth15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 4,
-			"file" : "rav2dth17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 5,
-			"file" : "rav2dth20.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 6,
-			"file" : "rav2dth25.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 7,
-			"file" : "rav2dth30.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 8,
-			"file" : "rav2dth32.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 9,
-			"file" : "rav2dth35.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 10,
-			"file" : "rav2dth47.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 6,
-			"frame" : 11,
-			"file" : "rav2dth90.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 7,
-			"frame" : 0,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 7,
-			"frame" : 1,
-			"file" : "rav2t133.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 8,
-			"frame" : 0,
-			"file" : "rav2t133.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 8,
-			"frame" : 1,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 9,
-			"frame" : 0,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 9,
-			"frame" : 1,
-			"file" : "rav2t133.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 10,
-			"frame" : 0,
-			"file" : "rav2t133.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 10,
-			"frame" : 1,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 0,
-			"file" : "rav2t78.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 1,
-			"file" : "rav2shu01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 2,
-			"file" : "rav2shu03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 3,
-			"file" : "rav2shu04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 4,
-			"file" : "rav2shu05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 5,
-			"file" : "rav2shu06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 6,
-			"file" : "rav2shu07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 7,
-			"file" : "rav2shu08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 8,
-			"file" : "rav2shu09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 9,
-			"file" : "rav2shu10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 10,
-			"file" : "rav2shu11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 11,
-			"file" : "rav2shu12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 12,
-			"file" : "rav2shu13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 13,
-			"file" : "rav2shu14.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 14,
-			"file" : "rav2shu15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 15,
-			"file" : "rav2shu16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 11,
-			"frame" : 16,
-			"file" : "rav2t78.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 0,
-			"file" : "rav2shs01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 1,
-			"file" : "rav2shs02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 2,
-			"file" : "rav2shs03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 3,
-			"file" : "rav2shs04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 4,
-			"file" : "rav2shs05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 5,
-			"file" : "rav2shs06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 6,
-			"file" : "rav2shs07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 7,
-			"file" : "rav2shs08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 8,
-			"file" : "rav2shs09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 9,
-			"file" : "rav2shs10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 10,
-			"file" : "rav2shs11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 11,
-			"file" : "rav2shs12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 12,
-			"frame" : 12,
-			"file" : "rav2shs13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 0,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 1,
-			"file" : "rav2shd02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 2,
-			"file" : "rav2shd03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 3,
-			"file" : "rav2shd04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 4,
-			"file" : "rav2shd05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 5,
-			"file" : "rav2shd06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 6,
-			"file" : "rav2shd07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 7,
-			"file" : "rav2shd08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 8,
-			"file" : "rav2shd09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 9,
-			"file" : "rav2shd10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 10,
-			"file" : "rav2shd11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 11,
-			"file" : "rav2shd12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 12,
-			"file" : "rav2shd13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 13,
-			"file" : "rav2shd15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 14,
-			"file" : "rav2shd17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 13,
-			"frame" : 15,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 0,
-			"file" : "rav2t78.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 1,
-			"file" : "rav2shu01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 2,
-			"file" : "rav2shu03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 3,
-			"file" : "rav2shu04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 4,
-			"file" : "rav2shu05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 5,
-			"file" : "rav2shu06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 6,
-			"file" : "rav2shu07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 7,
-			"file" : "rav2shu08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 8,
-			"file" : "rav2shu09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 9,
-			"file" : "rav2shu10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 10,
-			"file" : "rav2shu11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 11,
-			"file" : "rav2shu12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 12,
-			"file" : "rav2shu13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 13,
-			"file" : "rav2shu14.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 14,
-			"file" : "rav2shu15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 15,
-			"file" : "rav2shu16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 14,
-			"frame" : 16,
-			"file" : "rav2t78.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 0,
-			"file" : "rav2shs01.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 1,
-			"file" : "rav2shs02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 2,
-			"file" : "rav2shs03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 3,
-			"file" : "rav2shs04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 4,
-			"file" : "rav2shs05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 5,
-			"file" : "rav2shs06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 6,
-			"file" : "rav2shs07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 7,
-			"file" : "rav2shs08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 8,
-			"file" : "rav2shs09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 9,
-			"file" : "rav2shs10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 10,
-			"file" : "rav2shs11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 11,
-			"file" : "rav2shs12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 15,
-			"frame" : 12,
-			"file" : "rav2shs13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 0,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 1,
-			"file" : "rav2shd02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 2,
-			"file" : "rav2shd03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 3,
-			"file" : "rav2shd04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 4,
-			"file" : "rav2shd05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 5,
-			"file" : "rav2shd06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 6,
-			"file" : "rav2shd07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 7,
-			"file" : "rav2shd08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 8,
-			"file" : "rav2shd09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 9,
-			"file" : "rav2shd10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 10,
-			"file" : "rav2shd11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 11,
-			"file" : "rav2shd12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 12,
-			"file" : "rav2shd13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 13,
-			"file" : "rav2shd15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 14,
-			"file" : "rav2shd17.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 16,
-			"frame" : 15,
-			"file" : "rav2t117.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 0,
-			"file" : "rav2spe02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 1,
-			"file" : "rav2spe03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 2,
-			"file" : "rav2spe04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 3,
-			"file" : "rav2spe05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 4,
-			"file" : "rav2spe06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 5,
-			"file" : "rav2spe07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 6,
-			"file" : "rav2spe08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 7,
-			"file" : "rav2spe09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 8,
-			"file" : "rav2spe10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 9,
-			"file" : "rav2spe11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 10,
-			"file" : "rav2spe12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 11,
-			"file" : "rav2spe13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 12,
-			"file" : "rav2spe14.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 13,
-			"file" : "rav2spe15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 14,
-			"file" : "rav2spe16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 17,
-			"frame" : 15,
-			"file" : "rav2spe02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 0,
-			"file" : "rav2spe02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 1,
-			"file" : "rav2spe03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 2,
-			"file" : "rav2spe04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 3,
-			"file" : "rav2spe05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 4,
-			"file" : "rav2spe06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 5,
-			"file" : "rav2spe07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 6,
-			"file" : "rav2spe08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 7,
-			"file" : "rav2spe09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 8,
-			"file" : "rav2spe10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 9,
-			"file" : "rav2spe11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 10,
-			"file" : "rav2spe12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 11,
-			"file" : "rav2spe13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 12,
-			"file" : "rav2spe14.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 13,
-			"file" : "rav2spe15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 14,
-			"file" : "rav2spe16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 18,
-			"frame" : 15,
-			"file" : "rav2spe02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 0,
-			"file" : "rav2spe02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 1,
-			"file" : "rav2spe03.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 2,
-			"file" : "rav2spe04.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 3,
-			"file" : "rav2spe05.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 4,
-			"file" : "rav2spe06.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 5,
-			"file" : "rav2spe07.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 6,
-			"file" : "rav2spe08.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 7,
-			"file" : "rav2spe09.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 8,
-			"file" : "rav2spe10.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 9,
-			"file" : "rav2spe11.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 10,
-			"file" : "rav2spe12.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 11,
-			"file" : "rav2spe13.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 12,
-			"file" : "rav2spe14.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 13,
-			"file" : "rav2spe15.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 14,
-			"file" : "rav2spe16.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 19,
-			"frame" : 15,
-			"file" : "rav2spe02.png",
-			"generateShadow" : 1,
-			"generateOverlay" : 1
-		}
-	],
-	"basepath" : "swarm/battle/ravager2/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "rav2mov02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "rav2mov03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "rav2mov08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "rav2mov09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "rav2mov10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "rav2mov11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "rav2mov12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "rav2mov13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "rav2mov14.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "rav2mov15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "rav2mov16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 11,
+            "file": "rav2mov17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 12,
+            "file": "rav2mov18.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 13,
+            "file": "rav2mov19.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 14,
+            "file": "rav2mov20.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 15,
+            "file": "rav2mov21.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 16,
+            "file": "rav2mov22.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 0,
+            "file": "rav2moo10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 1,
+            "file": "rav2moo13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 2,
+            "file": "rav2moo16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 3,
+            "file": "rav2moo19.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 4,
+            "file": "rav2moo21.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 5,
+            "file": "rav2moo22.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 6,
+            "file": "rav2moo23.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 7,
+            "file": "rav2moo24.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 8,
+            "file": "rav2moo25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 9,
+            "file": "rav2moo26.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 10,
+            "file": "rav2moo27.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 11,
+            "file": "rav2moo28.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 12,
+            "file": "rav2moo29.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 13,
+            "file": "rav2moo30.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 14,
+            "file": "rav2moo31.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 15,
+            "file": "rav2moo32.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 16,
+            "file": "rav2moo33.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 17,
+            "file": "rav2moo34.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 18,
+            "file": "rav2moo35.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 19,
+            "file": "rav2moo38.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 20,
+            "file": "rav2moo41.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 21,
+            "file": "rav2moo44.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 1,
+            "frame": 22,
+            "file": "rav2moo46.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 0,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 1,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 2,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 3,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 4,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 5,
+            "file": "rav2sta08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 6,
+            "file": "rav2sta10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 7,
+            "file": "rav2sta12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 8,
+            "file": "rav2sta10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 9,
+            "file": "rav2sta08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 10,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 11,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 12,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 13,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 2,
+            "frame": 14,
+            "file": "rav2sta06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 0,
+            "file": "rav2hit02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 1,
+            "file": "rav2hit08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 2,
+            "file": "rav2hit09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 3,
+            "file": "rav2hit10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 4,
+            "file": "rav2hit11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 5,
+            "file": "rav2hit10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 3,
+            "frame": 6,
+            "file": "rav2hit08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 0,
+            "file": "rav2def18.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 1,
+            "file": "rav2def27.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 2,
+            "file": "rav2def30.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 3,
+            "file": "rav2def32.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 4,
+            "file": "rav2def33.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 5,
+            "file": "rav2def31.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 4,
+            "frame": 6,
+            "file": "rav2def27.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 0,
+            "file": "rav2dth02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 1,
+            "file": "rav2dth07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 2,
+            "file": "rav2dth10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 3,
+            "file": "rav2dth15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 4,
+            "file": "rav2dth17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 5,
+            "file": "rav2dth20.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 6,
+            "file": "rav2dth25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 7,
+            "file": "rav2dth30.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 8,
+            "file": "rav2dth32.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 9,
+            "file": "rav2dth35.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 10,
+            "file": "rav2dth47.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 5,
+            "frame": 11,
+            "file": "rav2dth90.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 0,
+            "file": "rav2dth02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 1,
+            "file": "rav2dth07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 2,
+            "file": "rav2dth10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 3,
+            "file": "rav2dth15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 4,
+            "file": "rav2dth17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 5,
+            "file": "rav2dth20.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 6,
+            "file": "rav2dth25.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 7,
+            "file": "rav2dth30.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 8,
+            "file": "rav2dth32.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 9,
+            "file": "rav2dth35.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 10,
+            "file": "rav2dth47.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 6,
+            "frame": 11,
+            "file": "rav2dth90.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 7,
+            "frame": 0,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 7,
+            "frame": 1,
+            "file": "rav2t133.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 8,
+            "frame": 0,
+            "file": "rav2t133.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 8,
+            "frame": 1,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 9,
+            "frame": 0,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 9,
+            "frame": 1,
+            "file": "rav2t133.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 10,
+            "frame": 0,
+            "file": "rav2t133.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 10,
+            "frame": 1,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 0,
+            "file": "rav2t78.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 1,
+            "file": "rav2shu01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 2,
+            "file": "rav2shu03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 3,
+            "file": "rav2shu04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 4,
+            "file": "rav2shu05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 5,
+            "file": "rav2shu06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 6,
+            "file": "rav2shu07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 7,
+            "file": "rav2shu08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 8,
+            "file": "rav2shu09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 9,
+            "file": "rav2shu10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 10,
+            "file": "rav2shu11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 11,
+            "file": "rav2shu12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 12,
+            "file": "rav2shu13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 13,
+            "file": "rav2shu14.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 14,
+            "file": "rav2shu15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 15,
+            "file": "rav2shu16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 11,
+            "frame": 16,
+            "file": "rav2t78.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 0,
+            "file": "rav2shs01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 1,
+            "file": "rav2shs02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 2,
+            "file": "rav2shs03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 3,
+            "file": "rav2shs04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 4,
+            "file": "rav2shs05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 5,
+            "file": "rav2shs06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 6,
+            "file": "rav2shs07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 7,
+            "file": "rav2shs08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 8,
+            "file": "rav2shs09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 9,
+            "file": "rav2shs10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 10,
+            "file": "rav2shs11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 11,
+            "file": "rav2shs12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 12,
+            "frame": 12,
+            "file": "rav2shs13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 0,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 1,
+            "file": "rav2shd02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 2,
+            "file": "rav2shd03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 3,
+            "file": "rav2shd04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 4,
+            "file": "rav2shd05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 5,
+            "file": "rav2shd06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 6,
+            "file": "rav2shd07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 7,
+            "file": "rav2shd08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 8,
+            "file": "rav2shd09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 9,
+            "file": "rav2shd10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 10,
+            "file": "rav2shd11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 11,
+            "file": "rav2shd12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 12,
+            "file": "rav2shd13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 13,
+            "file": "rav2shd15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 14,
+            "file": "rav2shd17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 13,
+            "frame": 15,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 0,
+            "file": "rav2t78.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 1,
+            "file": "rav2shu01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 2,
+            "file": "rav2shu03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 3,
+            "file": "rav2shu04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 4,
+            "file": "rav2shu05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 5,
+            "file": "rav2shu06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 6,
+            "file": "rav2shu07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 7,
+            "file": "rav2shu08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 8,
+            "file": "rav2shu09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 9,
+            "file": "rav2shu10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 10,
+            "file": "rav2shu11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 11,
+            "file": "rav2shu12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 12,
+            "file": "rav2shu13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 13,
+            "file": "rav2shu14.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 14,
+            "file": "rav2shu15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 15,
+            "file": "rav2shu16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 14,
+            "frame": 16,
+            "file": "rav2t78.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 0,
+            "file": "rav2shs01.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 1,
+            "file": "rav2shs02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 2,
+            "file": "rav2shs03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 3,
+            "file": "rav2shs04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 4,
+            "file": "rav2shs05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 5,
+            "file": "rav2shs06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 6,
+            "file": "rav2shs07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 7,
+            "file": "rav2shs08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 8,
+            "file": "rav2shs09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 9,
+            "file": "rav2shs10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 10,
+            "file": "rav2shs11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 11,
+            "file": "rav2shs12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 15,
+            "frame": 12,
+            "file": "rav2shs13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 0,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 1,
+            "file": "rav2shd02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 2,
+            "file": "rav2shd03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 3,
+            "file": "rav2shd04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 4,
+            "file": "rav2shd05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 5,
+            "file": "rav2shd06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 6,
+            "file": "rav2shd07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 7,
+            "file": "rav2shd08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 8,
+            "file": "rav2shd09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 9,
+            "file": "rav2shd10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 10,
+            "file": "rav2shd11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 11,
+            "file": "rav2shd12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 12,
+            "file": "rav2shd13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 13,
+            "file": "rav2shd15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 14,
+            "file": "rav2shd17.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 16,
+            "frame": 15,
+            "file": "rav2t117.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 0,
+            "file": "rav2spe02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 1,
+            "file": "rav2spe03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 2,
+            "file": "rav2spe04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 3,
+            "file": "rav2spe05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 4,
+            "file": "rav2spe06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 5,
+            "file": "rav2spe07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 6,
+            "file": "rav2spe08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 7,
+            "file": "rav2spe09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 8,
+            "file": "rav2spe10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 9,
+            "file": "rav2spe11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 10,
+            "file": "rav2spe12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 11,
+            "file": "rav2spe13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 12,
+            "file": "rav2spe14.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 13,
+            "file": "rav2spe15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 14,
+            "file": "rav2spe16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 17,
+            "frame": 15,
+            "file": "rav2spe02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 0,
+            "file": "rav2spe02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 1,
+            "file": "rav2spe03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 2,
+            "file": "rav2spe04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 3,
+            "file": "rav2spe05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 4,
+            "file": "rav2spe06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 5,
+            "file": "rav2spe07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 6,
+            "file": "rav2spe08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 7,
+            "file": "rav2spe09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 8,
+            "file": "rav2spe10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 9,
+            "file": "rav2spe11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 10,
+            "file": "rav2spe12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 11,
+            "file": "rav2spe13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 12,
+            "file": "rav2spe14.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 13,
+            "file": "rav2spe15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 14,
+            "file": "rav2spe16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 18,
+            "frame": 15,
+            "file": "rav2spe02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 0,
+            "file": "rav2spe02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 1,
+            "file": "rav2spe03.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 2,
+            "file": "rav2spe04.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 3,
+            "file": "rav2spe05.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 4,
+            "file": "rav2spe06.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 5,
+            "file": "rav2spe07.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 6,
+            "file": "rav2spe08.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 7,
+            "file": "rav2spe09.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 8,
+            "file": "rav2spe10.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 9,
+            "file": "rav2spe11.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 10,
+            "file": "rav2spe12.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 11,
+            "file": "rav2spe13.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 12,
+            "file": "rav2spe14.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 13,
+            "file": "rav2spe15.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 14,
+            "file": "rav2spe16.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        },
+        {
+            "group": 19,
+            "frame": 15,
+            "file": "rav2spe02.png",
+            "generateShadow": 1,
+            "generateOverlay": 1
+        }
+    ],
+    "basepath": "swarm/battle/ravager2/"
 }

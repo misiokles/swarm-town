@@ -1,1085 +1,1085 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "kerfly10.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "kerfly11.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "kerfly12.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "kerfly13.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "kerfly14.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "kerfly15.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "kerfly16.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "kerfly17.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "kerfly18.png"
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "kerfly19.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 0,
-			"file" : "kermoo04.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 1,
-			"file" : "kermoo10.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 2,
-			"file" : "kermoo16.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 3,
-			"file" : "kermoo22.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 4,
-			"file" : "kermoo28.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 5,
-			"file" : "kermoo34.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 6,
-			"file" : "kermoo40.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 7,
-			"file" : "kermoo46.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 8,
-			"file" : "kermoo52.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 9,
-			"file" : "kermoo58.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 10,
-			"file" : "kermoo64.png"
-		},
-		{
-			"group" : 1,
-			"frame" : 11,
-			"file" : "kermoo68.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 0,
-			"file" : "kersta06.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 1,
-			"file" : "kersta06.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 2,
-			"file" : "kersta06.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 3,
-			"file" : "kersta07.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 4,
-			"file" : "kersta08.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 5,
-			"file" : "kersta09.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 6,
-			"file" : "kersta10.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 7,
-			"file" : "kersta11.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 8,
-			"file" : "kersta10.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 9,
-			"file" : "kersta09.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 10,
-			"file" : "kersta08.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 11,
-			"file" : "kersta07.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 12,
-			"file" : "kersta06.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 13,
-			"file" : "kersta06.png"
-		},
-		{
-			"group" : 2,
-			"frame" : 14,
-			"file" : "kersta06.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 0,
-			"file" : "kerhit51.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 1,
-			"file" : "kerhit50.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 2,
-			"file" : "kerhit49.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 3,
-			"file" : "kerhit48.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 4,
-			"file" : "kerhit46.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 5,
-			"file" : "kerhit48.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 6,
-			"file" : "kerhit49.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 7,
-			"file" : "kerhit50.png"
-		},
-		{
-			"group" : 3,
-			"frame" : 8,
-			"file" : "kerhit51.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 0,
-			"file" : "kerdef21.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 1,
-			"file" : "kerdef22.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 2,
-			"file" : "kerdef23.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 3,
-			"file" : "kerdef26.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 4,
-			"file" : "kerdef30.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 5,
-			"file" : "kerdef26.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 6,
-			"file" : "kerdef23.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 7,
-			"file" : "kerdef22.png"
-		},
-		{
-			"group" : 4,
-			"frame" : 8,
-			"file" : "kerdef21.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 0,
-			"file" : "kerdth10.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 1,
-			"file" : "kerdth11.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 2,
-			"file" : "kerdth12.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 3,
-			"file" : "kerdth14.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 4,
-			"file" : "kerdth15.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 5,
-			"file" : "kerdth16.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 6,
-			"file" : "kerdth17.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 7,
-			"file" : "kerdth18.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 8,
-			"file" : "kerdth20.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 9,
-			"file" : "kerdth22.png"
-		},
-		{
-			"group" : 5,
-			"frame" : 10,
-			"file" : "kerdth23.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 0,
-			"file" : "kerdth10.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 1,
-			"file" : "kerdth11.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 2,
-			"file" : "kerdth12.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 3,
-			"file" : "kerdth14.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 4,
-			"file" : "kerdth15.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 5,
-			"file" : "kerdth16.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 6,
-			"file" : "kerdth17.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 7,
-			"file" : "kerdth18.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 8,
-			"file" : "kerdth20.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 9,
-			"file" : "kerdth22.png"
-		},
-		{
-			"group" : 6,
-			"frame" : 10,
-			"file" : "kerdth23.png"
-		},
-		{
-			"group" : 7,
-			"frame" : 0,
-			"file" : "kert7.png"
-		},
-		{
-			"group" : 8,
-			"frame" : 0,
-			"file" : "kert7.png"
-		},
-		{
-			"group" : 9,
-			"frame" : 0,
-			"file" : "kert7.png"
-		},
-		{
-			"group" : 10,
-			"frame" : 0,
-			"file" : "kert7.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 0,
-			"file" : "kert11.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 1,
-			"file" : "kert19.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 2,
-			"file" : "keratu02.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 3,
-			"file" : "keratu08.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 4,
-			"file" : "keratu09.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 5,
-			"file" : "keratu10.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 6,
-			"file" : "keratu12.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 7,
-			"file" : "keratu14.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 8,
-			"file" : "keratu17.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 9,
-			"file" : "keratu19.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 10,
-			"file" : "keratu22.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 11,
-			"file" : "keratu24.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 12,
-			"file" : "kert19.png"
-		},
-		{
-			"group" : 11,
-			"frame" : 13,
-			"file" : "kert11.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 0,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 1,
-			"file" : "kerats05.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 2,
-			"file" : "kerats07.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 3,
-			"file" : "kerats08.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 4,
-			"file" : "kerats09.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 5,
-			"file" : "kerats11.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 6,
-			"file" : "kerats13.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 7,
-			"file" : "kerats16.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 8,
-			"file" : "kerats18.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 9,
-			"file" : "kerats20.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 10,
-			"file" : "kerats22.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 11,
-			"file" : "kerats24.png"
-		},
-		{
-			"group" : 12,
-			"frame" : 12,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 0,
-			"file" : "kert9.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 1,
-			"file" : "keratd07.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 2,
-			"file" : "keratd09.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 3,
-			"file" : "keratd10.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 4,
-			"file" : "keratd12.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 5,
-			"file" : "keratd14.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 6,
-			"file" : "keratd16.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 7,
-			"file" : "keratd19.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 8,
-			"file" : "keratd21.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 9,
-			"file" : "keratd23.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 10,
-			"file" : "keratd25.png"
-		},
-		{
-			"group" : 13,
-			"frame" : 11,
-			"file" : "kert9.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 0,
-			"file" : "kert13.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 1,
-			"file" : "kerspu08.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 2,
-			"file" : "kerspu09.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 3,
-			"file" : "kerspu10.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 4,
-			"file" : "kerspu11.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 5,
-			"file" : "kerspu13.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 6,
-			"file" : "kerspu16.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 7,
-			"file" : "kerspu17.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 8,
-			"file" : "kerspu18.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 9,
-			"file" : "kerspu19.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 10,
-			"file" : "kerspu20.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 11,
-			"file" : "kerspu21.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 12,
-			"file" : "kerspu22.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 13,
-			"file" : "kerspu24.png"
-		},
-		{
-			"group" : 30,
-			"frame" : 14,
-			"file" : "kert13.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 0,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 1,
-			"file" : "kersps07.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 2,
-			"file" : "kersps08.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 3,
-			"file" : "kersps09.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 4,
-			"file" : "kersps10.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 5,
-			"file" : "kersps11.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 6,
-			"file" : "kersps12.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 7,
-			"file" : "kersps13.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 8,
-			"file" : "kersps15.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 9,
-			"file" : "kersps17.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 10,
-			"file" : "kersps19.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 11,
-			"file" : "kersps21.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 12,
-			"file" : "kersps23.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 13,
-			"file" : "kersps25.png"
-		},
-		{
-			"group" : 31,
-			"frame" : 14,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 0,
-			"file" : "kert9.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 1,
-			"file" : "kerspd10.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 2,
-			"file" : "kerspd12.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 3,
-			"file" : "kerspd13.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 4,
-			"file" : "kerspd15.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 5,
-			"file" : "kerspd16.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 6,
-			"file" : "kerspd17.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 7,
-			"file" : "kerspd18.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 8,
-			"file" : "kerspd19.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 9,
-			"file" : "kerspd21.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 10,
-			"file" : "kerspd23.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 11,
-			"file" : "kerspd25.png"
-		},
-		{
-			"group" : 32,
-			"frame" : 12,
-			"file" : "kert9.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 0,
-			"file" : "kert11.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 1,
-			"file" : "kert19.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 2,
-			"file" : "ker2hu05.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 3,
-			"file" : "ker2hu07.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 4,
-			"file" : "ker2hu08.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 5,
-			"file" : "ker2hu09.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 6,
-			"file" : "ker2hu11.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 7,
-			"file" : "ker2hu13.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 8,
-			"file" : "ker2hu15.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 9,
-			"file" : "ker2hu18.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 10,
-			"file" : "ker2hu20.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 11,
-			"file" : "ker2hu22.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 12,
-			"file" : "ker2hu24.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 13,
-			"file" : "ker2hu27.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 14,
-			"file" : "ker2hu30.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 15,
-			"file" : "ker2hu34.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 16,
-			"file" : "kert19.png"
-		},
-		{
-			"group" : 40,
-			"frame" : 17,
-			"file" : "kert11.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 0,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 1,
-			"file" : "ker2hs08.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 2,
-			"file" : "ker2hs11.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 3,
-			"file" : "ker2hs12.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 4,
-			"file" : "ker2hs13.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 5,
-			"file" : "ker2hs15.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 6,
-			"file" : "ker2hs17.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 7,
-			"file" : "ker2hs18.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 8,
-			"file" : "ker2hs23.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 9,
-			"file" : "ker2hs26.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 10,
-			"file" : "ker2hs28.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 11,
-			"file" : "ker2hs31.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 12,
-			"file" : "ker2hs33.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 13,
-			"file" : "ker2hs36.png"
-		},
-		{
-			"group" : 41,
-			"frame" : 14,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 0,
-			"file" : "kert9.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 1,
-			"file" : "ker2hd06.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 2,
-			"file" : "ker2hd10.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 3,
-			"file" : "ker2hd11.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 4,
-			"file" : "ker2hd14.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 5,
-			"file" : "ker2hd16.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 6,
-			"file" : "ker2hd18.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 7,
-			"file" : "ker2hd21.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 8,
-			"file" : "ker2hd24.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 9,
-			"file" : "ker2hd27.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 10,
-			"file" : "ker2hd29.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 11,
-			"file" : "ker2hd31.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 12,
-			"file" : "ker2hd34.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 13,
-			"file" : "ker2hd40.png"
-		},
-		{
-			"group" : 42,
-			"frame" : 14,
-			"file" : "kert9.png"
-		},
-		{
-			"group" : 20,
-			"frame" : 0,
-			"file" : "kert3.png"
-		},
-		{
-			"group" : 20,
-			"frame" : 1,
-			"file" : "kerfly08.png"
-		},
-		{
-			"group" : 21,
-			"frame" : 0,
-			"file" : "kerfly31.png"
-		},
-		{
-			"group" : 21,
-			"frame" : 1,
-			"file" : "kerfly34.png"
-		},
-		{
-			"group" : 21,
-			"frame" : 2,
-			"file" : "kert3.png"
-		}
-	],
-	"basepath" : "swarm/battle/kerrigan2/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "kerfly10.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "kerfly11.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "kerfly12.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "kerfly13.png"
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "kerfly14.png"
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "kerfly15.png"
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "kerfly16.png"
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "kerfly17.png"
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "kerfly18.png"
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "kerfly19.png"
+        },
+        {
+            "group": 1,
+            "frame": 0,
+            "file": "kermoo04.png"
+        },
+        {
+            "group": 1,
+            "frame": 1,
+            "file": "kermoo10.png"
+        },
+        {
+            "group": 1,
+            "frame": 2,
+            "file": "kermoo16.png"
+        },
+        {
+            "group": 1,
+            "frame": 3,
+            "file": "kermoo22.png"
+        },
+        {
+            "group": 1,
+            "frame": 4,
+            "file": "kermoo28.png"
+        },
+        {
+            "group": 1,
+            "frame": 5,
+            "file": "kermoo34.png"
+        },
+        {
+            "group": 1,
+            "frame": 6,
+            "file": "kermoo40.png"
+        },
+        {
+            "group": 1,
+            "frame": 7,
+            "file": "kermoo46.png"
+        },
+        {
+            "group": 1,
+            "frame": 8,
+            "file": "kermoo52.png"
+        },
+        {
+            "group": 1,
+            "frame": 9,
+            "file": "kermoo58.png"
+        },
+        {
+            "group": 1,
+            "frame": 10,
+            "file": "kermoo64.png"
+        },
+        {
+            "group": 1,
+            "frame": 11,
+            "file": "kermoo68.png"
+        },
+        {
+            "group": 2,
+            "frame": 0,
+            "file": "kersta06.png"
+        },
+        {
+            "group": 2,
+            "frame": 1,
+            "file": "kersta06.png"
+        },
+        {
+            "group": 2,
+            "frame": 2,
+            "file": "kersta06.png"
+        },
+        {
+            "group": 2,
+            "frame": 3,
+            "file": "kersta07.png"
+        },
+        {
+            "group": 2,
+            "frame": 4,
+            "file": "kersta08.png"
+        },
+        {
+            "group": 2,
+            "frame": 5,
+            "file": "kersta09.png"
+        },
+        {
+            "group": 2,
+            "frame": 6,
+            "file": "kersta10.png"
+        },
+        {
+            "group": 2,
+            "frame": 7,
+            "file": "kersta11.png"
+        },
+        {
+            "group": 2,
+            "frame": 8,
+            "file": "kersta10.png"
+        },
+        {
+            "group": 2,
+            "frame": 9,
+            "file": "kersta09.png"
+        },
+        {
+            "group": 2,
+            "frame": 10,
+            "file": "kersta08.png"
+        },
+        {
+            "group": 2,
+            "frame": 11,
+            "file": "kersta07.png"
+        },
+        {
+            "group": 2,
+            "frame": 12,
+            "file": "kersta06.png"
+        },
+        {
+            "group": 2,
+            "frame": 13,
+            "file": "kersta06.png"
+        },
+        {
+            "group": 2,
+            "frame": 14,
+            "file": "kersta06.png"
+        },
+        {
+            "group": 3,
+            "frame": 0,
+            "file": "kerhit51.png"
+        },
+        {
+            "group": 3,
+            "frame": 1,
+            "file": "kerhit50.png"
+        },
+        {
+            "group": 3,
+            "frame": 2,
+            "file": "kerhit49.png"
+        },
+        {
+            "group": 3,
+            "frame": 3,
+            "file": "kerhit48.png"
+        },
+        {
+            "group": 3,
+            "frame": 4,
+            "file": "kerhit46.png"
+        },
+        {
+            "group": 3,
+            "frame": 5,
+            "file": "kerhit48.png"
+        },
+        {
+            "group": 3,
+            "frame": 6,
+            "file": "kerhit49.png"
+        },
+        {
+            "group": 3,
+            "frame": 7,
+            "file": "kerhit50.png"
+        },
+        {
+            "group": 3,
+            "frame": 8,
+            "file": "kerhit51.png"
+        },
+        {
+            "group": 4,
+            "frame": 0,
+            "file": "kerdef21.png"
+        },
+        {
+            "group": 4,
+            "frame": 1,
+            "file": "kerdef22.png"
+        },
+        {
+            "group": 4,
+            "frame": 2,
+            "file": "kerdef23.png"
+        },
+        {
+            "group": 4,
+            "frame": 3,
+            "file": "kerdef26.png"
+        },
+        {
+            "group": 4,
+            "frame": 4,
+            "file": "kerdef30.png"
+        },
+        {
+            "group": 4,
+            "frame": 5,
+            "file": "kerdef26.png"
+        },
+        {
+            "group": 4,
+            "frame": 6,
+            "file": "kerdef23.png"
+        },
+        {
+            "group": 4,
+            "frame": 7,
+            "file": "kerdef22.png"
+        },
+        {
+            "group": 4,
+            "frame": 8,
+            "file": "kerdef21.png"
+        },
+        {
+            "group": 5,
+            "frame": 0,
+            "file": "kerdth10.png"
+        },
+        {
+            "group": 5,
+            "frame": 1,
+            "file": "kerdth11.png"
+        },
+        {
+            "group": 5,
+            "frame": 2,
+            "file": "kerdth12.png"
+        },
+        {
+            "group": 5,
+            "frame": 3,
+            "file": "kerdth14.png"
+        },
+        {
+            "group": 5,
+            "frame": 4,
+            "file": "kerdth15.png"
+        },
+        {
+            "group": 5,
+            "frame": 5,
+            "file": "kerdth16.png"
+        },
+        {
+            "group": 5,
+            "frame": 6,
+            "file": "kerdth17.png"
+        },
+        {
+            "group": 5,
+            "frame": 7,
+            "file": "kerdth18.png"
+        },
+        {
+            "group": 5,
+            "frame": 8,
+            "file": "kerdth20.png"
+        },
+        {
+            "group": 5,
+            "frame": 9,
+            "file": "kerdth22.png"
+        },
+        {
+            "group": 5,
+            "frame": 10,
+            "file": "kerdth23.png"
+        },
+        {
+            "group": 6,
+            "frame": 0,
+            "file": "kerdth10.png"
+        },
+        {
+            "group": 6,
+            "frame": 1,
+            "file": "kerdth11.png"
+        },
+        {
+            "group": 6,
+            "frame": 2,
+            "file": "kerdth12.png"
+        },
+        {
+            "group": 6,
+            "frame": 3,
+            "file": "kerdth14.png"
+        },
+        {
+            "group": 6,
+            "frame": 4,
+            "file": "kerdth15.png"
+        },
+        {
+            "group": 6,
+            "frame": 5,
+            "file": "kerdth16.png"
+        },
+        {
+            "group": 6,
+            "frame": 6,
+            "file": "kerdth17.png"
+        },
+        {
+            "group": 6,
+            "frame": 7,
+            "file": "kerdth18.png"
+        },
+        {
+            "group": 6,
+            "frame": 8,
+            "file": "kerdth20.png"
+        },
+        {
+            "group": 6,
+            "frame": 9,
+            "file": "kerdth22.png"
+        },
+        {
+            "group": 6,
+            "frame": 10,
+            "file": "kerdth23.png"
+        },
+        {
+            "group": 7,
+            "frame": 0,
+            "file": "kert7.png"
+        },
+        {
+            "group": 8,
+            "frame": 0,
+            "file": "kert7.png"
+        },
+        {
+            "group": 9,
+            "frame": 0,
+            "file": "kert7.png"
+        },
+        {
+            "group": 10,
+            "frame": 0,
+            "file": "kert7.png"
+        },
+        {
+            "group": 11,
+            "frame": 0,
+            "file": "kert11.png"
+        },
+        {
+            "group": 11,
+            "frame": 1,
+            "file": "kert19.png"
+        },
+        {
+            "group": 11,
+            "frame": 2,
+            "file": "keratu02.png"
+        },
+        {
+            "group": 11,
+            "frame": 3,
+            "file": "keratu08.png"
+        },
+        {
+            "group": 11,
+            "frame": 4,
+            "file": "keratu09.png"
+        },
+        {
+            "group": 11,
+            "frame": 5,
+            "file": "keratu10.png"
+        },
+        {
+            "group": 11,
+            "frame": 6,
+            "file": "keratu12.png"
+        },
+        {
+            "group": 11,
+            "frame": 7,
+            "file": "keratu14.png"
+        },
+        {
+            "group": 11,
+            "frame": 8,
+            "file": "keratu17.png"
+        },
+        {
+            "group": 11,
+            "frame": 9,
+            "file": "keratu19.png"
+        },
+        {
+            "group": 11,
+            "frame": 10,
+            "file": "keratu22.png"
+        },
+        {
+            "group": 11,
+            "frame": 11,
+            "file": "keratu24.png"
+        },
+        {
+            "group": 11,
+            "frame": 12,
+            "file": "kert19.png"
+        },
+        {
+            "group": 11,
+            "frame": 13,
+            "file": "kert11.png"
+        },
+        {
+            "group": 12,
+            "frame": 0,
+            "file": "kert3.png"
+        },
+        {
+            "group": 12,
+            "frame": 1,
+            "file": "kerats05.png"
+        },
+        {
+            "group": 12,
+            "frame": 2,
+            "file": "kerats07.png"
+        },
+        {
+            "group": 12,
+            "frame": 3,
+            "file": "kerats08.png"
+        },
+        {
+            "group": 12,
+            "frame": 4,
+            "file": "kerats09.png"
+        },
+        {
+            "group": 12,
+            "frame": 5,
+            "file": "kerats11.png"
+        },
+        {
+            "group": 12,
+            "frame": 6,
+            "file": "kerats13.png"
+        },
+        {
+            "group": 12,
+            "frame": 7,
+            "file": "kerats16.png"
+        },
+        {
+            "group": 12,
+            "frame": 8,
+            "file": "kerats18.png"
+        },
+        {
+            "group": 12,
+            "frame": 9,
+            "file": "kerats20.png"
+        },
+        {
+            "group": 12,
+            "frame": 10,
+            "file": "kerats22.png"
+        },
+        {
+            "group": 12,
+            "frame": 11,
+            "file": "kerats24.png"
+        },
+        {
+            "group": 12,
+            "frame": 12,
+            "file": "kert3.png"
+        },
+        {
+            "group": 13,
+            "frame": 0,
+            "file": "kert9.png"
+        },
+        {
+            "group": 13,
+            "frame": 1,
+            "file": "keratd07.png"
+        },
+        {
+            "group": 13,
+            "frame": 2,
+            "file": "keratd09.png"
+        },
+        {
+            "group": 13,
+            "frame": 3,
+            "file": "keratd10.png"
+        },
+        {
+            "group": 13,
+            "frame": 4,
+            "file": "keratd12.png"
+        },
+        {
+            "group": 13,
+            "frame": 5,
+            "file": "keratd14.png"
+        },
+        {
+            "group": 13,
+            "frame": 6,
+            "file": "keratd16.png"
+        },
+        {
+            "group": 13,
+            "frame": 7,
+            "file": "keratd19.png"
+        },
+        {
+            "group": 13,
+            "frame": 8,
+            "file": "keratd21.png"
+        },
+        {
+            "group": 13,
+            "frame": 9,
+            "file": "keratd23.png"
+        },
+        {
+            "group": 13,
+            "frame": 10,
+            "file": "keratd25.png"
+        },
+        {
+            "group": 13,
+            "frame": 11,
+            "file": "kert9.png"
+        },
+        {
+            "group": 30,
+            "frame": 0,
+            "file": "kert13.png"
+        },
+        {
+            "group": 30,
+            "frame": 1,
+            "file": "kerspu08.png"
+        },
+        {
+            "group": 30,
+            "frame": 2,
+            "file": "kerspu09.png"
+        },
+        {
+            "group": 30,
+            "frame": 3,
+            "file": "kerspu10.png"
+        },
+        {
+            "group": 30,
+            "frame": 4,
+            "file": "kerspu11.png"
+        },
+        {
+            "group": 30,
+            "frame": 5,
+            "file": "kerspu13.png"
+        },
+        {
+            "group": 30,
+            "frame": 6,
+            "file": "kerspu16.png"
+        },
+        {
+            "group": 30,
+            "frame": 7,
+            "file": "kerspu17.png"
+        },
+        {
+            "group": 30,
+            "frame": 8,
+            "file": "kerspu18.png"
+        },
+        {
+            "group": 30,
+            "frame": 9,
+            "file": "kerspu19.png"
+        },
+        {
+            "group": 30,
+            "frame": 10,
+            "file": "kerspu20.png"
+        },
+        {
+            "group": 30,
+            "frame": 11,
+            "file": "kerspu21.png"
+        },
+        {
+            "group": 30,
+            "frame": 12,
+            "file": "kerspu22.png"
+        },
+        {
+            "group": 30,
+            "frame": 13,
+            "file": "kerspu24.png"
+        },
+        {
+            "group": 30,
+            "frame": 14,
+            "file": "kert13.png"
+        },
+        {
+            "group": 31,
+            "frame": 0,
+            "file": "kert3.png"
+        },
+        {
+            "group": 31,
+            "frame": 1,
+            "file": "kersps07.png"
+        },
+        {
+            "group": 31,
+            "frame": 2,
+            "file": "kersps08.png"
+        },
+        {
+            "group": 31,
+            "frame": 3,
+            "file": "kersps09.png"
+        },
+        {
+            "group": 31,
+            "frame": 4,
+            "file": "kersps10.png"
+        },
+        {
+            "group": 31,
+            "frame": 5,
+            "file": "kersps11.png"
+        },
+        {
+            "group": 31,
+            "frame": 6,
+            "file": "kersps12.png"
+        },
+        {
+            "group": 31,
+            "frame": 7,
+            "file": "kersps13.png"
+        },
+        {
+            "group": 31,
+            "frame": 8,
+            "file": "kersps15.png"
+        },
+        {
+            "group": 31,
+            "frame": 9,
+            "file": "kersps17.png"
+        },
+        {
+            "group": 31,
+            "frame": 10,
+            "file": "kersps19.png"
+        },
+        {
+            "group": 31,
+            "frame": 11,
+            "file": "kersps21.png"
+        },
+        {
+            "group": 31,
+            "frame": 12,
+            "file": "kersps23.png"
+        },
+        {
+            "group": 31,
+            "frame": 13,
+            "file": "kersps25.png"
+        },
+        {
+            "group": 31,
+            "frame": 14,
+            "file": "kert3.png"
+        },
+        {
+            "group": 32,
+            "frame": 0,
+            "file": "kert9.png"
+        },
+        {
+            "group": 32,
+            "frame": 1,
+            "file": "kerspd10.png"
+        },
+        {
+            "group": 32,
+            "frame": 2,
+            "file": "kerspd12.png"
+        },
+        {
+            "group": 32,
+            "frame": 3,
+            "file": "kerspd13.png"
+        },
+        {
+            "group": 32,
+            "frame": 4,
+            "file": "kerspd15.png"
+        },
+        {
+            "group": 32,
+            "frame": 5,
+            "file": "kerspd16.png"
+        },
+        {
+            "group": 32,
+            "frame": 6,
+            "file": "kerspd17.png"
+        },
+        {
+            "group": 32,
+            "frame": 7,
+            "file": "kerspd18.png"
+        },
+        {
+            "group": 32,
+            "frame": 8,
+            "file": "kerspd19.png"
+        },
+        {
+            "group": 32,
+            "frame": 9,
+            "file": "kerspd21.png"
+        },
+        {
+            "group": 32,
+            "frame": 10,
+            "file": "kerspd23.png"
+        },
+        {
+            "group": 32,
+            "frame": 11,
+            "file": "kerspd25.png"
+        },
+        {
+            "group": 32,
+            "frame": 12,
+            "file": "kert9.png"
+        },
+        {
+            "group": 40,
+            "frame": 0,
+            "file": "kert11.png"
+        },
+        {
+            "group": 40,
+            "frame": 1,
+            "file": "kert19.png"
+        },
+        {
+            "group": 40,
+            "frame": 2,
+            "file": "ker2hu05.png"
+        },
+        {
+            "group": 40,
+            "frame": 3,
+            "file": "ker2hu07.png"
+        },
+        {
+            "group": 40,
+            "frame": 4,
+            "file": "ker2hu08.png"
+        },
+        {
+            "group": 40,
+            "frame": 5,
+            "file": "ker2hu09.png"
+        },
+        {
+            "group": 40,
+            "frame": 6,
+            "file": "ker2hu11.png"
+        },
+        {
+            "group": 40,
+            "frame": 7,
+            "file": "ker2hu13.png"
+        },
+        {
+            "group": 40,
+            "frame": 8,
+            "file": "ker2hu15.png"
+        },
+        {
+            "group": 40,
+            "frame": 9,
+            "file": "ker2hu18.png"
+        },
+        {
+            "group": 40,
+            "frame": 10,
+            "file": "ker2hu20.png"
+        },
+        {
+            "group": 40,
+            "frame": 11,
+            "file": "ker2hu22.png"
+        },
+        {
+            "group": 40,
+            "frame": 12,
+            "file": "ker2hu24.png"
+        },
+        {
+            "group": 40,
+            "frame": 13,
+            "file": "ker2hu27.png"
+        },
+        {
+            "group": 40,
+            "frame": 14,
+            "file": "ker2hu30.png"
+        },
+        {
+            "group": 40,
+            "frame": 15,
+            "file": "ker2hu34.png"
+        },
+        {
+            "group": 40,
+            "frame": 16,
+            "file": "kert19.png"
+        },
+        {
+            "group": 40,
+            "frame": 17,
+            "file": "kert11.png"
+        },
+        {
+            "group": 41,
+            "frame": 0,
+            "file": "kert3.png"
+        },
+        {
+            "group": 41,
+            "frame": 1,
+            "file": "ker2hs08.png"
+        },
+        {
+            "group": 41,
+            "frame": 2,
+            "file": "ker2hs11.png"
+        },
+        {
+            "group": 41,
+            "frame": 3,
+            "file": "ker2hs12.png"
+        },
+        {
+            "group": 41,
+            "frame": 4,
+            "file": "ker2hs13.png"
+        },
+        {
+            "group": 41,
+            "frame": 5,
+            "file": "ker2hs15.png"
+        },
+        {
+            "group": 41,
+            "frame": 6,
+            "file": "ker2hs17.png"
+        },
+        {
+            "group": 41,
+            "frame": 7,
+            "file": "ker2hs18.png"
+        },
+        {
+            "group": 41,
+            "frame": 8,
+            "file": "ker2hs23.png"
+        },
+        {
+            "group": 41,
+            "frame": 9,
+            "file": "ker2hs26.png"
+        },
+        {
+            "group": 41,
+            "frame": 10,
+            "file": "ker2hs28.png"
+        },
+        {
+            "group": 41,
+            "frame": 11,
+            "file": "ker2hs31.png"
+        },
+        {
+            "group": 41,
+            "frame": 12,
+            "file": "ker2hs33.png"
+        },
+        {
+            "group": 41,
+            "frame": 13,
+            "file": "ker2hs36.png"
+        },
+        {
+            "group": 41,
+            "frame": 14,
+            "file": "kert3.png"
+        },
+        {
+            "group": 42,
+            "frame": 0,
+            "file": "kert9.png"
+        },
+        {
+            "group": 42,
+            "frame": 1,
+            "file": "ker2hd06.png"
+        },
+        {
+            "group": 42,
+            "frame": 2,
+            "file": "ker2hd10.png"
+        },
+        {
+            "group": 42,
+            "frame": 3,
+            "file": "ker2hd11.png"
+        },
+        {
+            "group": 42,
+            "frame": 4,
+            "file": "ker2hd14.png"
+        },
+        {
+            "group": 42,
+            "frame": 5,
+            "file": "ker2hd16.png"
+        },
+        {
+            "group": 42,
+            "frame": 6,
+            "file": "ker2hd18.png"
+        },
+        {
+            "group": 42,
+            "frame": 7,
+            "file": "ker2hd21.png"
+        },
+        {
+            "group": 42,
+            "frame": 8,
+            "file": "ker2hd24.png"
+        },
+        {
+            "group": 42,
+            "frame": 9,
+            "file": "ker2hd27.png"
+        },
+        {
+            "group": 42,
+            "frame": 10,
+            "file": "ker2hd29.png"
+        },
+        {
+            "group": 42,
+            "frame": 11,
+            "file": "ker2hd31.png"
+        },
+        {
+            "group": 42,
+            "frame": 12,
+            "file": "ker2hd34.png"
+        },
+        {
+            "group": 42,
+            "frame": 13,
+            "file": "ker2hd40.png"
+        },
+        {
+            "group": 42,
+            "frame": 14,
+            "file": "kert9.png"
+        },
+        {
+            "group": 20,
+            "frame": 0,
+            "file": "kert3.png"
+        },
+        {
+            "group": 20,
+            "frame": 1,
+            "file": "kerfly08.png"
+        },
+        {
+            "group": 21,
+            "frame": 0,
+            "file": "kerfly31.png"
+        },
+        {
+            "group": 21,
+            "frame": 1,
+            "file": "kerfly34.png"
+        },
+        {
+            "group": 21,
+            "frame": 2,
+            "file": "kert3.png"
+        }
+    ],
+    "basepath": "swarm/battle/kerrigan2/"
 }

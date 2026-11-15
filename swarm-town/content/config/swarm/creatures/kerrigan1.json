@@ -1,33 +1,35 @@
 {
-	"kerrigan1" : {
-		"name" : {
+	"kerrigan1":
+	{
+		"name" :
+		{
 			"plural" : "Queens of Blades",
 			"singular" : "Queen of Blades"
 		},
-		"advMapAmount" : {
+		"advMapAmount" :
+		{
 			"max" : 8,
 			"min" : 3
 		},
 		"faction" : "swarm",
 		"aiValue" : 6133,
 		"attack" : 21,
-		"cost" : {
+		"cost" :
+		{
 			"gold" : 2750,
 			"crystal" : 1
 		},
-		"damage" : {
+		"damage" :
+		{
 			"max" : 55,
 			"min" : 25
 		},
 		"defense" : 21,
 		"fightValue" : 6133,
-		"graphics" : {
+		"graphics" :
+		{
 			"animation" : "swarm/battle/kerrigan2",
-			"animationTime" : {
-				"attack" : 1,
-				"idle" : 10,
-				"walk" : 1
-			},
+			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
 			"map" : "swarm/map/kerrigan2mini.def",
 			"iconSmall" : "swarm/iconsSmall/kerrigan2s.png",
 			"iconLarge" : "swarm/iconsBig/kerrigan2l.png",
@@ -37,25 +39,28 @@
 		"growth" : 1,
 		"hitPoints" : 200,
 		"level" : 7,
-		"sound" : {
+		"sound" :
+		{
 			"attack" : "swarm/kerrigan_attack.wav",
 			"defend" : "swarm/kerrigan_defend.wav",
 			"killed" : "swarm/kerrigan_killed.wav",
-			"move" : "swarm/kerrigan_move.wav",
-			"wince" : "swarm/kerrigan_wince.wav"
+			"move" :   "swarm/kerrigan_move.wav",
+			"wince" :  "swarm/kerrigan_wince.wav"                     
 		},
 		"speed" : 15,
-		"abilities" : {
-			"flying" : {
+		"abilities" :
+		{
+		    "flying" :
+			{
 				"type" : "FLYING"
 			},
-			"twohexattackbreath" : {
+			"twohexattackbreath" :
+			{
 				"type" : "MULTIHEX_ENEMY_ATTACK",
-				"addInfo" : [
-					"FF"
-				]
+				"addInfo" : [ "FF" ]
 			},
-			"KING_1" : {
+			"KING_1" :
+			{
 				"type" : "KING",
 				"val" : 0
 			}

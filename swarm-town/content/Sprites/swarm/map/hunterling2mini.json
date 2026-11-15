@@ -1,173 +1,173 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "hunmap00.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "hunmap00.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "hunmap00.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "hunmap04.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "hunmap06.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "hunmap08.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "hunmap10.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "hunmap13.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "hunmap16.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "hunmap19.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 10,
-			"file" : "hunmap22.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 11,
-			"file" : "hunmap25.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 12,
-			"file" : "hunmap28.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 13,
-			"file" : "hunmap31.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 14,
-			"file" : "hunmap34.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 15,
-			"file" : "hunmap37.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 16,
-			"file" : "hunmap40.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 17,
-			"file" : "hunmap43.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 18,
-			"file" : "hunmap44.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 19,
-			"file" : "hunmap48.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 20,
-			"file" : "hunmap55.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 21,
-			"file" : "hunmap00.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 22,
-			"file" : "hunmap00.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 23,
-			"file" : "hunmap00.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		}
-	],
-	"basepath" : "swarm/map/hunterling2mini/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "hunmap00.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "hunmap00.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "hunmap00.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "hunmap04.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "hunmap06.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "hunmap08.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "hunmap10.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "hunmap13.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "hunmap16.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "hunmap19.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "hunmap22.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 11,
+            "file": "hunmap25.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 12,
+            "file": "hunmap28.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 13,
+            "file": "hunmap31.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 14,
+            "file": "hunmap34.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 15,
+            "file": "hunmap37.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 16,
+            "file": "hunmap40.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 17,
+            "file": "hunmap43.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 18,
+            "file": "hunmap44.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 19,
+            "file": "hunmap48.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 20,
+            "file": "hunmap55.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 21,
+            "file": "hunmap00.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 22,
+            "file": "hunmap00.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 23,
+            "file": "hunmap00.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        }
+    ],
+    "basepath": "swarm/map/hunterling2mini/"
 }

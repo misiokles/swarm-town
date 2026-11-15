@@ -1,62 +1,41 @@
 {
-	"tister" : {
+	"tister" : 
+	{
 		"class" : "queen",
 		"female" : true,
-		"texts" : {
+                 "texts" :
+		{
 			"name" : "Tister",
 			"biography" : "tister nie chce wyjawic nikomu swojego pochodzenia. Planuje odtworzyc system bram Starozytnych. Jest jedna z niewielu osob, ktore znaly Kastore'a przed jego ekspansja na Antadarich i byc moze jedyna, ktora moze go powstrzymac.",
-			"specialty" : {
+			"specialty" : 
+			{
 				"description" : "Hero can cast the Resurrection spell with increased effectiveness",
 				"tooltip" : "Spell Bonus: Resurrection",
 				"name" : "Resurrection"
 			}
 		},
 
-		"images" : {
+		"images" :
+		{
 			"specialtySmall" : "swarm/heroes/tister/spec-small.png",
 			"specialtyLarge" : "swarm/heroes/tister/spec-large.png",
 			"large" : "swarm/heroes/tister/portrait-large.png",
 			"small" : "swarm/heroes/tister/portrait-small.png"
 		},
-		"spellbook" : [
-			"resurrection"
+       "spellbook": [ "resurrection" ],
+		"army" :
+		[
+			{ "creature" : "zergling1", "min" : 10, "max" : 15 },
+			{ "creature" : "roach1", "min" : 6, "max" : 9 },
+			{ "creature" : "hydralisk1", "min" : 4, "max" : 6}
 		],
-		"army" : [
-			{
-				"creature" : "zergling1",
-				"min" : 10,
-				"max" : 15
-			},
-			{
-				"creature" : "roach1",
-				"min" : 6,
-				"max" : 9
-			},
-			{
-				"creature" : "hydralisk1",
-				"min" : 4,
-				"max" : 6
-			}
-		],
-		"skills" : [
-			{
-				"skill" : "wisdom",
-				"level" : "basic"
-			},
-			{
-				"skill" : "scholar",
-				"level" : "basic"
-			}
+		"skills":
+		[
+			{ "skill" : "wisdom", "level": "basic" },
+			{ "skill" : "scholar", "level": "basic" }
 		],
 		"specialty" : {
-			"bonuses" : {
-				"resurrection" : {
-					"subtype" : "spell.resurrection",
-					"type" : "SPECIAL_SPELL_LEV",
-					"updater" : "TIMES_HERO_LEVEL",
-					"val" : 3
-				}
-			}
+			"spellScalingPercentage" : "resurrection"
 		}
 	}
 }

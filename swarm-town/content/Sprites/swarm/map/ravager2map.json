@@ -1,187 +1,187 @@
 {
-	"images" : [
-		{
-			"group" : 0,
-			"frame" : 0,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 1,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 2,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 3,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 4,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 5,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 6,
-			"file" : "rav2map10.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 7,
-			"file" : "rav2map13.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 8,
-			"file" : "rav2map16.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 9,
-			"file" : "rav2map19.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 10,
-			"file" : "rav2map22.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 11,
-			"file" : "rav2map25.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 12,
-			"file" : "rav2map28.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 13,
-			"file" : "rav2map31.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 14,
-			"file" : "rav2map33.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 15,
-			"file" : "rav2map44.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 16,
-			"file" : "rav2map47.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 17,
-			"file" : "rav2map50.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 18,
-			"file" : "rav2map53.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 19,
-			"file" : "rav2map56.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 20,
-			"file" : "rav2map59.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 21,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 22,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 23,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 24,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		},
-		{
-			"group" : 0,
-			"frame" : 25,
-			"file" : "rav2map03.png",
-			"generateShadow" : 2,
-			"generateOverlay" : 1
-		}
-	],
-	"basepath" : "swarm/map/ravager2map/"
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "rav2map10.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "rav2map13.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "rav2map16.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "rav2map19.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "rav2map22.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 11,
+            "file": "rav2map25.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 12,
+            "file": "rav2map28.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 13,
+            "file": "rav2map31.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 14,
+            "file": "rav2map33.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 15,
+            "file": "rav2map44.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 16,
+            "file": "rav2map47.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 17,
+            "file": "rav2map50.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 18,
+            "file": "rav2map53.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 19,
+            "file": "rav2map56.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 20,
+            "file": "rav2map59.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 21,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 22,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 23,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 24,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        },
+        {
+            "group": 0,
+            "frame": 25,
+            "file": "rav2map03.png",
+            "generateShadow": 2,
+            "generateOverlay": 1
+        }
+    ],
+    "basepath": "swarm/map/ravager2map/"
 }

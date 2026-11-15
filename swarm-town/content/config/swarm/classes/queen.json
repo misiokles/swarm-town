@@ -1,82 +1,84 @@
 {
-	"queen" : {
+	"queen" :
+	{
 		"name" : "Queen",
-		"animation" : {
-			"battle" : {
+		"animation" :
+		{
+			"battle" : 
+			{
 				"female" : "swarm/CH07.def",
-				"male" : "swarm/CH07.def"
+				"male"   : "swarm/CH07.def"
 			}
-		},
-		"mapObject" : {
-			"templates" : {
-				"default" : {
-					"animation" : "swarm/AH07_.def"
-				}
-			}
-		},
-		"commander" : "zergling1",
+		},		
+		"mapObject" : { "templates" : { "default" : { "animation" : "swarm/AH07_.def" }}},
+		"commander" : "zergling1",		
 		"faction" : "swarm",
 		"affinity" : "magic",
-		"primarySkills" : {
-			"attack" : 0,
-			"defence" : 1,
+		"primarySkills" :
+		{
+			"attack"     : 0,
+			"defence"    : 1,
 			"spellpower" : 2,
-			"knowledge" : 2
+			"knowledge"  : 2
 		},
-		"lowLevelChance" : {
-			"attack" : 25,
-			"defence" : 25,
+		"lowLevelChance" :
+		{
+			"attack"     : 25,
+			"defence"    : 25,
 			"spellpower" : 30,
-			"knowledge" : 20
+			"knowledge"  : 20
 		},
-		"highLevelChance" : {
-			"attack" : 25,
-			"defence" : 25,
+		"highLevelChance" :
+		{
+			"attack"     : 25,
+			"defence"    : 25,
 			"spellpower" : 25,
-			"knowledge" : 25
+			"knowledge"  : 25
 		},
-		"secondarySkills" : {
-			"pathfinding" : 2,
-			"archery" : 3,
-			"logistics" : 3,
-			"scouting" : 2,
-			"diplomacy" : 2,
-			"navigation" : 6,
-			"leadership" : 1,
-			"wisdom" : 8,
-			"mysticism" : 8,
-			"luck" : 4,
-			"ballistics" : 8,
-			"eagleEye" : 10,
-			"necromancy" : 0,
-			"estates" : 1,
-			"fireMagic" : 0,
-			"airMagic" : 1,
-			"waterMagic" : 2,
-			"earthMagic" : 3,
-			"scholar" : 7,
-			"tactics" : 1,
-			"artillery" : 1,
-			"learning" : 4,
-			"offence" : 2,
-			"armorer" : 4,
+		"secondarySkills" :
+		{
+			"pathfinding"  : 2,
+			"archery"      : 3,
+			"logistics"    : 3,
+			"scouting"     : 2,
+			"diplomacy"    : 2,
+			"navigation"   : 6,
+			"leadership"   : 1,
+			"wisdom"       : 8,
+			"mysticism"    : 8,
+			"luck"         : 4,
+			"ballistics"   : 8,
+			"eagleEye"     : 10,
+			"necromancy"   : 0,
+			"estates"      : 1,
+			"fireMagic"    : 0,
+			"airMagic"     : 1,
+			"waterMagic"   : 2,
+			"earthMagic"   : 3,
+			"scholar"      : 7,
+			"tactics"      : 1,
+			"artillery"    : 1,
+			"learning"     : 4,
+			"offence"      : 2,
+			"armorer"      : 4,
 			"intelligence" : 7,
-			"sorcery" : 8,
-			"resistance" : 0,
-			"firstAid" : 8
+			"sorcery"      : 8,
+			"resistance"   : 0,
+			"firstAid"     : 8
 		},
 		"defaultTavern" : 5,
-		"tavern" : {
-			"castle" : 4,
-			"rampart" : 4,
-			"tower" : 4,
-			"inferno" : 4,
+		"tavern" :
+		{
+			"castle"     : 4,
+			"rampart"    : 4,
+			"tower"      : 4,
+			"inferno"    : 4,
 			"necropolis" : 4,
-			"dungeon" : 4,
+			"dungeon"    : 4,
 			"stronghold" : 4,
-			"fortress" : 4,
-			"conflux" : 4,
-			"swarm" : 4
+			"fortress"   : 4,
+			"conflux"    : 4,
+			"swarm"   : 4
 		}
 	}
 }
