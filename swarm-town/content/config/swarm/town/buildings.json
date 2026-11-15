@@ -236,7 +236,7 @@
 				"grail" :
 				{
 					"description" : "Chrysalis Increases the weekly number of creatures spawned by 100%, adds 5000 gold per day, and increases the attack of each hero by +10.",
-					"name" : "Chrysalis"
+					"name" : "Chrysalis",
 				    "bonuses" : [
 						{
 							"type" : "CREATURE_GROWTH_PERCENT",
