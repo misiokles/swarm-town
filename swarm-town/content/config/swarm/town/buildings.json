@@ -240,7 +240,7 @@
 				    "bonuses" : [
 						{
 							"type" : "CREATURE_GROWTH_PERCENT",
-				            "val" : 50
+				            "val" : 50,
 							"propagator" : "PLAYER"
 						},
 						{
