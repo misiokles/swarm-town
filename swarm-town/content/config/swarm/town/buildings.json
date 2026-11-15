@@ -211,7 +211,7 @@
 					"cost" :
 					{
 						"gold" : 1000
-					}
+					},
 					"requires" : [ "horde1" ]
 				},
                 "special3" :
